@@ -31,4 +31,4 @@ jobs:
           git config user.email "noticias-bot@users.noreply.github.com"
           git add docs
           git commit -m "Noticias $(date +%F)" || echo "Sin cambios"
-          git push
+                    git pull --rebase origin main && git push
