@@ -1,0 +1,89 @@
+# Fuentes que revisa el script. Editá libremente: agregá, sacá o cambiá URLs.
+# tipo: rss   -> feed RSS/Atom
+#       html  -> página cuyos enlaces se leen (útil para sitios oficiales sin RSS)
+#       gnews -> búsqueda en Google News (q admite site:, OR, comillas)
+# categoria: oficial | local | nacional  (define el peso en el ranking)
+# solo_mendoza: true  -> sólo se aceptan notas que mencionen Mendoza/Cuyo
+
+fuentes:
+  # ---------- Medios locales ----------
+  - nombre: Los Andes
+    tipo: rss
+    url: https://www.losandes.com.ar/arc/outboundfeeds/rss/?outputType=xml
+    categoria: local
+  - nombre: Los Andes (GN)
+    tipo: gnews
+    q: "site:losandes.com.ar economía OR empleo OR inflación OR exportaciones"
+    categoria: local
+  - nombre: MDZ
+    tipo: gnews
+    q: "site:mdzol.com economía OR empleo OR inflación OR inversión"
+    categoria: local
+  - nombre: Diario Uno
+    tipo: gnews
+    q: "site:diariouno.com.ar economía OR empleo OR inflación OR inversión"
+    categoria: local
+  - nombre: El Sol
+    tipo: gnews
+    q: "site:elsol.com.ar economía OR empleo OR inflación"
+    categoria: local
+  - nombre: Unidiversidad
+    tipo: gnews
+    q: "site:unidiversidad.com.ar economía"
+    categoria: local
+  - nombre: Prensa Gobierno de Mendoza
+    tipo: rss
+    url: https://www.mendoza.gov.ar/prensa/feed/
+    categoria: oficial
+
+  # ---------- Medios nacionales (sólo si mencionan Mendoza/Cuyo) ----------
+  - nombre: Ámbito
+    tipo: rss
+    url: https://www.ambito.com/rss/pages/economia.xml
+    categoria: nacional
+    solo_mendoza: true
+  - nombre: Infobae
+    tipo: rss
+    url: https://www.infobae.com/arc/outboundfeeds/rss/category/economia/
+    categoria: nacional
+    solo_mendoza: true
+  - nombre: La Nación
+    tipo: rss
+    url: https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/economia/
+    categoria: nacional
+    solo_mendoza: true
+  - nombre: Google News Mendoza economía
+    tipo: gnews
+    q: "Mendoza economía"
+    categoria: nacional
+    solo_mendoza: true
+
+  # ---------- Organismos oficiales ----------
+  - nombre: DEIE Mendoza
+    tipo: html
+    url: https://deie.mendoza.gov.ar/
+    categoria: oficial
+  - nombre: DEIE (GN)
+    tipo: gnews
+    q: "DEIE Mendoza"
+    categoria: oficial
+  - nombre: INDEC
+    tipo: html
+    url: https://www.indec.gob.ar/
+    categoria: oficial
+  - nombre: INDEC Cuyo (GN)
+    tipo: gnews
+    q: "INDEC Mendoza OR Cuyo"
+    categoria: oficial
+  - nombre: BCRA
+    tipo: html
+    url: https://www.bcra.gob.ar/Noticias/Noticias.asp
+    categoria: oficial
+  - nombre: Capital Humano (empleo)
+    tipo: html
+    url: https://www.argentina.gob.ar/capital-humano/noticias
+    categoria: oficial
+  - nombre: Empleo/SIPA Mendoza (GN)
+    tipo: gnews
+    q: "Mendoza empleo registrado OR SIPA OR desempleo"
+    categoria: oficial
