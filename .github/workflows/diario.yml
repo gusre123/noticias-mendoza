@@ -2,7 +2,7 @@ name: Noticias económicas Mendoza
 
 on:
   schedule:
-    - cron: "37 9, 19 * * *"
+    - cron: "37 9, 15, 21 * * *"
   workflow_dispatch:
 
 permissions:
