@@ -1,4 +1,4 @@
-"""Top 5 noticias económicas de Mendoza, una vez por día.
+"""Top 5 noticias económicas de Mendoza y Top 5 de Argentina.
 
 Corre solo (GitHub Actions). Sin dependencia de Claude.
 Si existe la variable ANTHROPIC_API_KEY, usa un LLM para afinar el ranking
@@ -53,6 +53,8 @@ ECONOMIA = {
     "bodega": 2, "fruticola": 2, "agro": 1, "cosecha": 2, "mineria": 3, "cobre": 2,
     "petroleo": 2, "hidrocarburo": 2, "energia": 1, "tarifa": 2, "tasa": 1,
     "dolar": 1, "credito": 2, "banco central": 2, "bcra": 2, "pymes": 2, "pyme": 2,
+    "riesgo pais": 2, "reservas": 2, "tipo de cambio": 2, "fiscal": 2, "deficit": 2,
+    "superavit": 2, "fmi": 2, "bonos": 1, "licitacion": 1, "jubilacion": 1,
     "economia": 1, "indec": 2, "censo": 1, "patentamiento": 2, "escrituras": 2,
 }
 
@@ -140,6 +142,7 @@ def recolectar(fuentes: list[dict], vistos_previos: set[str]) -> tuple[list[dict
                 it["medio"] = it["medio"] or f["nombre"]
                 it["categoria"] = f.get("categoria", "nacional")
                 it["solo_mendoza"] = f.get("solo_mendoza", False)
+                it["alcance"] = f.get("alcance", "mendoza")
                 notas.append(it)
                 n += 1
             estado.append({"fuente": f["nombre"], "ok": True, "notas": n})
@@ -167,15 +170,18 @@ def agrupar(notas: list[dict]) -> list[dict]:
             inter = len(tk & g["tokens"]) / max(1, min(len(tk), len(g["tokens"])))
             if inter >= 0.6 or n["url"] == g["nota"]["url"]:
                 g["medios"].add(n["medio"])
+                g["nacional"] |= n["alcance"] == "nacional"
                 if PESO_CATEGORIA[n["categoria"]] > PESO_CATEGORIA[g["nota"]["categoria"]]:
                     g["nota"] = n
                 break
         else:
-            grupos.append({"nota": n, "tokens": tk, "medios": {n["medio"]}})
+            grupos.append({"nota": n, "tokens": tk, "medios": {n["medio"]},
+                           "nacional": n["alcance"] == "nacional"})
     return grupos
 
 
-def calificar(grupos: list[dict]) -> list[dict]:
+def calificar(grupos: list[dict], modo: str = "mendoza") -> list[dict]:
+    """modo 'mendoza': relevancia provincial. modo 'argentina': economía nacional."""
     salida = []
     for g in grupos:
         n = g["nota"]
@@ -183,41 +189,57 @@ def calificar(grupos: list[dict]) -> list[dict]:
         pm, pe = puntaje(MENDOZA, texto), puntaje(ECONOMIA, texto)
         if pe == 0:
             continue
-        if pm == 0 and (n["solo_mendoza"] or n["categoria"] == "nacional"):
+        if modo == "mendoza" and pm == 0 and (n["solo_mendoza"] or n["categoria"] == "nacional"
+                                              or n["alcance"] == "nacional"):
+            continue
+        if modo == "argentina" and not g["nacional"]:
             continue
         horas = max(0.0, (AHORA - n["fecha"]).total_seconds() / 3600)
         frescura = max(0.3, 1 - horas / (VENTANA_HORAS * 1.2))
-        cobertura = 1 + 0.25 * (len(g["medios"]) - 1)
-        score = (pe + 1.5 * min(pm, 6)) * PESO_CATEGORIA[n["categoria"]] * frescura * cobertura
+        if modo == "mendoza":
+            cobertura = 1 + 0.25 * (len(g["medios"]) - 1)
+            base = pe + 1.5 * min(pm, 6)
+        else:  # en lo nacional pesa más que varios medios cubran el tema
+            cobertura = 1 + 0.4 * (len(g["medios"]) - 1)
+            base = min(pe, 12)
+        score = base * PESO_CATEGORIA[n["categoria"]] * frescura * cobertura
         salida.append({**n, "score": round(score, 2), "medios": sorted(g["medios"]),
                        "fecha": n["fecha"].isoformat()})
     salida.sort(key=lambda x: x["score"], reverse=True)
     return salida
 
 
-def elegir_top(candidatas: list[dict]) -> list[dict]:
+def elegir_top(candidatas: list[dict], max_por_fuente: int = MAX_POR_FUENTE) -> list[dict]:
     top, por_fuente = [], {}
     for c in candidatas:
-        if por_fuente.get(c["fuente"], 0) >= MAX_POR_FUENTE:
+        if por_fuente.get(c["fuente"], 0) >= max_por_fuente:
             continue
         top.append(c)
         por_fuente[c["fuente"]] = por_fuente.get(c["fuente"], 0) + 1
         if len(top) == TOP_N:
             break
+    for c in candidatas:  # si el tope por fuente dejó lugares vacíos, se completan
+        if len(top) >= TOP_N:
+            break
+        if c not in top:
+            top.append(c)
     return top
 
 
-def rankear_con_llm(candidatas: list[dict]) -> list[dict] | None:
+def rankear_con_llm(candidatas: list[dict], modo: str = "mendoza") -> list[dict] | None:
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key or not candidatas:
         return None
     lista = "\n".join(f"[{i}] ({c['medio']}, {c['categoria']}) {c['titulo']} — {c['resumen'][:200]}"
                       for i, c in enumerate(candidatas[:30]))
+    foco = ("para la economía de Mendoza (priorizá datos oficiales, empleo, precios, actividad, "
+            "inversión, sectores productivos provinciales" if modo == "mendoza" else
+            "para la economía argentina (priorizá datos oficiales, inflación, actividad, empleo, "
+            "política monetaria y cambiaria, fiscal, deuda, reservas")
     prompt = (
         "Sos un economista que arma un resumen diario para un analista de Mendoza, Argentina. "
-        f"De estas notas, elegí las {TOP_N} noticias económicas más relevantes para la economía "
-        "de Mendoza (priorizá datos oficiales, empleo, precios, actividad, inversión, sectores "
-        "productivos provinciales; evitá duplicados y notas de color). "
+        f"De estas notas, elegí las {TOP_N} noticias económicas más relevantes {foco}; "
+        "evitá duplicados y notas de color). "
         'Respondé SOLO con JSON: [{"i": <índice>, "resumen": "<una oración neutral>"}]\n\n' + lista
     )
     try:
@@ -244,8 +266,7 @@ def rankear_con_llm(candidatas: list[dict]) -> list[dict] | None:
 
 
 # ---------------------------------------------------------------- salida
-def render(top: list[dict], estado: list[dict], metodo: str, archivo: list[str]) -> str:
-    fecha_txt = AHORA.strftime("%d/%m/%Y")
+def tarjetas_html(top: list[dict]) -> str:
     tarjetas = ""
     for i, n in enumerate(top, 1):
         resumen = n.get("resumen_llm") or n["resumen"][:240]
@@ -261,21 +282,25 @@ def render(top: list[dict], estado: list[dict], metodo: str, archivo: list[str])
           <small>{html.escape(', '.join(n['medios']))} · {f} · {n['categoria']}</small>
         </div>
       </article>"""
-    if not top:
-        tarjetas = "<p>No se encontraron noticias que cumplan los criterios hoy.</p>"
+    return tarjetas or "<p>No se encontraron noticias que cumplan los criterios hoy.</p>"
+
+
+def render(top_mza: list[dict], top_arg: list[dict], estado: list[dict], metodo: str,
+           archivo: list[str]) -> str:
+    fecha_txt = AHORA.strftime("%d/%m/%Y")
     filas = "".join(
         f"<li class='{'ok' if s['ok'] else 'err'}'>{html.escape(s['fuente'])}: "
         f"{s['notas'] if s['ok'] else html.escape(s['error'])}</li>" for s in estado)
     links = "".join(f"<a href='archivo/{d}.html'>{d}</a> " for d in archivo[:30])
     return f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Economía Mendoza {fecha_txt}</title>
+<title>Economía Mendoza y Argentina {fecha_txt}</title>
 <style>
 :root{{--bg:#fbfaf7;--fg:#1d1d1b;--mut:#6b6a66;--acc:#7a1f2b;--card:#fff;--line:#e6e3dc}}
 @media (prefers-color-scheme:dark){{:root{{--bg:#151514;--fg:#ecebe7;--mut:#a3a19b;--acc:#e0788a;--card:#1f1f1d;--line:#33322f}}}}
 body{{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 Georgia,serif}}
 main{{max-width:760px;margin:0 auto;padding:32px 16px}}
-h1{{font-size:1.6rem;margin:0}} .sub{{color:var(--mut);margin:4px 0 28px;font-family:system-ui,sans-serif;font-size:.85rem}}
+h1{{font-size:1.6rem;margin:0}} h2{{font-size:1.25rem;margin:32px 0 12px;color:var(--acc)}} .sub{{color:var(--mut);margin:4px 0 28px;font-family:system-ui,sans-serif;font-size:.85rem}}
 article{{display:flex;gap:16px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:12px}}
 .num{{font-size:1.8rem;color:var(--acc);font-weight:700;min-width:28px}}
 article a{{color:var(--fg);font-weight:700;text-decoration:none;font-size:1.05rem}} article a:hover{{color:var(--acc)}}
@@ -283,9 +308,12 @@ article p{{margin:6px 0}} small{{color:var(--mut);font-family:system-ui,sans-ser
 details{{margin-top:28px;font-family:system-ui,sans-serif;font-size:.8rem;color:var(--mut)}}
 .err{{color:#c0392b}} .arch a{{color:var(--acc);margin-right:8px}}
 </style></head><body><main>
-<h1>Top {TOP_N} · Economía de Mendoza</h1>
+<h1>Noticias económicas del día</h1>
 <p class="sub">{fecha_txt} · actualizado {AHORA.strftime('%H:%M')} · ranking: {metodo}</p>
-{tarjetas}
+<h2>Top {TOP_N} · Mendoza</h2>
+{tarjetas_html(top_mza)}
+<h2>Top {TOP_N} · Argentina</h2>
+{tarjetas_html(top_arg)}
 <details><summary>Estado de las fuentes</summary><ul>{filas}</ul></details>
 <details><summary>Días anteriores</summary><p class="arch">{links}</p></details>
 </main></body></html>"""
@@ -297,7 +325,7 @@ def enviar_mail(cuerpo_html: str) -> None:
     if not all((host, user, pwd, dest)):
         return
     msg = MIMEText(cuerpo_html, "html", "utf-8")
-    msg["Subject"] = f"Economía Mendoza – {AHORA:%d/%m/%Y}"
+    msg["Subject"] = f"Economía Mendoza y Argentina – {AHORA:%d/%m/%Y}"
     msg["From"], msg["To"] = user, dest
     with smtplib.SMTP_SSL(host, int(os.environ.get("SMTP_PORT", 465))) as s:
         s.login(user, pwd)
@@ -310,31 +338,39 @@ def main() -> None:
     vistos = set(json.loads(vistos_path.read_text())) if vistos_path.exists() else set()
 
     notas, estado = recolectar(fuentes, vistos)
-    candidatas = calificar(agrupar(notas))
-    top = rankear_con_llm(candidatas)
+    grupos = agrupar(notas)
+    candidatas = calificar(grupos, "mendoza")
+    top = rankear_con_llm(candidatas, "mendoza")
     metodo = "LLM" if top else "palabras clave"
     top = top or elegir_top(candidatas)
+
+    ya = {n["url"] for n in top}
+    cand_arg = [c for c in calificar(grupos, "argentina") if c["url"] not in ya]
+    top_arg = rankear_con_llm(cand_arg, "argentina") or elegir_top(cand_arg, 3)
 
     hoy = AHORA.strftime("%Y-%m-%d")
     (DOCS / "archivo").mkdir(parents=True, exist_ok=True)
     (DOCS / "data").mkdir(parents=True, exist_ok=True)
     (DOCS / "data" / f"{hoy}.json").write_text(
-        json.dumps({"top": top, "estado": estado, "candidatas": candidatas[:40]},
+        json.dumps({"top_mendoza": top, "top_argentina": top_arg, "estado": estado,
+                    "candidatas_mendoza": candidatas[:40], "candidatas_argentina": cand_arg[:40]},
                    ensure_ascii=False, indent=1, default=str), encoding="utf-8")
     vistos |= {n["url"] for n in notas}
     vistos_path.write_text(json.dumps(sorted(vistos)[-5000:]))
 
     archivo = sorted((p.stem for p in (DOCS / "archivo").glob("*.html")), reverse=True)
     archivo = [hoy] + [d for d in archivo if d != hoy]
-    pagina = render(top, estado, metodo, archivo)
+    pagina = render(top, top_arg, estado, metodo, archivo)
     (DOCS / "archivo" / f"{hoy}.html").write_text(pagina.replace("href='archivo/", "href='"),
                                                   encoding="utf-8")
     (DOCS / "index.html").write_text(pagina, encoding="utf-8")
     enviar_mail(pagina)
 
-    print(f"{len(notas)} notas, {len(candidatas)} candidatas, método {metodo}")
-    for n in top:
-        print(f"- [{n['score']}] {n['titulo']} ({n['medio']})")
+    print(f"{len(notas)} notas, método {metodo}")
+    for nombre, lista in (("MENDOZA", top), ("ARGENTINA", top_arg)):
+        print(nombre)
+        for n in lista:
+            print(f"- [{n['score']}] {n['titulo']} ({n['medio']})")
 
 
 if __name__ == "__main__":

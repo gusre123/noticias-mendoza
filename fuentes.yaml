@@ -3,7 +3,8 @@
 #       html  -> página cuyos enlaces se leen (útil para sitios oficiales sin RSS)
 #       gnews -> búsqueda en Google News (q admite site:, OR, comillas)
 # categoria: oficial | local | nacional  (define el peso en el ranking)
-# solo_mendoza: true  -> sólo se aceptan notas que mencionen Mendoza/Cuyo
+# solo_mendoza: true  -> en el ranking de Mendoza sólo entran si mencionan Mendoza/Cuyo
+# alcance: nacional   -> la fuente también alimenta el Top 5 de Argentina
 
 fuentes:
   # ---------- Medios locales ----------
@@ -36,22 +37,49 @@ fuentes:
     url: https://www.mendoza.gov.ar/prensa/feed/
     categoria: oficial
 
-  # ---------- Medios nacionales (sólo si mencionan Mendoza/Cuyo) ----------
+  # ---------- Medios nacionales (Top Argentina; para Mendoza sólo si la mencionan) ----------
   - nombre: Ámbito
     tipo: rss
     url: https://www.ambito.com/rss/pages/economia.xml
     categoria: nacional
     solo_mendoza: true
+    alcance: nacional
   - nombre: Infobae
     tipo: rss
     url: https://www.infobae.com/arc/outboundfeeds/rss/category/economia/
     categoria: nacional
     solo_mendoza: true
+    alcance: nacional
   - nombre: La Nación
     tipo: rss
     url: https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/economia/
     categoria: nacional
     solo_mendoza: true
+    alcance: nacional
+  - nombre: Clarín
+    tipo: gnews
+    q: "site:clarin.com economía"
+    categoria: nacional
+    solo_mendoza: true
+    alcance: nacional
+  - nombre: El Cronista
+    tipo: gnews
+    q: "site:cronista.com economía OR finanzas"
+    categoria: nacional
+    solo_mendoza: true
+    alcance: nacional
+  - nombre: Página/12
+    tipo: gnews
+    q: "site:pagina12.com.ar economía"
+    categoria: nacional
+    solo_mendoza: true
+    alcance: nacional
+  - nombre: Google News economía argentina
+    tipo: gnews
+    q: "economía argentina inflación OR dólar OR actividad OR empleo OR reservas"
+    categoria: nacional
+    solo_mendoza: true
+    alcance: nacional
   - nombre: Google News Mendoza economía
     tipo: gnews
     q: "Mendoza economía"
@@ -71,6 +99,7 @@ fuentes:
     tipo: html
     url: https://www.indec.gob.ar/
     categoria: oficial
+    alcance: nacional
   - nombre: INDEC Cuyo (GN)
     tipo: gnews
     q: "INDEC Mendoza OR Cuyo"
@@ -79,11 +108,18 @@ fuentes:
     tipo: html
     url: https://www.bcra.gob.ar/Noticias/Noticias.asp
     categoria: oficial
+    alcance: nacional
   - nombre: Capital Humano (empleo)
     tipo: html
     url: https://www.argentina.gob.ar/capital-humano/noticias
     categoria: oficial
+    alcance: nacional
   - nombre: Empleo/SIPA Mendoza (GN)
     tipo: gnews
     q: "Mendoza empleo registrado OR SIPA OR desempleo"
     categoria: oficial
+  - nombre: INDEC/BCRA (GN)
+    tipo: gnews
+    q: "INDEC OR \"Banco Central\" OR BCRA dato OR informe"
+    categoria: oficial
+    alcance: nacional
