@@ -1,21 +1,51 @@
 {
  "top_mendoza": [
   {
-   "titulo": "Junto a Cornejo, Karina Milei destacó el rol de las pymes en la Ronda de Negocios RIGI: Acá tienen que ganar todos",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNUtNM0t2cC1sX0d0dkZhcjNIOTU4M1E4aGRMaWpWeXp2ZlVDVmZILXJkb2RsT1dNZWNsR1FKRmRYR2VZT3llWW5NU2JkOVNhaEJOOFdoak5TT1lEaEhGMHFOREtIRUYweEF2WDIwZFBrNHc2ZXA5VFk5dFZiQlpHYlYzX196dDRaS0w2bjBNRjlnTGVWS29BWEN0cDg2T1JGV3o0UWNpWVlVaGlBTDhiM0xjVWtJNXk5V1Q4eFB6ZzNoV0lpTU1xX0RqR05memM0RjVaYXNEVmVLRG1jT1REaw?oc=5",
-   "fecha": "2026-10-29T14:39:00-03:00",
-   "resumen": "Junto a Cornejo, Karina Milei destacó el rol de las pymes en la Ronda de Negocios RIGI: Acá tienen que ganar todos    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
+   "titulo": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3lxSFFSdUEyQUM5ZnVOTU1xSEk0dU4yX1lXSy1ZV0ZrUm5HUUE3NTZZazVqbHhZMzNJVU5kMnItUy0tTTVTOHkzNzY5akZQTTJHWHJEb1JxVHVLbUNOU3U4NWNBMlV5a01Ld1FIc1R4SUduTy1pVkhLUlptSDh5TUg4SXQ1eXAxVkpIWXBNQXNWbjRjZ0tiLVpHSUJScm16N2tYRjZtdFbSAagBQVVfeXFMT1d5cUhRUnVBMkFDOWZ1Tk1NcUhJNHVOMl9ZV0stWVdGa1JuR1FBNzU2WWs1amx4WTMzSVVOZDJyLVMtLU01Uzh5Mzc2OWpGUE0yR1hyRG9ScVR1S21DTlN1ODVjQTJVeWtNS3dRSHNUeElHbk8taVZIS1JabUg4eU1IOEl0NXlwMVZKSFlwTUFzVm40Y2dLYi1aR0lCUnJtejdrWEY2bXRW?oc=5",
+   "fecha": "2026-10-30T07:44:29-03:00",
+   "resumen": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre    Diario Mendoza Today",
+   "medio": "Diario Mendoza Today",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 21.69,
+   "medios": [
+    "BAE Negocios",
+    "Bloomberg Línea",
+    "Diario Mendoza Today",
+    "TN"
+   ]
+  },
+  {
+   "titulo": "Proveedores de Mendoza en la cumbre del RIGI: buscan subirse al boom de la minería y Vaca Muerta",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVWNMZS1DR3NRS3lRXzZtODBuV01tZVRKMG00V2pURW9MOWhTM1l2QnpSaTdvckVXeUt6QThBSEVERmJuajFVZy1IRWR4R25zd2liZ0ZxYTNZQ290ZGRxeC1CM0lBTjBCXzF2WHJ2UDlPQzFKWVJfV25VZzhmemQ0TDhZckhIVUdWWDJsdkRaUTAwd0FXSDg0bU5BakJ3NkZhd2JXLVBLdDkweXRzUVVNajcySnd5bU9oNWtQc24xaHhXQ0pqTHNNR3M5RWJ4Z9IB0wFBVV95cUxPMHEtbmlBWnljWGV3enZYTk0zc1JJX0d5MGtZTUlmcmZUcFA2ZngyTDRVZEI2eExxYmJOMmhaUDh4QW9WWGVldGJWMjB6VGNtQjRiYXZpaWJfSWZtcjRxQmF4amsxMlhILU45R0VRT1BqSzRydjZFVk5VMEloaWUxVk16SmVxS1lOT29CQkEtQjR6SmhrSFVDYmkxaXNTQ0lEOFZxMUtlU2lyd0NyM01pel9WUU0yZmhZcWdpaHlLVExUMHEtVjZTYkROWDBMbmNZQ3RB?oc=5",
+   "fecha": "2026-10-30T10:13:00-03:00",
+   "resumen": "Proveedores de Mendoza en la cumbre del RIGI: buscan subirse al boom de la minería y Vaca Muerta    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 13.4,
+   "score": 12.17,
    "medios": [
-    "ADNPais",
-    "Diario El Sol Mendoza",
-    "Los Andes",
-    "MinutoYA"
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "Inflación de octubre: los alimentos presionan y el IPC rondaría el 2%",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzM1WlYyS01XOVBDb1lKNldBcERyRFlDejU2VENEMHlOeVJTREZINFRRWDFzTTFId0dFVG1mOEpuaHVha3pTMVQyVURNNjJuY2lnM25PR2pRT2pNeGZTZlBQRWNpRjZqa2hjdDFQdXZNanVPRXRRcXRkM2NMYThna2xyRXdRVkY3QlJZVi1MdFc3NzlGN2pOLVBuNDQ3T05CX21j?oc=5",
+   "fecha": "2026-10-30T08:37:28-03:00",
+   "resumen": "Inflación de octubre: los alimentos presionan y el IPC rondaría el 2%    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 11.68,
+   "medios": [
+    "Diario El Sol Mendoza"
    ]
   },
   {
@@ -28,124 +58,32 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 11.97,
+   "score": 11.39,
    "medios": [
     "Cadena 3 Argentina",
     "El Cronista",
     "La Nación",
+    "Los Primeros TV",
     "Sitio Andino"
    ]
   },
   {
-   "titulo": "Caen las ventas y el empleo en el Valle de Uco: 1 de cada 3 pymes recortó personal",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzJnT24tdFVsREJyYjU5VUxLaW52X3FoQ3hmYXpuczQzMktUbTlUZE5GSldrazhhbXAtVDhxSnRSSlhfUHI3MzhlbGdUWmM3akFfcm1HXzV1S0g5cXNQR0NHSGNoZEF2SndpR2hkSGZOR1pleUFQNTJhTWFCczk4eWsyQ0p2SG04QlZoeUljekJka0hxaXZRLXhjYW5QRHE1TjUwWDhycjVBejEzSi11d2tiSlY5UQ?oc=5",
-   "fecha": "2026-10-29T11:35:53-03:00",
-   "resumen": "Caen las ventas y el empleo en el Valle de Uco: 1 de cada 3 pymes recortó personal    Diario El Sol Mendoza",
-   "medio": "Diario El Sol Mendoza",
-   "fuente": "El Sol",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 10.5,
-   "medios": [
-    "Diario El Sol Mendoza"
-   ]
-  },
-  {
-   "titulo": "Alfredo Cornejo expuso las reformas de Mendoza para atraer inversiones mineras en la primera ronda del RIGI",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbkh5bjFad3VMVmk0TzgtWnA2Sm9wZjNhUUpZVnNFMm1TSmZ1VS1MM3ZDN0xGeW9VRU5TUWJnSlI3bTljOXZIU3EyNlFMdzdnT0ZxejVBODAwN3FXSURLR3lYQzdSc0FITW5acFItNUFZVlktdlU1dDBTZWt6TmU5U05YcmtJaWNRZ3JXQ29nY1Y5Z3FyRGM0T2VoRXJOM3JOc3pHRXZTWVZpVXBhN3luNy1zLTdvYWg2eS1iT0k0c0xRdk5SVWVHTnF1RnJFVFlSQnIzNV8xOEZ3Z03SAeABQVVfeXFMTmw2ZnZoWkd0aGJpdHZOME9IMnhaOHFIcHNvajZYRXc4Sm55VXJvV21LNTE2Qnc0VnVzcmo4QXFVYzRQcVdjaUJBazlNbDMxTVhRVndjcTdmaWdIdzRHX18zY0xEcUVZRndoUDNGay1WUEMxWEwxSkYzNzktelZ2QkFNeFZnZnlNeGlpWnB5d1JVa0QtUzhhT0JEZ2NNWkRoRUktSWs4SjFHTU9SNmZsWEdicjMxZ1hJVG4tUlIwcGl2aFZjSnJ6enBST1hranlHUWJVTnc0T3FMX2R2eU9iSlY?oc=5",
-   "fecha": "2026-10-29T17:03:00-03:00",
-   "resumen": "Alfredo Cornejo expuso las reformas de Mendoza para atraer inversiones mineras en la primera ronda del RIGI    Diario UNO",
-   "medio": "Diario UNO",
-   "fuente": "Diario Uno",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 10.44,
-   "medios": [
-    "Diario UNO"
-   ]
-  },
-  {
-   "titulo": "El alarmante dato de las pymes de Valle de Uco: menos ventas, despidos y desinversión",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNajgtVVpuay1DbXVBQ2dubXc0Z1Bldy01N2tjZTlRdnFmVzZVXzNlZGR0ZnlWMTFkaWZJY0NlUEVYOHJjYWwxOXU0cjhqRUpRYjdxazgwMGYxUW5OaFJNYnIwdWM1dDlYbWFaQmZiZW1oX2ZJMXAzXzdTMWtTSEhrUHpoSWJ2Y1VCcnh6anZJTnAwUEd2STdPQmpUbHQ5Y0hiLVk0SVJRLVdiZ21mbTZnV05ZMzlael9YVmZPeWttYkNEb2hHczhtT19hbGVpbmRTR3dpcg?oc=5",
-   "fecha": "2026-10-29T19:15:25-03:00",
-   "resumen": "El alarmante dato de las pymes de Valle de Uco: menos ventas, despidos y desinversión    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 8.99,
-   "medios": [
-    "MDZ Online"
-   ]
-  }
- ],
- "top_argentina": [
-  {
-   "titulo": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGYwM3dKVDBvMnAzQmlMaU1tZ1FfUUgzZHZheEFjZ1dvYVhiemhxcFlCTmV1d0h3ZVNqa2lfVWIyTTZnMG9Vdndwek91a3FzTF9ITzBGX1lTZmNBUkRFVVkzSEVGbmV5dk94X1hWTWdjNmloZWdlQ3VIWUpQRElkNzFLbVRiR1FoLWZNWWx0RTFIUV9UdkJHX0ItaXpOQVlzNE1McXpvbmE3bG9SVUItWGVVWDVtWjhEdU9vSDVienk4eXplYnZ5Nmpn?oc=5",
-   "fecha": "2026-10-29T13:49:00-03:00",
-   "resumen": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía    Los Andes",
+   "titulo": "Proveedores mendocinos buscaron negocios en la Ronda RIGI y preparan una cumbre minera regional",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQjNENm9rdWp5d1kwaVNyNldVcXZJdEs1bDZxUE1PWGpVb3RuRzMwaUQzTVRsUk52MFRERU5sUnZ3cGtNdHhpOEZmd3c0YzZZeERsRE9UdWpBWEtZUk1yU2FvRDE4bFhQNnhOUkZaNklyU0pxQzA0SUlrdU54Z0NfbkZ5aHA2NEU5SXMteUQ1bGlGdTVJcm1pNk43QzVxNDhfVWgzYlY2RS1FX1A0VkwwZDNHRjE5cEI5eVIwUm9TdF9iV2t0VlZCR3VObnhvSDF4dFdXZg?oc=5",
+   "fecha": "2026-10-30T11:21:00-03:00",
+   "resumen": "Proveedores mendocinos buscaron negocios en la Ronda RIGI y preparan una cumbre minera regional    Los Andes",
    "medio": "Los Andes",
    "fuente": "Los Andes (GN)",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 12.91,
+   "score": 8.94,
    "medios": [
-    "Cadena 3 Argentina",
-    "Canal26",
-    "Clarin.com",
-    "Diario Chilecito",
-    "Diario El Sol Mendoza",
-    "Diario la Ventana",
-    "Forbes Argentina",
-    "La Nación",
-    "Los Andes",
-    "Los Primeros TV",
-    "MDZ Online",
-    "Primera Edición",
-    "TeleSol Diario"
+    "Los Andes"
    ]
-  },
-  {
-   "titulo": "FMI y Argentina: las medidas acordadas para reactivar la economía y reducir el riesgo país",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTBYQm1BMjN6TEU3NGtLSDdfbU1ZOWNhbE04QmNGNDB6b0FRQndOOXQxMU9DUnR5TTJuTDYxc1g5amtlZEdQTE8wSnpsWEtVZHR6X083ME1LX0FzQU1ybXRjNzlOVUEyM3dhdGJoZnlJdGE3X2dJOWNUaEh3ZWozQ3BSNF96LW1sWUllM0NDZktnVFc5ZUpva21XS3ZOd2lqTHYyS181RHZTMXBMRktGRjFPSWVoTDI3Ync?oc=5",
-   "fecha": "2026-10-29T15:17:10-03:00",
-   "resumen": "FMI y Argentina: las medidas acordadas para reactivar la economía y reducir el riesgo país    RoadShow",
-   "medio": "RoadShow",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 10.67,
-   "medios": [
-    "Agencia Noticias Argentinas",
-    "Hoy Día Córdoba",
-    "LA17",
-    "Medio de comunicación digital",
-    "RoadShow",
-    "Tiempo de San Juan",
-    "» Cholila Online"
-   ]
-  },
-  {
-   "titulo": "Inflación, reservas y crédito: las claves del nuevo informe del BCRA sobre la economía argentina",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ0ZUaUJLZDJzUFhkN0hpcFBPWWM0SVJiMVhLb3YwQmRMUHd6LVMtcmplX250aVFySlF2d1poT0NncWN1a3otMmFEeFAzYnQ4QTRIbEx4MFVzSVFYbXdYTjdzNnVFRDQzWXJ3djRfQkdvcGlma0FsVWJjMTB3V0MyYTlzVDM4dWZkdGZDajBKa1dQMi02ak5MN1RGaXBTM2ppRl82N1VzaXFHdzlYWnI3U2RXZl9PbV9GTFlKU1FXWVlSTkw4bUw2bWVnZTVDOUNWaUpOczU2eTVlUF9XZlRLSmZVX3FtSDFxV090Tmpiaw?oc=5",
-   "fecha": "2026-10-29T16:26:48-03:00",
-   "resumen": "Inflación, reservas y crédito: las claves del nuevo informe del BCRA sobre la economía argentina    Flipr.news",
-   "medio": "Flipr.news",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 9.82,
-   "medios": [
-    "Flipr.news"
-   ]
-  },
+  }
+ ],
+ "top_argentina": [
   {
    "titulo": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEs4cDBkcGdydUJJNVMtSmlQbVRucHlXSDhpRDZFVklMNW1sTTB4a05Od05zR1B1b240cXZad0pBYzI5MXhUQUptOVVZZFFkRy1reWN6VjlQUVBaYUVTdFZJTXN5UHBDX0xoSjFCNXZaMXZDZVdYd2ppT1ZrQjM5QXlGakk5amJBdVBpdmJwLWZpdERYNDExMWQyMEZfUEZKQUJVLUt2OFlMdmtHQm1OWWkwZTdMdnY3YkxMY0szYzVhY2pYaDJ4endUeU9obndUb2lvQzJ4NE5hZ9IB2gFBVV95cUxPMEs4cDBkcGdydUJJNVMtSmlQbVRucHlXSDhpRDZFVklMNW1sTTB4a05Od05zR1B1b240cXZad0pBYzI5MXhUQUptOVVZZFFkRy1reWN6VjlQUVBaYUVTdFZJTXN5UHBDX0xoSjFCNXZaMXZDZVdYd2ppT1ZrQjM5QXlGakk5amJBdVBpdmJwLWZpdERYNDExMWQyMEZfUEZKQUJVLUt2OFlMdmtHQm1OWWkwZTdMdnY3YkxMY0szYzVhY2pYaDJ4endUeU9obndUb2lvQzJ4NE5hZw?oc=5",
@@ -156,27 +94,82 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 8.82,
+   "score": 9.47,
    "medios": [
+    "Ambito",
     "NoticiasNet",
     "Ámbito"
    ]
   },
   {
-   "titulo": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre, pero espera una recuperación en el último tramo del año",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUU1iaFl1blcwNktBVkpwVmZiRGN0SGJtaVFoWXNLR0VFNGVaZEhaYkdvd09IeEhJUFViUzFzU3gwQmhFeDBlTWdFRFNHeXRpMGFTNnVXM2JjVFZVaFBSaWVOcDkyVkRHdF81X2tHcmdvT3pjUjRLNlBndDd1QWJ0ejhOdExFOG4yRThOT0x1dnlmbTB0c0Q0LTFlS296ZERjZGJnMGMwTFBXbVRta0xTTWZxU25qQTRJeVUxcWhMN2dyTXltdTkxbV80SUttUDBmcTVIemxmNG9nZEFEVGVTb2dVUzlhRDRrcFA3ZzBBYU1EQmtGQXJnQl9JVdIBjwJBVV95cUxPcGtfOF9mY3VwTjl1UHlRTktsLTE4VnNYelZGaHMzMXF1aGdxWlFycXRDMmRKb2p1Qk9fcXpVWGdLVzYtaFRkMDl6SDRfM0pRalI3OUNOcjAtamtkNmtXdmNrQ3o0eHRSbjNVYlVWUURpMkFsbWpCZHVTUkxZSkxVc1BiQ1pMQUw4U0pRaWVMYlZYZFpWUGEyQ3BHR25paTlXNXk1V09UT3doVFFsaS0teEwyWlJvd1JlY2NVWk9hWXhRUDA3bzlJbmMzdTRpYWZhTngzX1ZQZG9WaVIzUTI2TzRqVkd0dEVsRmEyQVVYWlZXdElTZ0J0UWpmMC1fdWFwcUZ2bENzVVNUbXltQVBV?oc=5",
-   "fecha": "2026-10-29T15:40:37-03:00",
-   "resumen": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre, pero espera una recuperación en el último tramo del año    TN",
-   "medio": "TN",
+   "titulo": "La inflación en Italia subió al 5,4% en octubre y el PBI no creció en el tercer trimestre",
+   "url": "https://www.infobae.com/america/mundo/2026/10/30/la-inflacion-en-italia-subio-al-54-en-octubre-y-el-pbi-no-crecio-en-el-tercer-trimestre/",
+   "fecha": "2026-10-30T12:34:33-03:00",
+   "resumen": "El encarecimiento de la energía, que superó el 31% interanual, impulsó el alza de precios en la península",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 7.85,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "El Banco Central admitió que la economía perdió dinamismo, quedó al borde de una nueva recesión Y crece el riesgo de más inflación",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWENPWjFrSDlxSDlkLW96bmg4TW1SX2hNWGhkUGllU2FXcjBiZDBrbUV2VkZWSHg1YXhrTHhFNWFlMklaNnlNT1VLeDcyTENOTHdlTkpoZmdMd0ctTnE0YTFlVmp2djJob3RJYWVWQlRRdEVYTlN6R3ljZVlpMzI3dERoR3pUU1RqMC0xRDBlMzlDWldNT19ucEhkTHg0MWxIdzJBVGtTV2TSAbwBQVVfeXFMTURtY2hCYkdrMTBudlJDSnduNGpMVnRvcHBXTFhtWVVkTjIwWWZiTy10Zk5ZOUlZLVhyMGpIYVdocWd1SHo3U2M5MURpQUtrYmk2UTN5YlktTlFWbkZVWUt0dUJDMUJObUNCZlZhNWNmb3M1TXhPakpGU2FwWEpIOXpnQXdzZUdheWtjazhVLXg0bnp6U0laQXdBWDhiOUEza3k4RFA3X0dJZWJHaHV5QmRFclZUZ09MajFleUk?oc=5",
+   "fecha": "2026-10-29T14:46:18-03:00",
+   "resumen": "El Banco Central admitió que la economía perdió dinamismo, quedó al borde de una nueva recesión Y crece el riesgo de más inflación    El Destape",
+   "medio": "El Destape",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 8.59,
+   "score": 7.73,
    "medios": [
-    "BAE Negocios",
-    "Bloomberg Línea",
-    "TN"
+    "El Destape",
+    "Mundo Empresarial AR",
+    "Primera Edición"
+   ]
+  },
+  {
+   "titulo": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGYwM3dKVDBvMnAzQmlMaU1tZ1FfUUgzZHZheEFjZ1dvYVhiemhxcFlCTmV1d0h3ZVNqa2lfVWIyTTZnMG9Vdndwek91a3FzTF9ITzBGX1lTZmNBUkRFVVkzSEVGbmV5dk94X1hWTWdjNmloZWdlQ3VIWUpQRElkNzFLbVRiR1FoLWZNWWx0RTFIUV9UdkJHX0ItaXpOQVlzNE1McXpvbmE3bG9SVUItWGVVWDVtWjhEdU9vSDVienk4eXplYnZ5Nmpn?oc=5",
+   "fecha": "2026-10-29T13:49:00-03:00",
+   "resumen": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 7.16,
+   "medios": [
+    "Canal26",
+    "Clarin.com",
+    "Diario Chilecito",
+    "Diario El Sol Mendoza",
+    "Forbes Argentina",
+    "La Nación",
+    "Los Andes",
+    "MDZ Online",
+    "Primera Edición"
+   ]
+  },
+  {
+   "titulo": "El BCRA admitió caída en la actividad y posible repunte de la inflación: el rol clave de los swap con China y EE.UU. para 2027",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTnF2ZDlKc28yYWF5ZjNCdUFaSjdhbXY3MHlqWG9zcS1ySW5jUzd5QXlES1dOWnAtRDdSUENKaFpjclhsay1mT3hCM215bC04ZTd1T1NHeXI4dkRJOGFhOEhQa0VnVDNzSEtFUWtPX19GdTVEV1NYT2NxYy01dExKam13Qk9HbnYweFVfTTQtd1pKczBRZUlUX3Vzb2ZXV3JSMGZuekc4WnU5eUFrMDRUQXlXWGdUNzJ0ZUl1b1ktVmxkUjZJMUpJeFhFNVd5ekgxZHB3eHRmbUx2WVZod1VwcGViOHVtM2VXUmFuYjMxSjRHVHlXV2tvMmRnQ1kwRGfSAYcCQVVfeXFMTlRLTHctd1BackNYODlFLWRrVEJoTk1sdzczOF9taWRvMVBMZ29KdGQyNGM3T2ZGMW1FcDZGRndMYmUxc0REbkZUdW5mMlM5YzdpMUY5WDdjV2dXYTZ2YlhGdnBVd1NrQ2ItSW1XZUl4OGp4UjMtOGl2TS1yZHpRTHBaUVFENU9ncmVaSW9iVWdoQXF4QXVIWDJkWFh1cnZ3eUZaUEJvUzVYQzhfenZOZU9lcmJEd3RFbER2cmlycmdab1ZhVFUzajBsN1VTSzhOdmJmMms3MDZqcm1SSDJHYlFJb3dLVW1NbmpBN2dMN3BreUlKTjN2Z3BETGh0WHhuOG5vMkxlaHM?oc=5",
+   "fecha": "2026-10-29T21:23:11-03:00",
+   "resumen": "El BCRA admitió caída en la actividad y posible repunte de la inflación: el rol clave de los swap con China y EE.UU. para 2027    Diario Río Negro",
+   "medio": "Diario Río Negro",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 6.62,
+   "medios": [
+    "Diario Hoy En la noticia",
+    "Diario Río Negro"
    ]
   }
  ],
@@ -189,22 +182,22 @@
   {
    "fuente": "Los Andes (GN)",
    "ok": true,
-   "notas": 63
+   "notas": 69
   },
   {
    "fuente": "MDZ",
    "ok": true,
-   "notas": 73
+   "notas": 80
   },
   {
    "fuente": "Diario Uno",
    "ok": true,
-   "notas": 34
+   "notas": 44
   },
   {
    "fuente": "El Sol",
    "ok": true,
-   "notas": 34
+   "notas": 39
   },
   {
    "fuente": "Unidiversidad",
@@ -219,42 +212,42 @@
   {
    "fuente": "Ámbito",
    "ok": true,
-   "notas": 22
+   "notas": 20
   },
   {
    "fuente": "Infobae",
    "ok": true,
-   "notas": 57
+   "notas": 68
   },
   {
    "fuente": "La Nación",
    "ok": true,
-   "notas": 65
+   "notas": 77
   },
   {
    "fuente": "Clarín",
    "ok": true,
-   "notas": 42
+   "notas": 27
   },
   {
    "fuente": "El Cronista",
    "ok": true,
-   "notas": 58
+   "notas": 73
   },
   {
    "fuente": "Página/12",
    "ok": true,
-   "notas": 82
+   "notas": 74
   },
   {
    "fuente": "Google News economía argentina",
    "ok": true,
-   "notas": 74
+   "notas": 49
   },
   {
    "fuente": "Google News Mendoza economía",
    "ok": true,
-   "notas": 50
+   "notas": 32
   },
   {
    "fuente": "DEIE Mendoza",
@@ -284,36 +277,66 @@
   {
    "fuente": "Capital Humano (empleo)",
    "ok": true,
-   "notas": 0
+   "notas": 1
   },
   {
    "fuente": "Empleo/SIPA Mendoza (GN)",
    "ok": true,
-   "notas": 7
+   "notas": 3
   },
   {
    "fuente": "INDEC/BCRA (GN)",
    "ok": true,
-   "notas": 41
+   "notas": 40
   }
  ],
  "candidatas_mendoza": [
   {
-   "titulo": "Junto a Cornejo, Karina Milei destacó el rol de las pymes en la Ronda de Negocios RIGI: Acá tienen que ganar todos",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNUtNM0t2cC1sX0d0dkZhcjNIOTU4M1E4aGRMaWpWeXp2ZlVDVmZILXJkb2RsT1dNZWNsR1FKRmRYR2VZT3llWW5NU2JkOVNhaEJOOFdoak5TT1lEaEhGMHFOREtIRUYweEF2WDIwZFBrNHc2ZXA5VFk5dFZiQlpHYlYzX196dDRaS0w2bjBNRjlnTGVWS29BWEN0cDg2T1JGV3o0UWNpWVlVaGlBTDhiM0xjVWtJNXk5V1Q4eFB6ZzNoV0lpTU1xX0RqR05memM0RjVaYXNEVmVLRG1jT1REaw?oc=5",
-   "fecha": "2026-10-29T14:39:00-03:00",
-   "resumen": "Junto a Cornejo, Karina Milei destacó el rol de las pymes en la Ronda de Negocios RIGI: Acá tienen que ganar todos    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
+   "titulo": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3lxSFFSdUEyQUM5ZnVOTU1xSEk0dU4yX1lXSy1ZV0ZrUm5HUUE3NTZZazVqbHhZMzNJVU5kMnItUy0tTTVTOHkzNzY5akZQTTJHWHJEb1JxVHVLbUNOU3U4NWNBMlV5a01Ld1FIc1R4SUduTy1pVkhLUlptSDh5TUg4SXQ1eXAxVkpIWXBNQXNWbjRjZ0tiLVpHSUJScm16N2tYRjZtdFbSAagBQVVfeXFMT1d5cUhRUnVBMkFDOWZ1Tk1NcUhJNHVOMl9ZV0stWVdGa1JuR1FBNzU2WWs1amx4WTMzSVVOZDJyLVMtLU01Uzh5Mzc2OWpGUE0yR1hyRG9ScVR1S21DTlN1ODVjQTJVeWtNS3dRSHNUeElHbk8taVZIS1JabUg4eU1IOEl0NXlwMVZKSFlwTUFzVm40Y2dLYi1aR0lCUnJtejdrWEY2bXRW?oc=5",
+   "fecha": "2026-10-30T07:44:29-03:00",
+   "resumen": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre    Diario Mendoza Today",
+   "medio": "Diario Mendoza Today",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 21.69,
+   "medios": [
+    "BAE Negocios",
+    "Bloomberg Línea",
+    "Diario Mendoza Today",
+    "TN"
+   ]
+  },
+  {
+   "titulo": "Proveedores de Mendoza en la cumbre del RIGI: buscan subirse al boom de la minería y Vaca Muerta",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVWNMZS1DR3NRS3lRXzZtODBuV01tZVRKMG00V2pURW9MOWhTM1l2QnpSaTdvckVXeUt6QThBSEVERmJuajFVZy1IRWR4R25zd2liZ0ZxYTNZQ290ZGRxeC1CM0lBTjBCXzF2WHJ2UDlPQzFKWVJfV25VZzhmemQ0TDhZckhIVUdWWDJsdkRaUTAwd0FXSDg0bU5BakJ3NkZhd2JXLVBLdDkweXRzUVVNajcySnd5bU9oNWtQc24xaHhXQ0pqTHNNR3M5RWJ4Z9IB0wFBVV95cUxPMHEtbmlBWnljWGV3enZYTk0zc1JJX0d5MGtZTUlmcmZUcFA2ZngyTDRVZEI2eExxYmJOMmhaUDh4QW9WWGVldGJWMjB6VGNtQjRiYXZpaWJfSWZtcjRxQmF4amsxMlhILU45R0VRT1BqSzRydjZFVk5VMEloaWUxVk16SmVxS1lOT29CQkEtQjR6SmhrSFVDYmkxaXNTQ0lEOFZxMUtlU2lyd0NyM01pel9WUU0yZmhZcWdpaHlLVExUMHEtVjZTYkROWDBMbmNZQ3RB?oc=5",
+   "fecha": "2026-10-30T10:13:00-03:00",
+   "resumen": "Proveedores de Mendoza en la cumbre del RIGI: buscan subirse al boom de la minería y Vaca Muerta    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 13.4,
+   "score": 12.17,
    "medios": [
-    "ADNPais",
-    "Diario El Sol Mendoza",
-    "Los Andes",
-    "MinutoYA"
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "Inflación de octubre: los alimentos presionan y el IPC rondaría el 2%",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzM1WlYyS01XOVBDb1lKNldBcERyRFlDejU2VENEMHlOeVJTREZINFRRWDFzTTFId0dFVG1mOEpuaHVha3pTMVQyVURNNjJuY2lnM25PR2pRT2pNeGZTZlBQRWNpRjZqa2hjdDFQdXZNanVPRXRRcXRkM2NMYThna2xyRXdRVkY3QlJZVi1MdFc3NzlGN2pOLVBuNDQ3T05CX21j?oc=5",
+   "fecha": "2026-10-30T08:37:28-03:00",
+   "resumen": "Inflación de octubre: los alimentos presionan y el IPC rondaría el 2%    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 11.68,
+   "medios": [
+    "Diario El Sol Mendoza"
    ]
   },
   {
@@ -326,27 +349,28 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 11.97,
+   "score": 11.39,
    "medios": [
     "Cadena 3 Argentina",
     "El Cronista",
     "La Nación",
+    "Los Primeros TV",
     "Sitio Andino"
    ]
   },
   {
-   "titulo": "Caen las ventas y el empleo en el Valle de Uco: 1 de cada 3 pymes recortó personal",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzJnT24tdFVsREJyYjU5VUxLaW52X3FoQ3hmYXpuczQzMktUbTlUZE5GSldrazhhbXAtVDhxSnRSSlhfUHI3MzhlbGdUWmM3akFfcm1HXzV1S0g5cXNQR0NHSGNoZEF2SndpR2hkSGZOR1pleUFQNTJhTWFCczk4eWsyQ0p2SG04QlZoeUljekJka0hxaXZRLXhjYW5QRHE1TjUwWDhycjVBejEzSi11d2tiSlY5UQ?oc=5",
-   "fecha": "2026-10-29T11:35:53-03:00",
-   "resumen": "Caen las ventas y el empleo en el Valle de Uco: 1 de cada 3 pymes recortó personal    Diario El Sol Mendoza",
-   "medio": "Diario El Sol Mendoza",
-   "fuente": "El Sol",
+   "titulo": "Proveedores mendocinos buscaron negocios en la Ronda RIGI y preparan una cumbre minera regional",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQjNENm9rdWp5d1kwaVNyNldVcXZJdEs1bDZxUE1PWGpVb3RuRzMwaUQzTVRsUk52MFRERU5sUnZ3cGtNdHhpOEZmd3c0YzZZeERsRE9UdWpBWEtZUk1yU2FvRDE4bFhQNnhOUkZaNklyU0pxQzA0SUlrdU54Z0NfbkZ5aHA2NEU5SXMteUQ1bGlGdTVJcm1pNk43QzVxNDhfVWgzYlY2RS1FX1A0VkwwZDNHRjE5cEI5eVIwUm9TdF9iV2t0VlZCR3VObnhvSDF4dFdXZg?oc=5",
+   "fecha": "2026-10-30T11:21:00-03:00",
+   "resumen": "Proveedores mendocinos buscaron negocios en la Ronda RIGI y preparan una cumbre minera regional    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 10.5,
+   "score": 8.94,
    "medios": [
-    "Diario El Sol Mendoza"
+    "Los Andes"
    ]
   },
   {
@@ -359,51 +383,55 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 10.44,
+   "score": 8.28,
    "medios": [
     "Diario UNO"
    ]
   },
   {
-   "titulo": "El alarmante dato de las pymes de Valle de Uco: menos ventas, despidos y desinversión",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNajgtVVpuay1DbXVBQ2dubXc0Z1Bldy01N2tjZTlRdnFmVzZVXzNlZGR0ZnlWMTFkaWZJY0NlUEVYOHJjYWwxOXU0cjhqRUpRYjdxazgwMGYxUW5OaFJNYnIwdWM1dDlYbWFaQmZiZW1oX2ZJMXAzXzdTMWtTSEhrUHpoSWJ2Y1VCcnh6anZJTnAwUEd2STdPQmpUbHQ5Y0hiLVk0SVJRLVdiZ21mbTZnV05ZMzlael9YVmZPeWttYkNEb2hHczhtT19hbGVpbmRTR3dpcg?oc=5",
-   "fecha": "2026-10-29T19:15:25-03:00",
-   "resumen": "El alarmante dato de las pymes de Valle de Uco: menos ventas, despidos y desinversión    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
+   "titulo": "Cómo impacta la devaluación del real en las exportaciones de Mendoza a Brasil",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ28yNkZpUXRjUW9IQUZkdWtzdnFuOG9XQ3pGTHNqUHRSUldWMm9FcFdYRnVMakx3OHpuMmdiSE0zUzdsV3g4M2kxN0E3M2hmTnluZlh2aVB0UEFERUFQNHgwOTNJT09NS2F6M2ZCYlBBTk9JOTZZbXV1b0xNYmlPR0gxWjROQWl4VGprWElZcFpOVENZYVAwYzlDQncwck5odjZuMkVoNTVHNjRyaDd2MDlRNWpDZDTSAbwBQVVfeXFMTjJ0aXhpLTRKR25IaGt3azFKZ2JpVXZMUHZEZ2Y1NEE0cjNmeXZpQTc1QnR0UVZGRU56RFBVSUlMSWplZFkxN0VsWnVPR3pERjE2M0FzbVRrbW4tVGJPZ1QxWXYxTmF4b19xNEVKT0RRZnp1RlN4RGNQYlNvQmpBUTdYYjRQNmk4a3VYMTEzSTFwODdNcjNKZVNlR0g3bGQ1QWp6ek1rSDFqeXBKd1BvRE1QV2tJclc1YlVjNFI?oc=5",
+   "fecha": "2026-10-30T07:42:00-03:00",
+   "resumen": "Cómo impacta la devaluación del real en las exportaciones de Mendoza a Brasil    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 8.99,
+   "score": 8.15,
    "medios": [
-    "MDZ Online"
+    "Diario UNO"
    ]
   },
   {
-   "titulo": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGYwM3dKVDBvMnAzQmlMaU1tZ1FfUUgzZHZheEFjZ1dvYVhiemhxcFlCTmV1d0h3ZVNqa2lfVWIyTTZnMG9Vdndwek91a3FzTF9ITzBGX1lTZmNBUkRFVVkzSEVGbmV5dk94X1hWTWdjNmloZWdlQ3VIWUpQRElkNzFLbVRiR1FoLWZNWWx0RTFIUV9UdkJHX0ItaXpOQVlzNE1McXpvbmE3bG9SVUItWGVVWDVtWjhEdU9vSDVienk4eXplYnZ5Nmpn?oc=5",
-   "fecha": "2026-10-29T13:49:00-03:00",
-   "resumen": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía    Los Andes",
+   "titulo": "Caen las ventas y el empleo en el Valle de Uco: 1 de cada 3 pymes recortó personal",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzJnT24tdFVsREJyYjU5VUxLaW52X3FoQ3hmYXpuczQzMktUbTlUZE5GSldrazhhbXAtVDhxSnRSSlhfUHI3MzhlbGdUWmM3akFfcm1HXzV1S0g5cXNQR0NHSGNoZEF2SndpR2hkSGZOR1pleUFQNTJhTWFCczk4eWsyQ0p2SG04QlZoeUljekJka0hxaXZRLXhjYW5QRHE1TjUwWDhycjVBejEzSi11d2tiSlY5UQ?oc=5",
+   "fecha": "2026-10-29T11:35:53-03:00",
+   "resumen": "Caen las ventas y el empleo en el Valle de Uco: 1 de cada 3 pymes recortó personal    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 7.82,
+   "medios": [
+    "Diario El Sol Mendoza"
+   ]
+  },
+  {
+   "titulo": "Junto a Cornejo, Karina Milei destacó el rol de las pymes en la Ronda de Negocios RIGI: Acá tienen que ganar todos",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNUtNM0t2cC1sX0d0dkZhcjNIOTU4M1E4aGRMaWpWeXp2ZlVDVmZILXJkb2RsT1dNZWNsR1FKRmRYR2VZT3llWW5NU2JkOVNhaEJOOFdoak5TT1lEaEhGMHFOREtIRUYweEF2WDIwZFBrNHc2ZXA5VFk5dFZiQlpHYlYzX196dDRaS0w2bjBNRjlnTGVWS29BWEN0cDg2T1JGV3o0UWNpWVlVaGlBTDhiM0xjVWtJNXk5V1Q4eFB6ZzNoV0lpTU1xX0RqR05memM0RjVaYXNEVmVLRG1jT1REaw?oc=5",
+   "fecha": "2026-10-29T14:39:00-03:00",
+   "resumen": "Junto a Cornejo, Karina Milei destacó el rol de las pymes en la Ronda de Negocios RIGI: Acá tienen que ganar todos    Los Andes",
    "medio": "Los Andes",
    "fuente": "Los Andes (GN)",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 8.9,
+   "score": 7.41,
    "medios": [
-    "Cadena 3 Argentina",
-    "Canal26",
-    "Clarin.com",
-    "Diario Chilecito",
     "Diario El Sol Mendoza",
-    "Diario la Ventana",
-    "Forbes Argentina",
-    "La Nación",
-    "Los Andes",
-    "Los Primeros TV",
-    "MDZ Online",
-    "Primera Edición",
-    "TeleSol Diario"
+    "Los Andes"
    ]
   },
   {
@@ -416,71 +444,100 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 8.85,
+   "score": 7.29,
    "medios": [
     "Sitio Andino"
    ]
   },
   {
-   "titulo": "Vitivinicultura en Mendoza: preocupación por el precio de la uva y el financiamiento para la próxima vendimia",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNHFBMmFObUZ0NmUzN1l6Y21SR2FtdldTNnVzUk9OM09Ha014bThXUENOQWpQb25vdmtJcUxqY3ZXYW9aVlZ4MVBBRHVNeHZUTV9EbV9UUTh4c2E4RmpETUZwN3JYUjcxeFp6ZGFDcl94MXEtYkZoSWgtWmV0eUhoajRZMVRoMVFzWGh3N3JXS1dLZFNzWGw4YkgzY0ZCTUs3QTdIZzlzaTVTSGE5c1NlUHRwQ0tMdnVNSlNBR0FlbjZjejFPanBIVmVsYnQwWWFOQlREcnF4UjRXbjc4WjBCdXI1UzFsWUFn0gHoAUFVX3lxTFA0cUEyYU5tRnQ2ZTM3WXpjbVJHYW12V1M2dXNST04zT0drTXhtOFdQQ05BalBvbm92a0lxTGpjdldhb1pWVngxUEFEdU14dlRNX0RtX1RROHhzYThGakRNRnA3clhSNzF4WnpkYUNyX3gxcS1iRmhJaC1aZXR5SGhqNFkxVGgxUXNYaHc3cldLV0tkU3NYbDhiSDNjRkJNSzdBN0hnOXNpNVNIYTlzU2VQdHBDS0x2dU1KU0FHQWVuNmN6MU9qcEhWZWxidDBZYU5CVERycXhSNFduNzhaMEJ1cjVTMWxZQWc?oc=5",
-   "fecha": "2026-10-29T16:24:00-03:00",
-   "resumen": "Vitivinicultura en Mendoza: preocupación por el precio de la uva y el financiamiento para la próxima vendimia    Sitio Andino",
-   "medio": "Sitio Andino",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 8.17,
-   "medios": [
-    "Sitio Andino"
-   ]
-  },
-  {
-   "titulo": "Cornejo en la primera ronda de negocios del RIGI: “Tenemos todo para encender un nuevo motor de la economía y Mendoza quiere aprovechar esa ventana de oportunidades”",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTmlrczBmcEVSbHlBTWlvdnJIVER5bW52bTBmTjNLVExOWXkzcngxVEVGcXlRU3ljdS1TdGxnS1Zzb0kwVWZXbEloTHUzOElGcVA4b3NncE5tNmg1YkVwTkhFeVg1TDRZTWxtZS1OR1E1RTlPWTF5WThVbDE4cGEwRG85ZWFiVGF4MHoyd0Nmd1RZZ3FMM0cwQVlvamV3TkZBcEEtOFpSaVQ1UjVhVDNQMlNtb2tidThxdnBmbWFaWVJqRG0tSnhwcXZvVHFYMTduOXRUZng0RHJ5c3VhQ3NiNkNmWlBJLWt6MlNWczBScDJQSUlVYmlla0JvNkFackVEbHpZOHFnckNHeGFVZnNXS3Q2NXpXNENHV2NYYVVB?oc=5",
-   "fecha": "2026-10-29T15:54:18-03:00",
-   "resumen": "Cornejo en la primera ronda de negocios del RIGI: “Tenemos todo para encender un nuevo motor de la economía y Mendoza quiere aprovechar esa ventana de oportunidades”    PRENSA GOBIERNO DE MENDOZA",
-   "medio": "PRENSA GOBIERNO DE MENDOZA",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 7.38,
-   "medios": [
-    "PRENSA GOBIERNO DE MENDOZA"
-   ]
-  },
-  {
-   "titulo": "El PBI creció 2% interanual, pero la inversión cayó 11,1% y el consumo avanzó apenas 0,4%",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEFBcmlYV1ZRQ050aHFPR1FiSVFzakdPeFhXNmFPbm9jMFAtMHNGTnNncEFlM3RsUHprQjNpRkZfWUJ3V2Z1VkswbG5RTHgta3BUeWs2bF85dTRfLW8wVWFLSDExaXBBR0tCZnBoTkFHaF84OEN6TzduWHFtSGhqbzNWYjBlaURkOVNSWkdPOEtGQWN0MWN3cmpCWjdqaWpBbUFvZll1ekRQS3NXYTJFdVB1V0YycTV1TUHSAboBQVVfeXFMTWxBQXJpWFdWUUNOdGhxT0dRYklRc2pHT3hYVzZhT25vYzBQLTBzRk5zZ3BBZTN0bFB6a0IzaUZGX1lCd1dmdVZLMGxuUUx4LWtwVHlrNmxfOXU0Xy1vMFVhS0gxMWlwQUdLQmZwaE5BR2hfODhDek83blhxbUhoam8zVmIwZWlEZDlTUlpHTzhLRkFjdDFjd3JqQlo3amlqQW1Bb2ZZdXpEUEtzV2EyRXVQdVdGMnE1dU1B?oc=5",
-   "fecha": "2026-10-29T07:39:01-03:00",
-   "resumen": "El PBI creció 2% interanual, pero la inversión cayó 11,1% y el consumo avanzó apenas 0,4%    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 7.1,
-   "medios": [
-    "Diario Mendoza Today"
-   ]
-  },
-  {
-   "titulo": "Luis Caputo aseguró que las inversiones del RIGI \"garantizan que Argentina no va a tener problemas de tipo de cambio\"",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR3M2MVI1cXllemtTSWdDdjlDZlExT2phcHM4Q0pRYTlwMFdVY1lNTEdNTkhYTnpLNW54eEFnWV9CLWRYV2NIc0wzQV9iWlRmUW1hX1BNbE0tUWNZUmNTMDlEQWg1cG45dDRrUThSMDJIQjc0VW1MT3VsaGZoRnpNRG5GeWdhOVBkS2lLanhNLWh1d21TOWxDanhpaXg5WVBMXzVyNVdDRzN4UHZ2Rk9WSjJTeUdiSkdDZkhRUDFuaXpLRkN0QjdyNWlxVk00SlJFbDRNVzRoQ2dEWTRQRExhTkppSThxTVFMVG1j?oc=5",
-   "fecha": "2026-10-29T10:38:17-03:00",
-   "resumen": "Luis Caputo aseguró que las inversiones del RIGI \"garantizan que Argentina no va a tener problemas de tipo de cambio\"    MDZ Online",
+   "titulo": "El alarmante dato de las pymes de Valle de Uco: menos ventas, despidos y desinversión",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNajgtVVpuay1DbXVBQ2dubXc0Z1Bldy01N2tjZTlRdnFmVzZVXzNlZGR0ZnlWMTFkaWZJY0NlUEVYOHJjYWwxOXU0cjhqRUpRYjdxazgwMGYxUW5OaFJNYnIwdWM1dDlYbWFaQmZiZW1oX2ZJMXAzXzdTMWtTSEhrUHpoSWJ2Y1VCcnh6anZJTnAwUEd2STdPQmpUbHQ5Y0hiLVk0SVJRLVdiZ21mbTZnV05ZMzlael9YVmZPeWttYkNEb2hHczhtT19hbGVpbmRTR3dpcg?oc=5",
+   "fecha": "2026-10-29T19:15:25-03:00",
+   "resumen": "El alarmante dato de las pymes de Valle de Uco: menos ventas, despidos y desinversión    MDZ Online",
    "medio": "MDZ Online",
    "fuente": "MDZ",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.82,
+   "score": 7.26,
    "medios": [
-    "El Cronista",
-    "MDZ Online",
-    "Ámbito"
+    "MDZ Online"
+   ]
+  },
+  {
+   "titulo": "Crédito histórico para las escuelas mendocinas: cómo se distribuirán los 75 millones de dólares",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0ctbzRaMVJ0SDdkcVZ6Z0ZhaEhFRlN1eXJ5LUx5SExMN0xyX2FLYTVlQkVMS2FHaWM1d1NBRmtEcEp6VVFQblRRMWEyMXI3NDFxNjBNWlhuM3NEdVlrRE1NUHM1NzdNS01SSjF2UVlkSmhxcDFHX2lqMFJ2RG5oaG5zQW45M3ZaRmIwSGNNeHE0dVV2cVlnX29vSW1JU0ZzZnRDdGpIZklQMU5NWmpYd2UzNEhDSlotdC1qQmtJaDRqRl9LVWVDTg?oc=5",
+   "fecha": "2026-10-30T10:58:12-03:00",
+   "resumen": "Crédito histórico para las escuelas mendocinas: cómo se distribuirán los 75 millones de dólares    ADNPais",
+   "medio": "ADNPais",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 7.08,
+   "medios": [
+    "ADNPais"
+   ]
+  },
+  {
+   "titulo": "El nuevo RIGI que beneficiaría a productores y empresas de Mendoza",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUJKWDgwR3NkbnZnTUlhSTh1d0taRG9MYVF1cmhKY0JIY3RCU3YwRHBzZ0c4aTAwMUxJTWNQZ1lRM0pPNHRLYTQ5ZTFaWG84b1I2RnFuV3hPUjRfMzdaNW1sTDQ5UF9ITFFPOWpvZkpBNW1Bd1BxLTFhcEZwZjk5ZFdHbnVJdEhJTkVGaWtBazI2TjVPMUgyLV85MDFGS2IxQm42REQzTdIBpwFBVV95cUxPcUJKWDgwR3NkbnZnTUlhSTh1d0taRG9MYVF1cmhKY0JIY3RCU3YwRHBzZ0c4aTAwMUxJTWNQZ1lRM0pPNHRLYTQ5ZTFaWG84b1I2RnFuV3hPUjRfMzdaNW1sTDQ5UF9ITFFPOWpvZkpBNW1Bd1BxLTFhcEZwZjk5ZFdHbnVJdEhJTkVGaWtBazI2TjVPMUgyLV85MDFGS2IxQm42REQzTQ?oc=5",
+   "fecha": "2026-10-30T10:52:41-03:00",
+   "resumen": "El nuevo RIGI que beneficiaría a productores y empresas de Mendoza    Mendoza Post",
+   "medio": "Mendoza Post",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 7.07,
+   "medios": [
+    "Mendoza Post"
+   ]
+  },
+  {
+   "titulo": "Cornejo en la primera ronda de negocios del RIGI: “Tenemos todo para encender un nuevo motor de la economía y Mendoza quiere aprovechar esa ventana de oportunidades”",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMnpzWHZRLXREQV9DTTBha3AyMzNEU0VGdHVIQXcySXlJN1ItUHpqY1lWeTItTVh3Z0ZrWWxKdmJySzhBRTZOUXZkMGI2V1diZnk4M09ucHpBckhJazE0SFAyVGZTRXNwam8yY193UFl5NWJPZHZwVzB4VWFnY0VjS0RXbUdVZjl5eDB3Y1IzdlFZeGpnZmRqT0E5RWRMU3ZBbVBPR3Z3U1pFYk14S1hqUjVVYXFFQlJldDlGN2IyczRTY3FaU0pfS0ZSWUZwX3ZTMjIyRF9KczBTcjdJQldMdlN4VElibTV6OGY1QlNrWVNtb2xYM214RHJtcjZjWjB0Q1VkOXAyRVk3bDJiX2lNN1pzcWQtTkdkNkx6MVVaVQ?oc=5",
+   "fecha": "2026-10-29T17:40:00-03:00",
+   "resumen": "Cornejo en la primera ronda de negocios del RIGI: “Tenemos todo para encender un nuevo motor de la economía y Mendoza quiere aprovechar esa ventana de oportunidades”    Diario San Rafael",
+   "medio": "Diario San Rafael",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 7.07,
+   "medios": [
+    "Diario San Rafael"
+   ]
+  },
+  {
+   "titulo": "Mendoza será sede por primera vez de una competencia internacional de vinos de siete países",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdGNVMmZWejRqLVRUWk5GM0NxWW5VWWc2d0NWTnNfaVEyaE5jVGNKQmxZcmhoeEh5RUFOTVA0SGQ4OFU4SHUxdW1FWlY0bDgxUEJscGkzODVDclgycXJZYkdwSmUxTmhjVkQ4cUhaeGtpQWFwd3g3M0Z3R2JjZE5MQmg1YlNjelpuYzA4ZFItV1B1eVdZT09XX05fSmc4eVJaSTV0cTYzblZTcWtBd2RMbnVLWkpGbDQ5c0haSzZrRUJkRV94VU52OVRrZkpuRGZ0OGhOSmd5N1VmbzZm?oc=5",
+   "fecha": "2026-10-30T07:09:00-03:00",
+   "resumen": "Mendoza será sede por primera vez de una competencia internacional de vinos de siete países    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 6.96,
+   "medios": [
+    "MDZ Online"
+   ]
+  },
+  {
+   "titulo": "El Senado aprobó el Régimen de Incentivo para Inversiones Relevantes",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdk5aX2N4aFFTM1EtbGtMTVdtYXRjX25hbTFjNHYwNDB0YS1IdDk5WFNZNzBOdUg4aEd6UkU2NEkwa1BybUI1Q21saWRKOVpyM3JUcld2WE5PQXFfOEdWemJtamVKYjhTaXg5SjJQakxvVy1NbzdGZXRkZ2Qxa2E4eWh1ZkVTbEZwNVpuNHB6NDh6V3NGZTFwd0pUVnlBU3U1Q3hXRg?oc=5",
+   "fecha": "2026-10-29T21:09:40-03:00",
+   "resumen": "El Senado aprobó el Régimen de Incentivo para Inversiones Relevantes    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 6.35,
+   "medios": [
+    "Diario El Sol Mendoza",
+    "MendoVoz"
    ]
   },
   {
@@ -493,7 +550,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.81,
+   "score": 5.86,
    "medios": [
     "Diario El Sol Mendoza"
    ]
@@ -508,14 +565,44 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.81,
+   "score": 5.86,
    "medios": [
     "Diario El Sol Mendoza"
    ]
   },
   {
+   "titulo": "Dólar bajo presión: el Banco Central, las reservas y una apertura con expectativa",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHdsTGl1UFBIVkN2T1U3RVc0ZEZDTUxMa2I2d0ZZenp3SkhLZ195YkhiNjU0MGJoMDB6cXRYT0NGYno0WFhuVUlqc3JYXzhrSGtYMjdXc01OeGV2VlMtWmsydEpwaTA0d1pJQ0s3dTVUdVBlUVdoMGVGQm5EcG9CWDRnZlZORk1GU3FQWFBqaFVDOEUtZnVVbzh6S2ZrV01rV2xkQmJPWEFCeTlxd3M2ZUpuMGJTbFVCdXpOT0pOM0NvMUpsM005U0hKOUtPR0k?oc=5",
+   "fecha": "2026-10-30T06:51:06-03:00",
+   "resumen": "Dólar bajo presión: el Banco Central, las reservas y una apertura con expectativa    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 5.31,
+   "medios": [
+    "MDZ Online"
+   ]
+  },
+  {
+   "titulo": "Dólar blue: a cuánto cotizan hoy en Mendoza 30 octubre 2026",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVldVdF9XbkFYeGNaQlJMdVNTMG9NRDgwR1U4aExPT1p0TjlpeHFZWHZ1dWFhcm5haHB4cV9VcGJ6OUNYT0ZqMjdXNGl2cW54X2hEVnl4eGg3eUtOcmJfbmMtTlN6T1J4QmVNTjk1QWpnU01zZjNXWXAwWlRkQmZkZ2VlbjV1eUstd1lzREJLMFc?oc=5",
+   "fecha": "2026-10-30T11:35:08-03:00",
+   "resumen": "Dólar blue: a cuánto cotizan hoy en Mendoza 30 octubre 2026    Infocampo",
+   "medio": "Infocampo",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 5.27,
+   "medios": [
+    "Infocampo"
+   ]
+  },
+  {
    "titulo": "Jorge Brito fue distinguido en San Rafael por sus inversiones en Mendoza",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmFYZ1lMRTFOYWF2cFJYTkxpSW41TDNacElmNHJFZURxWEdpcTlNaXJTbDdvTnkzNXVXNGtzTV9Jb0FldnhoYmpzSllMeE5rRjItVDZ4VHhzVnN6b3FTWDRVSmZaamRtNXQwcEpROHhIT1MyMTU4R0FwOWFNak1XR1NIT295V1ItaXZKVHBUS2dNOHVXc2YzVFhMMmhvSjlBSEFEWlRyMTdvQlJLWUhPRTR6d0NXTzDSAbcBQVVfeXFMT0phWGdZTEUxTmFhdnBSWE5MaUluNUwzWnBJZjRyRWVEcVhHaXE5TWlyU2w3b055MzV1VzRrc01fSW9BZXZ4aGJqc0pZTHhOa0YyLVQ2eFR4c1Zzem9xU1g0VUpmWmpkbTV0MHBKUTh4SE9TMjE1OEdBcDlhTWpNV0dTSE9veVdSLWl2SlRwVEtnTTh1V3NmM1RYTDJob0o5QUhBRFpUcjE3b0JSS1lIT0U0endDV08w?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVZiQ1ZranpiaGswcENCVWZhOEpYZTZCeE1rYWd5TVNHblpTZ0tuRTROQVdRazA5OGEzRVRyQ0xrNV9ETVY5SzYyWnN2THRVTGVILVBZeTRvdERxTkU3OWtQRzB5R1FQbUtsemJfT0YzVjN0NnRrTk1uS3NDX2I3NzNvbDdDakNoblFyYk81NDNxczRFT01VMmpPSzhWbTlmSFR3OVZ0S0N6Q19sV1ZmaHBn0gG3AUFVX3lxTE9KYVhnWUxFMU5hYXZwUlhOTGlJbjVMM1pwSWY0ckVlRHFYR2lxOU1pclNsN29OeTM1dVc0a3NNX0lvQWV2eGhianNKWUx4TmtGMi1UNnhUeHNWc3pvcVNYNFVKZlpqZG01dDBwSlE4eEhPUzIxNThHQXA5YU1qTVdHU0hPb3lXUi1pdkpUcFRLZ004dVdzZjNUWEwyaG9KOUFIQURaVHIxN29CUktZSE9FNHp3Q1dPMA?oc=5",
    "fecha": "2026-10-29T17:50:00-03:00",
    "resumen": "Jorge Brito fue distinguido en San Rafael por sus inversiones en Mendoza    Diario Mendoza",
    "medio": "Diario Mendoza",
@@ -523,7 +610,7 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 6.52,
+   "score": 5.2,
    "medios": [
     "Diario Mendoza"
    ]
@@ -538,389 +625,11 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 6.47,
+   "score": 5.15,
    "medios": [
     "Sitio Andino"
    ]
   },
-  {
-   "titulo": "El Senado aprobó el Régimen de Incentivo para Inversiones Relevantes",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdk5aX2N4aFFTM1EtbGtMTVdtYXRjX25hbTFjNHYwNDB0YS1IdDk5WFNZNzBOdUg4aEd6UkU2NEkwa1BybUI1Q21saWRKOVpyM3JUcld2WE5PQXFfOEdWemJtamVKYjhTaXg5SjJQakxvVy1NbzdGZXRkZ2Qxa2E4eWh1ZkVTbEZwNVpuNHB6NDh6V3NGZTFwd0pUVnlBU3U1Q3hXRg?oc=5",
-   "fecha": "2026-10-29T21:09:37-03:00",
-   "resumen": "El Senado aprobó el Régimen de Incentivo para Inversiones Relevantes    Diario El Sol Mendoza",
-   "medio": "Diario El Sol Mendoza",
-   "fuente": "El Sol",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 6.2,
-   "medios": [
-    "Diario El Sol Mendoza"
-   ]
-  },
-  {
-   "titulo": "Súper Niño: creció la preocupación por el empleo rural tras las lluvias en Mendoza",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHVkQzk3MnNDVWhuQThrUFZmN3ZRWWVNX3d2cTlNYjBoTEcwYVRQaTlYb3Etejdfdl85QThoU2JVc2NlVlJzbXBPVHFpWEI5N1JUblBybGs2UHJtdTh1eHA0WDI1YkRvTFVKRjRSN2NYSXAwZ3ROWURwRU1Tbzh6UnE1TnJLMF9Lei1SYU9uVlRmUUJFdHJ3SkptMUQ1ZGZiWUxaay1WdFFGOWJ1NkhXaGdrTnJhQQ?oc=5",
-   "fecha": "2026-10-29T11:28:14-03:00",
-   "resumen": "Súper Niño: creció la preocupación por el empleo rural tras las lluvias en Mendoza    Diario El Sol Mendoza",
-   "medio": "Diario El Sol Mendoza",
-   "fuente": "Empleo/SIPA Mendoza (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 6.07,
-   "medios": [
-    "Diario El Sol Mendoza"
-   ]
-  },
-  {
-   "titulo": "Cornejo destacó el potencial minero de Mendoza y puso el foco en una inversión de más de US$ 800 millones",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVdSTWp3RGhpVGtxQnU5RWNNRTA0c3dTUkVaMDdhd3J3dU1WcXRIejluUm51cW9Cek5FaVBGZnBfSVJReDdwcUZzUG81NDJlNmFFTENTU01kV0pESkxBMVZrZThMN2EtQUhsWXZJT3lUaVJlSXJRZnd5VjVGSHV0a2Viak9pejJSOWFxeW5Pb3dZMWk5ck5Qd3hyZzRkVWhKQ0dWMmtRSFVxZkFMLThlQjZFeWVFd3h3WEcyY21KVWVXTGJSM0dHQTc4MVJSc2ZNVHYxU0Y3eno0dw?oc=5",
-   "fecha": "2026-10-29T15:18:28-03:00",
-   "resumen": "Cornejo destacó el potencial minero de Mendoza y puso el foco en una inversión de más de US$ 800 millones    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 5.97,
-   "medios": [
-    "Diario Mendoza Today"
-   ]
-  },
-  {
-   "titulo": "Ronda RIGI: la UIA propone que las grandes inversiones impulsen a la industria nacional",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0JvV2ZSb3h6M1ZBNWh2QXdkTW9pOFNfdTdLX3BnazgyZUN3UU9wWU5MOU4yQXN1T09XWG9xXzVKSjQ0dmVoTDYxYXhWa1F1NHFnRV92Z2ZXb1Foc0x4cVdGaEI4YUJELWlheWk3RW5lcHlGTU1zcDhjcFRDZTZNb0VpOUVuM0NFZUdpdWVjWE15US0zS0F4T3U5WXJhYTlsUmR3SGx6ek9weGotR29vNU0zODNhNlNRNmdyUEotTGVnSWN4T3Fob0Jn?oc=5",
-   "fecha": "2026-10-29T16:20:00-03:00",
-   "resumen": "Ronda RIGI: la UIA propone que las grandes inversiones impulsen a la industria nacional    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 5.7,
-   "medios": [
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "El BCRA acumuló tres jornadas sin compras y el riesgo país siguió en alza",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVVkSkhWTVZfNEYxalplYkZMQjdELWljMlJuV3N5Sk1SZUh1Y1IxdTZEVUM1aXdpZ1hBN0RfQks2UXZDeEcwNGVGbWtrejZKQzhSRzZINF85VU5yaXBoMVBoZkxrSW1USldsa0RDbHdJWGxpZjNfeFJaQWJsM2lwRUk5Y2VIZlFPZ3l1YzlhVGRFa0U2M3JRVWNxbnB5TTdIcnV4OFdUZXNCZ9IBqgFBVV95cUxNNVVkSkhWTVZfNEYxalplYkZMQjdELWljMlJuV3N5Sk1SZUh1Y1IxdTZEVUM1aXdpZ1hBN0RfQks2UXZDeEcwNGVGbWtrejZKQzhSRzZINF85VU5yaXBoMVBoZkxrSW1USldsa0RDbHdJWGxpZjNfeFJaQWJsM2lwRUk5Y2VIZlFPZ3l1YzlhVGRFa0U2M3JRVWNxbnB5TTdIcnV4OFdUZXNCZw?oc=5",
-   "fecha": "2026-10-29T07:18:39-03:00",
-   "resumen": "El BCRA acumuló tres jornadas sin compras y el riesgo país siguió en alza    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 5.65,
-   "medios": [
-    "Diario Mendoza Today"
-   ]
-  },
-  {
-   "titulo": "Cornejo participa en Rosario de una ronda de negocios sobre minería e inversiones del RIGI",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU192MDVLYkloaGxLbUEwN1FUbW1jVWN5c2p2WURKaEhkSFhMNWV4Yk5keHhiTlZoVUI4cnBFWFdodTR6b3ktdGNYQU12VHBDZUpVVVBESTdMcWdFektQYzNFSWxCOVd5V3hUUl9nWXV4YUd2N0lCOC01NDY5eGx6Wk9MWHdjbC1hVFZFV3NNclpJYkZ1bDFiRnppdUJPUTJ1VEdtZUdDLV9nU3djaFpyalBYWGs2blM4cHNiRnZna0tpWXFmTWJXOA?oc=5",
-   "fecha": "2026-10-29T10:05:39-03:00",
-   "resumen": "Cornejo participa en Rosario de una ronda de negocios sobre minería e inversiones del RIGI    MinutoYA",
-   "medio": "MinutoYA",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 5.58,
-   "medios": [
-    "MinutoYA"
-   ]
-  },
-  {
-   "titulo": "RIGI: casi un centenar de empresas mendocinas participan hoy en la ronda de negocios de Rosario",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORjU3WFVwTS1RWmhmNnhycmR4MjlJclFuSWV1R2VnNUh6TVpmRW5pTEd5bVEwdnN5anVxY1pyRl9PNHpIWXJWZ05fLU8yelZKaXJ3Z3lDaXVsTUI1TzQ3blloRkkyTDRtakhlUVJHdHdSZnJJdjVJZkh6NTRVRDhEd0FTWlhXVVFFUFdpMmU3Tkh1aXl6czRiTWpvM0g4NC1FVHhPbFhJQ2VtVmdCMnhFMHBPSmFLUlFqWkRIb2tFYmxmOEhPVks0?oc=5",
-   "fecha": "2026-10-29T08:24:00-03:00",
-   "resumen": "RIGI: casi un centenar de empresas mendocinas participan hoy en la ronda de negocios de Rosario    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 5.49,
-   "medios": [
-    "Los Andes",
-    "examedia.com.ar"
-   ]
-  },
-  {
-   "titulo": "Nace la Red Iberoamericana de Turismo Ecocultural, con fuerte presencia mendocina",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNzJzWk1hV1dtTWItR3hyWXhRaUVTQ1lrQ3hjZFYzLW1sMXVGX2w5Q0dhal9QNGFzcHcwVThnU21JTWdEc1JoUGJLenlNSmZLcWxjNXEtdHFGM0pXVlNGN3ZZYTNUNDdORFlqaFhuUFQtYl9xbXRfNFBrTHhwN0JhZDlmamJZLUVMRE5nTTVkTkFra3ZaU2Fia2M4TFNDWFE?oc=5",
-   "fecha": "2026-10-30T06:39:42-03:00",
-   "resumen": "Nace la Red Iberoamericana de Turismo Ecocultural, con fuerte presencia mendocina    617 News",
-   "medio": "617 News",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 5.41,
-   "medios": [
-    "617 News"
-   ]
-  },
-  {
-   "titulo": "El FMI le pidió al Gobierno que siga bajando el riesgo país de cara a 2027",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3JHc3ZYYWZTbEZVb1FGVkNxVVhsVzNYODBkX2RNQWFTUnFQeGFDaDlIa083eExPY2g2VElDaEVYTWdzX25ZMU9Gb0JmRHk5czUzX3VUSzRIYkNlT3lwdXFXb0xsNXQ4YW5sak84aHg2MkVkcE1kTkZSMnhwR3VJcFlUdnNGd290M3M5X0JULTlQeVFOVGZHVmlzVFVPTkt3cHdVRUpqSG13Q2VxalVFVEhMd9IBswFBVV95cUxOX3JHc3ZYYWZTbEZVb1FGVkNxVVhsVzNYODBkX2RNQWFTUnFQeGFDaDlIa083eExPY2g2VElDaEVYTWdzX25ZMU9Gb0JmRHk5czUzX3VUSzRIYkNlT3lwdXFXb0xsNXQ4YW5sak84aHg2MkVkcE1kTkZSMnhwR3VJcFlUdnNGd290M3M5X0JULTlQeVFOVGZHVmlzVFVPTkt3cHdVRUpqSG13Q2VxalVFVEhMdw?oc=5",
-   "fecha": "2026-10-29T13:30:00-03:00",
-   "resumen": "El FMI le pidió al Gobierno que siga bajando el riesgo país de cara a 2027    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 4.98,
-   "medios": [
-    "Diario Mendoza"
-   ]
-  },
-  {
-   "titulo": "“El Niño va a dispararla” la advertencia del exministro Waldo Mendoza sobre la inflación en Perú y su propuesta enfocada en bonos, carreteras y créditos",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeEpFeHpILV9EOFV3NVZLQ1hLeFhRQXg5bFRBLS1USVdieUhmZ1FrVWtLcnlrMmdlaG9OYW9VRnptMEFidWRISk1qRTFIdHhHa3VkYmZQa0JoLWNrT0hNalltU1F2X3lNVWJScHFZVzg5dlkwYTVBcUNLaGtsZnlhaFpnV0s4cUpPQ3RoRmRRYjIwczliZWxfWWh1ZGVrRkVFWTFMVWRld18wQlcwT0VZaUpJcjVoRGhUVkF6TTN5YVhqZ2pWbWhpRjJ4bFAyeDBsdHN0ZWxiNVFaZWFkdHJndUc5UTFnYTJ1NVdKZndqYzA1SlNVY1Z5QUtEZmRZZTBQMmVDTlVqZksxcjI1T2J5ZjhRTE5WMVhrVFHSAbQCQVVfeXFMT3FoZmM4aVY3STZTX1Q3TkctSzhPUl93UUd2WFJhOE5mTk01eHVLU082TUlLbTZKMU9tTWJyQWU1bWZvaU9STHA3SVYzdDQwQU5HaXJOQzB3V1haMVJqeUxTc1k5T09hUHJMSngzcjRFNTRYQ0hXYlV5MVVySjZqZkJtVW1ZUEI3Z0M5dVgwajFfSWFFcllNbEVEWF9sMmJ2UElxSk1kRnNtdWFiLVd0Q1FzWl9SNnN5cTdhVnc0UkxrdWRaQjVyZzgxUDFHMk44RFlwRURkM25HQjBoWnFudFB1eVd0anlfSjhmWEtyWllHZmZBTk10cG1rSVdPYUJYN0NLd3dKMU1naERFXzdVUGVMTy1qQ1I5Rmp4dS16eW5tSUJBZ2U0ZUJrcnQ2V1EyRkE3U3Y?oc=5",
-   "fecha": "2026-10-29T08:35:58-03:00",
-   "resumen": "“El Niño va a dispararla” la advertencia del exministro Waldo Mendoza sobre la inflación en Perú y su propuesta enfocada en bonos, carreteras y créditos    Infobae",
-   "medio": "Infobae",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 4.96,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "El vino blanco gana terreno en Argentina y Mendoza sostiene sus despachos en 2026",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGJVcVkwZHFpaF9OX0hUUUtPLWVPYlBvUDhxbnJUVnBxMHhDTUt0VEJzZU1BNHdmaTFTdGlnZHVudjhzczhZMkk0Wm43d3FPeWtsOF82X3poWkhTNGFvNFREcjEtQTVDRS1velVmNFdIRzcxVUhXN192RUpmRWV1aXl4b180UUdjeFhTd0ZkYXUtX3dmN0ZyQ1Q5M0k5T1A3WEd4aTRPNXRaVjlNZjNKeUpPTjlRMlZrZkFqZE9n?oc=5",
-   "fecha": "2026-10-29T14:03:00-03:00",
-   "resumen": "El vino blanco gana terreno en Argentina y Mendoza sostiene sus despachos en 2026    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 4.87,
-   "medios": [
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "Clima de Inversión y Expectativas Empresariales",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXVPNmJRdVFSYUc0Zm5yc1A4NXpXZkFPcFBLcFp6RHpmYXNCbFlkdWVzanQ3c2tXM1RyOFhRazg4RlVfb2NCdU1tdkJHWnF6REM3N01EbFk0ZXdiaExZYlhLcFVmX2x0YlN6Q05qcFlqdjFQaVZHMHdndzVPT1N0eFRBRldOcURQdF9NSQ?oc=5",
-   "fecha": "2026-10-29T11:40:03-03:00",
-   "resumen": "Clima de Inversión y Expectativas Empresariales    Diario El Sol Mendoza",
-   "medio": "Diario El Sol Mendoza",
-   "fuente": "El Sol",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 4.42,
-   "medios": [
-    "Diario El Sol Mendoza"
-   ]
-  },
-  {
-   "titulo": "Lorenzo Mendoza advierte que la reconstrucción de Venezuela requiere alianzas entre sectores",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEdXNTdEUWhIdnVENXE1MHNwSHJJazhEQ0pMQ3QwckxwVnlCbE1hczR1cmdxeVBKd05PcUpwc3g3SmtaV0c3amNVanpndEowTDVLMkRjVVVOYk9YNVdlRkkyTG5YVG1PN1dmSzZaQ282Z19kOGZ3NGZla2FJVmJtTVBnV1N3QU1LblkwOUxZUFVycVUwbXp4czNNTzI3bzNKZXU4OElSNWNjN3AxUUhucW1XS19BZTBjaFByNUdEN1Z4UVlmcUZZ?oc=5",
-   "fecha": "2026-10-29T17:03:26-03:00",
-   "resumen": "Lorenzo Mendoza advierte que la reconstrucción de Venezuela requiere alianzas entre sectores    El Nacional",
-   "medio": "El Nacional",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 4.35,
-   "medios": [
-    "El Nacional"
-   ]
-  },
-  {
-   "titulo": "Turismo internacional: crecen las llegadas, pero el déficit de dólares supera los 918 millones",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEp6SWJnekdXR2ZNR1FzaUltMjZObzU3XzJNSkkxNWpOcHZYZDMtS1NOekl0SkhBZEZlTnpnbGJaMzFua21vdVR1eC0tdUx6WVpaazJCZTR6T2RoeE8tM3JlT2xTakRMMzM4aDNfbDlsdERxWHd5TXo0VjIxRzc4QlJfR2lONWg5LXdieTRSUmoxVTVsZWdsX196SUVJMVdFelRuTmtFRzFPejhQYkZxa1hPU3FjbUptalctYmZHVlFfX0RxZk9YQUpqWVZqLVVoVnQ1N2VSUURmZ9IB2gFBVV95cUxNcEp6SWJnekdXR2ZNR1FzaUltMjZObzU3XzJNSkkxNWpOcHZYZDMtS1NOekl0SkhBZEZlTnpnbGJaMzFua21vdVR1eC0tdUx6WVpaazJCZTR6T2RoeE8tM3JlT2xTakRMMzM4aDNfbDlsdERxWHd5TXo0VjIxRzc4QlJfR2lONWg5LXdieTRSUmoxVTVsZWdsX196SUVJMVdFelRuTmtFRzFPejhQYkZxa1hPU3FjbUptalctYmZHVlFfX0RxZk9YQUpqWVZqLVVoVnQ1N2VSUURmZw?oc=5",
-   "fecha": "2026-10-29T19:22:00-03:00",
-   "resumen": "Turismo internacional: crecen las llegadas, pero el déficit de dólares supera los 918 millones    Sitio Andino",
-   "medio": "Sitio Andino",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 4.33,
-   "medios": [
-    "Sitio Andino"
-   ]
-  },
-  {
-   "titulo": "No se movió el dólar blue en Mendoza y el oficial cedió terreno: recortaron la brecha",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajR2Q1JaYjRzOXd1dlFLRE1hb3lQOGxnRUQtZm0zZFZpSWlINW14cWk0bzhSMGd1YTI2SE03WXI3S1ZtdFNmX2QtOWhCZ3hYa21SVl9SQTA1amp3VmM2emRxRmkzcjVNWEJ1WTFvMGgzUEgybVlJaGRGT0VHUnNPUDJ0djZlT3M2aVhBVGsxbGhnWUhOYm4tZjZlc3Z0cVhPbi1RclQtUWY2ZFVvLTMxY2prNlJ6ajdV0gG-AUFVX3lxTE5QN1hkTzlJOWVRdXloWE85aUFob20wRnRTblJHdEdlQTlHNjR3bm0yV016ZmVlQ3RGaFQ4SmlnWDc1N1RRM0RHOFVzSWVob1BWUmk5bDdMUVJEdUdtajQ3SUxkSmR6TTZVdzh2UFRxeDI5OVhCcWxiZlBiVWl1enM4b0Z6U25JaW1YT1NrUklJcTgwNkpXVFpQeUlLSG0zbXhCVGgwQUFWZVdFNVdWOFNiN0ljM0ZjelUwYS1SNlE?oc=5",
-   "fecha": "2026-10-29T20:16:00-03:00",
-   "resumen": "No se movió el dólar blue en Mendoza y el oficial cedió terreno: recortaron la brecha    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 4.09,
-   "medios": [
-    "Diario Mendoza"
-   ]
-  },
-  {
-   "titulo": "Casi 100 empresas mendocinas buscan entrar en la cadena de proveedores del RIGI",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGwyLUUyeXlCVWszRGJTUFItaDhqVGE1ZFNWeHFGeVItTEFLZ1gwU3dJcTZ6RjJYSlllbjlObjBiRk8yS0N1VUQwQ1F4ZkFlYU1PSWRZNlJ0UmlnX3VtWFZTQXpTRk9CTWVkQXhlT2dFWVFwSFBDbGxSWEhFMjU0QzNhX1lyR2YwUkp1c3l3OE11c2N6djczMkhJSGtBYjc1ZWFrWHliSVlOLVNoaTYxSzIzd9IBtAFBVV95cUxObkZRZ282VWh3YW0ydjFXRXBzaHB3a2tlVW1ILWFEb0gwR0ZPWnRjbGpVZ0VSclpkNVZIbXFpYXBpSXRqdndPRXh2NEd4dm9QbE1ZZzh5N0NZbnFGQ0JtMzk2dF9UZFZ6eTRxZllhQ09qRGhfdVVRbFRPRDNqTXpKRkJQWVNqTXhUYlMyNkRUMFVOVHlGSDNQaERzc000RVpnQjFBa2w3MTJBSE9lUUNpa1g4U0Y?oc=5",
-   "fecha": "2026-10-29T11:04:41-03:00",
-   "resumen": "Casi 100 empresas mendocinas buscan entrar en la cadena de proveedores del RIGI    Memo.com.ar",
-   "medio": "Memo.com.ar",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 3.98,
-   "medios": [
-    "Memo.com.ar"
-   ]
-  },
-  {
-   "titulo": "Cornejo dice presente en la primera ronda de negocios RIGI: con quiénes se reunirá",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzVvNkpFdlRVREx2YzhQUUxqOG56azd6Z2dRallaT0tja3NlOG50NjVhS2NzMFZxeE4wMzFYVDAtQVdnSHVJSEozTkdlUXJDdlJLSkU1ck1xeDFSX0FCd1djbkJ1SENySFh2UWNkM1kzeElQcVk4Y1dCOFNYSjYxdjRia3NWMXFYQVBPZ2tBbURrZ3JUaVpOZUZSdkJnblRzWXhRSnV2UERnbVlhc2UzdUxaTDlXeEFqb19hT1dzcjJGZ3Jxd21ka2NmSjE1QVl3a1E?oc=5",
-   "fecha": "2026-10-29T10:14:36-03:00",
-   "resumen": "Cornejo dice presente en la primera ronda de negocios RIGI: con quiénes se reunirá    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.83,
-   "medios": [
-    "MDZ Online"
-   ]
-  },
-  {
-   "titulo": "Discapacidad y pobreza: la doble exclusión",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXltaDVfbmhmSjZkWU1xVkhrd3QwZ0VXR0JiNlgzc1RTRURpOGt3Nm9mRkE2T3V2N05OV0wzc1VNQkxhY2xVMC0xT2RPVGFfaDMtdGdnempLZzlyVk12VmRVNmtmN25nMGUwYWJUNXllUTB3S1hxdmc4bmswZ0w0TTRhS3oyNWJhdFhQWnpXODZyQUFsVkhvRHJzSWE?oc=5",
-   "fecha": "2026-10-30T06:56:38-03:00",
-   "resumen": "Discapacidad y pobreza: la doble exclusión    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.71,
-   "medios": [
-    "MDZ Online"
-   ]
-  },
-  {
-   "titulo": "Lorenzo Mendoza plantea una fase de reconstrucción nacional impulsada por alianzas con el sector privado",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU09mNk5YN2JrTEc4WE1td1lyVnpWT3ZhVGR3Tl9XeDhTNWNFSXNKRUdFVnRGYTVmN1kxR1NacHBkbkVpM2hXTENoWWdYMm5IOEdueGFMd2VHeUlwWFhaRTI1Ui1paTVWdmpBcURqbURyLU9xQjlYNVpmbWZRVWNvYnR4Nk5paTVOM09IZE1wb1hhTXNiR1Z1QV9vUUVrUl9LLUp1enRRTnd4RDFXSE9rTTZ2NmN5c3doWC11bXhTQ2IxRV9XMHZSNW1XZnFrNnFuYTBtVkpGTDVEQnNBT2lGMXZLNNIB4wFBVV95cUxNU09mNk5YN2JrTEc4WE1td1lyVnpWT3ZhVGR3Tl9XeDhTNWNFSXNKRUdFVnRGYTVmN1kxR1NacHBkbkVpM2hXTENoWWdYMm5IOEdueGFMd2VHeUlwWFhaRTI1Ui1paTVWdmpBcURqbURyLU9xQjlYNVpmbWZRVWNvYnR4Nk5paTVOM09IZE1wb1hhTXNiR1Z1QV9vUUVrUl9LLUp1enRRTnd4RDFXSE9rTTZ2NmN5c3doWC11bXhTQ2IxRV9XMHZSNW1XZnFrNnFuYTBtVkpGTDVEQnNBT2lGMXZLNA?oc=5",
-   "fecha": "2026-10-29T12:48:43-03:00",
-   "resumen": "Lorenzo Mendoza plantea una fase de reconstrucción nacional impulsada por alianzas con el sector privado    Descifrado",
-   "medio": "Descifrado",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 3.71,
-   "medios": [
-    "Descifrado"
-   ]
-  },
-  {
-   "titulo": "Griffouliere advirtió por el impacto de una posible devaluación del real y alertó sobre las dificultades del ajo y el vino mendocino",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVTJsMmZiMXVoR2s2Rk5Hc3ExVGo3TFl4QlJkMlptOWJ2U3lqOEdFZ01WM1B1QnNGLUpiU2ZaSXhUcm1ab25CclZjcm5FMlo0SnlNM29QeUltSXhFYmFKX1VXTVRlekNBTFFWWXRVd0FpQjg3OHptX1FNUnlyRndjaTQ5RG1iR0trNVlaaEhEeGRNYnFMcTFxWE9qN0J1RVE5VVh1YU5Pa1N3T2JqWFlWWDV2Zy1BQkZpa2cyOGpidmY5Zlk2NDBUQkFnMWEwbm56TUtxT0FVcjBrRlhjNHBUSWxSQ1Q?oc=5",
-   "fecha": "2026-10-29T09:58:17-03:00",
-   "resumen": "Griffouliere advirtió por el impacto de una posible devaluación del real y alertó sobre las dificultades del ajo y el vino mendocino    617 News",
-   "medio": "617 News",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 3.28,
-   "medios": [
-    "617 News"
-   ]
-  },
-  {
-   "titulo": "Dólar hoy: el blue cotiza a $1.565 y el oficial alcanza un máximo histórico",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmlHYXdaRmxYQnU3b3FlNVhsVWh2X19xd0RIUmxGa3J5RzQ5bUJ2WXpwVE9Zb2dfcHd1N18yZGE2QnY2eWxCcXBMWGZ5WXRrb0ZSYV9fQ05LZElzTnF5SUN0M2dKTGlyQmxWbDhfT1BfV2VNTnpFUFF1eWxPd0dlV25GS3AyeFlLVHhRM1c0aXNSVUUzdHpseHNpaXlDZWc1c3hKeHIzbHRvelpYcFVWVXBtY9IBswFBVV95cUxQTmlHYXdaRmxYQnU3b3FlNVhsVWh2X19xd0RIUmxGa3J5RzQ5bUJ2WXpwVE9Zb2dfcHd1N18yZGE2QnY2eWxCcXBMWGZ5WXRrb0ZSYV9fQ05LZElzTnF5SUN0M2dKTGlyQmxWbDhfT1BfV2VNTnpFUFF1eWxPd0dlV25GS3AyeFlLVHhRM1c0aXNSVUUzdHpseHNpaXlDZWc1c3hKeHIzbHRvelpYcFVWVXBtYw?oc=5",
-   "fecha": "2026-10-29T13:40:00-03:00",
-   "resumen": "Dólar hoy: el blue cotiza a $1.565 y el oficial alcanza un máximo histórico    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 3.25,
-   "medios": [
-    "Diario Mendoza"
-   ]
-  },
-  {
-   "titulo": "Más costos y riesgo de pérdidas millonarias: El Niño complica al agro de Mendoza",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3hYQnBzVllXbm5kTUZ0dGE4NU1hNGowcEVteTBrcmMtM1FOdGhOc2duaktzb3VCeU53czJrMk1laGRTdDRoNjlZNjE0NVhxN3dqZkNTMlF1WGliRFl0T29oWGltTHR2by1ybjM4aUZleWdudmJmZVI4TWJIZ1FiWGtsV0htTTRrNldsaGtSSkxwRTlNbVcwM0hmX0RIZWdkc0FPVVRKYzRneDVGT0hEZERuVDE3RHZSc1gwaTFwSy1hY3VNRDZ2MUpOc2pURDA?oc=5",
-   "fecha": "2026-10-29T07:05:02-03:00",
-   "resumen": "Más costos y riesgo de pérdidas millonarias: El Niño complica al agro de Mendoza    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.01,
-   "medios": [
-    "MDZ Online"
-   ]
-  },
-  {
-   "titulo": "Dólar blue: a cuánto cotizan hoy en Mendoza 29 octubre 2026",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYm14enpDMV8yVHd3NU5hVEFPZlRzQm8zTnV5anJOZjZnbC1CSElDeUppOEVYLUx3TVhQNV9oT3lVazFvWkEwQ05tU0dBdHpRdW1peTRWRUk4ZjlzX0E4NktEYzhadjFOOG93eWZBNHo4UTEtbFRUdklQc1pkWGRxZldKaTZaS3RuM1RXUUVWVk4?oc=5",
-   "fecha": "2026-10-29T11:35:06-03:00",
-   "resumen": "Dólar blue: a cuánto cotizan hoy en Mendoza 29 octubre 2026    Infocampo",
-   "medio": "Infocampo",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 2.98,
-   "medios": [
-    "Infocampo"
-   ]
-  },
-  {
-   "titulo": "Crisis en la industria electrónica: cayó la producción y casi no hay inversiones",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHNZN2NxdzRMamhHN0ZaYzlFbXNoUHdaWFo5akZUS2lVLUU5VzI5THJTSEZFSnVrcUw4aW1DanJ5UHB6TDBHU0w1Rm9HeVFxTGRpWjQyaVA4X1gwLU1qRHA2ejNvM19rLWdGejIwcWFKRXk4d21oejNBdzZrTzdNdUNfWjFRS19TcGpqTmdWa1JweU9tU2NHN3hZd0hqTnI1WUpWb3hJeEJJaWo5QnduZndiSzhtUWNNdFdmRnFoWGF2R2dNWVdjdEFkendzQzg?oc=5",
-   "fecha": "2026-10-29T12:59:20-03:00",
-   "resumen": "Crisis en la industria electrónica: cayó la producción y casi no hay inversiones    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 2.87,
-   "medios": [
-    "MDZ Online"
-   ]
-  },
-  {
-   "titulo": "Empleados de comercio: cuánto cobran en noviembre un vendedor, cajero y administrativo en Mendoza",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNanVLb3NMYXU0TE1KSzZvWHhkYmVnb1NxTUwtblZfTTdtNmUwWFJ5MjYxbHZPYzZGVkYtWXVDSm9vN01VejF4aWJrc0hjdFBFOW0tZzFLOEd0QjVPbGpaUlZsbVdpckpHWE9EM1MzMU1fenpjMXlWVmRUMDBOdWRKdndJd3hWNEM0WnNSWUE2MEJFS3JGM3VFUlhtNVNpbTlPRHFIakU0T2VxVGNIQlFUU2E5WmdsVE1tNEJMWXlvOVl0cEoxZ2p5akFKQTFKSnFB0gHWAUFVX3lxTE1oYTVlX1FKS3k5R3gyck1MWDN6YnNqdFF6NjhLV1doMTZQQkdEN0lhblJvWlRNTVVXLWY5TGVJOW85MGlMWkljUV9HS09xRWxaUDZrRkhaWW9SRzBMTjlHMWtwamg0S1BUT3EyRjZWUm1yYjhJc1VoNWJGY1JzeWdqSGw4UllpRkRudDgzTGIyTlItVWlzdTMyV0ZUdXk2TlNCY0FoOGh5SXJWcmlyd3ByTWRWTTEyV0preGNkSWU2TDYzOXM0MGNrUWIyOGZsN1ZTelFROUE?oc=5",
-   "fecha": "2026-10-29T10:25:00-03:00",
-   "resumen": "Empleados de comercio: cuánto cobran en noviembre un vendedor, cajero y administrativo en Mendoza    Sitio Andino",
-   "medio": "Sitio Andino",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 2.83,
-   "medios": [
-    "Sitio Andino"
-   ]
-  }
- ],
- "candidatas_argentina": [
   {
    "titulo": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGYwM3dKVDBvMnAzQmlMaU1tZ1FfUUgzZHZheEFjZ1dvYVhiemhxcFlCTmV1d0h3ZVNqa2lfVWIyTTZnMG9Vdndwek91a3FzTF9ITzBGX1lTZmNBUkRFVVkzSEVGbmV5dk94X1hWTWdjNmloZWdlQ3VIWUpQRElkNzFLbVRiR1FoLWZNWWx0RTFIUV9UdkJHX0ItaXpOQVlzNE1McXpvbmE3bG9SVUItWGVVWDVtWjhEdU9vSDVienk4eXplYnZ5Nmpn?oc=5",
@@ -931,105 +640,17 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 12.91,
+   "score": 5.12,
    "medios": [
-    "Cadena 3 Argentina",
     "Canal26",
     "Clarin.com",
     "Diario Chilecito",
     "Diario El Sol Mendoza",
-    "Diario la Ventana",
     "Forbes Argentina",
     "La Nación",
     "Los Andes",
-    "Los Primeros TV",
     "MDZ Online",
-    "Primera Edición",
-    "TeleSol Diario"
-   ]
-  },
-  {
-   "titulo": "FMI y Argentina: las medidas acordadas para reactivar la economía y reducir el riesgo país",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTBYQm1BMjN6TEU3NGtLSDdfbU1ZOWNhbE04QmNGNDB6b0FRQndOOXQxMU9DUnR5TTJuTDYxc1g5amtlZEdQTE8wSnpsWEtVZHR6X083ME1LX0FzQU1ybXRjNzlOVUEyM3dhdGJoZnlJdGE3X2dJOWNUaEh3ZWozQ3BSNF96LW1sWUllM0NDZktnVFc5ZUpva21XS3ZOd2lqTHYyS181RHZTMXBMRktGRjFPSWVoTDI3Ync?oc=5",
-   "fecha": "2026-10-29T15:17:10-03:00",
-   "resumen": "FMI y Argentina: las medidas acordadas para reactivar la economía y reducir el riesgo país    RoadShow",
-   "medio": "RoadShow",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 10.67,
-   "medios": [
-    "Agencia Noticias Argentinas",
-    "Hoy Día Córdoba",
-    "LA17",
-    "Medio de comunicación digital",
-    "RoadShow",
-    "Tiempo de San Juan",
-    "» Cholila Online"
-   ]
-  },
-  {
-   "titulo": "Inflación, reservas y crédito: las claves del nuevo informe del BCRA sobre la economía argentina",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ0ZUaUJLZDJzUFhkN0hpcFBPWWM0SVJiMVhLb3YwQmRMUHd6LVMtcmplX250aVFySlF2d1poT0NncWN1a3otMmFEeFAzYnQ4QTRIbEx4MFVzSVFYbXdYTjdzNnVFRDQzWXJ3djRfQkdvcGlma0FsVWJjMTB3V0MyYTlzVDM4dWZkdGZDajBKa1dQMi02ak5MN1RGaXBTM2ppRl82N1VzaXFHdzlYWnI3U2RXZl9PbV9GTFlKU1FXWVlSTkw4bUw2bWVnZTVDOUNWaUpOczU2eTVlUF9XZlRLSmZVX3FtSDFxV090Tmpiaw?oc=5",
-   "fecha": "2026-10-29T16:26:48-03:00",
-   "resumen": "Inflación, reservas y crédito: las claves del nuevo informe del BCRA sobre la economía argentina    Flipr.news",
-   "medio": "Flipr.news",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 9.82,
-   "medios": [
-    "Flipr.news"
-   ]
-  },
-  {
-   "titulo": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEs4cDBkcGdydUJJNVMtSmlQbVRucHlXSDhpRDZFVklMNW1sTTB4a05Od05zR1B1b240cXZad0pBYzI5MXhUQUptOVVZZFFkRy1reWN6VjlQUVBaYUVTdFZJTXN5UHBDX0xoSjFCNXZaMXZDZVdYd2ppT1ZrQjM5QXlGakk5amJBdVBpdmJwLWZpdERYNDExMWQyMEZfUEZKQUJVLUt2OFlMdmtHQm1OWWkwZTdMdnY3YkxMY0szYzVhY2pYaDJ4endUeU9obndUb2lvQzJ4NE5hZ9IB2gFBVV95cUxPMEs4cDBkcGdydUJJNVMtSmlQbVRucHlXSDhpRDZFVklMNW1sTTB4a05Od05zR1B1b240cXZad0pBYzI5MXhUQUptOVVZZFFkRy1reWN6VjlQUVBaYUVTdFZJTXN5UHBDX0xoSjFCNXZaMXZDZVdYd2ppT1ZrQjM5QXlGakk5amJBdVBpdmJwLWZpdERYNDExMWQyMEZfUEZKQUJVLUt2OFlMdmtHQm1OWWkwZTdMdnY3YkxMY0szYzVhY2pYaDJ4endUeU9obndUb2lvQzJ4NE5hZw?oc=5",
-   "fecha": "2026-10-30T00:27:20-03:00",
-   "resumen": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año    NoticiasNet",
-   "medio": "NoticiasNet",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 8.82,
-   "medios": [
-    "NoticiasNet",
-    "Ámbito"
-   ]
-  },
-  {
-   "titulo": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre, pero espera una recuperación en el último tramo del año",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUU1iaFl1blcwNktBVkpwVmZiRGN0SGJtaVFoWXNLR0VFNGVaZEhaYkdvd09IeEhJUFViUzFzU3gwQmhFeDBlTWdFRFNHeXRpMGFTNnVXM2JjVFZVaFBSaWVOcDkyVkRHdF81X2tHcmdvT3pjUjRLNlBndDd1QWJ0ejhOdExFOG4yRThOT0x1dnlmbTB0c0Q0LTFlS296ZERjZGJnMGMwTFBXbVRta0xTTWZxU25qQTRJeVUxcWhMN2dyTXltdTkxbV80SUttUDBmcTVIemxmNG9nZEFEVGVTb2dVUzlhRDRrcFA3ZzBBYU1EQmtGQXJnQl9JVdIBjwJBVV95cUxPcGtfOF9mY3VwTjl1UHlRTktsLTE4VnNYelZGaHMzMXF1aGdxWlFycXRDMmRKb2p1Qk9fcXpVWGdLVzYtaFRkMDl6SDRfM0pRalI3OUNOcjAtamtkNmtXdmNrQ3o0eHRSbjNVYlVWUURpMkFsbWpCZHVTUkxZSkxVc1BiQ1pMQUw4U0pRaWVMYlZYZFpWUGEyQ3BHR25paTlXNXk1V09UT3doVFFsaS0teEwyWlJvd1JlY2NVWk9hWXhRUDA3bzlJbmMzdTRpYWZhTngzX1ZQZG9WaVIzUTI2TzRqVkd0dEVsRmEyQVVYWlZXdElTZ0J0UWpmMC1fdWFwcUZ2bENzVVNUbXltQVBV?oc=5",
-   "fecha": "2026-10-29T15:40:37-03:00",
-   "resumen": "El BCRA reconoció que la actividad económica cayó en el tercer trimestre, pero espera una recuperación en el último tramo del año    TN",
-   "medio": "TN",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 8.59,
-   "medios": [
-    "BAE Negocios",
-    "Bloomberg Línea",
-    "TN"
-   ]
-  },
-  {
-   "titulo": "Menos consumo, industria en retroceso y presión sobre los precios: las alertas del BCRA",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSENMZDNaS0ZWeGVIbi1tdGl3cjNjd1N4bE9EdVhZaXJaYUJxb01Da1pUUmVlUjNlNkV4UVVDY3AtLXR4N0JLdE1ocUd0eGR5LWdpTTRFd2xHN1VXTUNZSGFSa2hieEp4M0p4VUJjc0FjM3BmS28tUzdJZHNKcE9LaXBNcHktQlJGdWs2V1J1MC1rS2o4STNWV1NsMndZWDZCdk00TV9WNERWaUVlVHpXMzQ4bmxUQk5QcXg2bnA3azdObmxfQ3ZrMlU3QQ?oc=5",
-   "fecha": "2026-10-29T17:51:08-03:00",
-   "resumen": "Menos consumo, industria en retroceso y presión sobre los precios: las alertas del BCRA    Infocielo",
-   "medio": "Infocielo",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 8.24,
-   "medios": [
-    "Infocielo"
+    "Primera Edición"
    ]
   },
   {
@@ -1042,7 +663,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 8.19,
+   "score": 5.0,
    "medios": [
     "El Cronista",
     "MDZ Online",
@@ -1050,34 +671,277 @@
    ]
   },
   {
-   "titulo": "El BCRA admitió caída en la actividad y posible repunte de la inflación: el rol clave de los swap con China y EE.UU. para 2027",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTnF2ZDlKc28yYWF5ZjNCdUFaSjdhbXY3MHlqWG9zcS1ySW5jUzd5QXlES1dOWnAtRDdSUENKaFpjclhsay1mT3hCM215bC04ZTd1T1NHeXI4dkRJOGFhOEhQa0VnVDNzSEtFUWtPX19GdTVEV1NYT2NxYy01dExKam13Qk9HbnYweFVfTTQtd1pKczBRZUlUX3Vzb2ZXV3JSMGZuekc4WnU5eUFrMDRUQXlXWGdUNzJ0ZUl1b1ktVmxkUjZJMUpJeFhFNVd5ekgxZHB3eHRmbUx2WVZod1VwcGViOHVtM2VXUmFuYjMxSjRHVHlXV2tvMmRnQ1kwRGfSAYcCQVVfeXFMTlRLTHctd1BackNYODlFLWRrVEJoTk1sdzczOF9taWRvMVBMZ29KdGQyNGM3T2ZGMW1FcDZGRndMYmUxc0REbkZUdW5mMlM5YzdpMUY5WDdjV2dXYTZ2YlhGdnBVd1NrQ2ItSW1XZUl4OGp4UjMtOGl2TS1yZHpRTHBaUVFENU9ncmVaSW9iVWdoQXF4QXVIWDJkWFh1cnZ3eUZaUEJvUzVYQzhfenZOZU9lcmJEd3RFbER2cmlycmdab1ZhVFUzajBsN1VTSzhOdmJmMms3MDZqcm1SSDJHYlFJb3dLVW1NbmpBN2dMN3BreUlKTjN2Z3BETGh0WHhuOG5vMkxlaHM?oc=5",
-   "fecha": "2026-10-29T21:23:11-03:00",
-   "resumen": "El BCRA admitió caída en la actividad y posible repunte de la inflación: el rol clave de los swap con China y EE.UU. para 2027    Diario Río Negro",
-   "medio": "Diario Río Negro",
+   "titulo": "El PBI creció 2% interanual, pero la inversión cayó 11,1% y el consumo avanzó apenas 0,4%",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEFBcmlYV1ZRQ050aHFPR1FiSVFzakdPeFhXNmFPbm9jMFAtMHNGTnNncEFlM3RsUHprQjNpRkZfWUJ3V2Z1VkswbG5RTHgta3BUeWs2bF85dTRfLW8wVWFLSDExaXBBR0tCZnBoTkFHaF84OEN6TzduWHFtSGhqbzNWYjBlaURkOVNSWkdPOEtGQWN0MWN3cmpCWjdqaWpBbUFvZll1ekRQS3NXYTJFdVB1V0YycTV1TUHSAboBQVVfeXFMTWxBQXJpWFdWUUNOdGhxT0dRYklRc2pHT3hYVzZhT25vYzBQLTBzRk5zZ3BBZTN0bFB6a0IzaUZGX1lCd1dmdVZLMGxuUUx4LWtwVHlrNmxfOXU0Xy1vMFVhS0gxMWlwQUdLQmZwaE5BR2hfODhDek83blhxbUhoam8zVmIwZWlEZDlTUlpHTzhLRkFjdDFjd3JqQlo3amlqQW1Bb2ZZdXpEUEtzV2EyRXVQdVdGMnE1dU1B?oc=5",
+   "fecha": "2026-10-29T07:39:01-03:00",
+   "resumen": "El PBI creció 2% interanual, pero la inversión cayó 11,1% y el consumo avanzó apenas 0,4%    Diario Mendoza Today",
+   "medio": "Diario Mendoza Today",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.92,
+   "medios": [
+    "Diario Mendoza Today"
+   ]
+  },
+  {
+   "titulo": "Nace la Red Iberoamericana de Turismo Ecocultural, con fuerte presencia mendocina",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNzJzWk1hV1dtTWItR3hyWXhRaUVTQ1lrQ3hjZFYzLW1sMXVGX2w5Q0dhal9QNGFzcHcwVThnU21JTWdEc1JoUGJLenlNSmZLcWxjNXEtdHFGM0pXVlNGN3ZZYTNUNDdORFlqaFhuUFQtYl9xbXRfNFBrTHhwN0JhZDlmamJZLUVMRE5nTTVkTkFra3ZaU2Fia2M4TFNDWFE?oc=5",
+   "fecha": "2026-10-30T07:59:56-03:00",
+   "resumen": "Nace la Red Iberoamericana de Turismo Ecocultural, con fuerte presencia mendocina    617 News",
+   "medio": "617 News",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 4.82,
+   "medios": [
+    "617 News"
+   ]
+  },
+  {
+   "titulo": "Cornejo destacó el potencial minero de Mendoza y puso el foco en una inversión de más de US$ 800 millones",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZVdSTWp3RGhpVGtxQnU5RWNNRTA0c3dTUkVaMDdhd3J3dU1WcXRIejluUm51cW9Cek5FaVBGZnBfSVJReDdwcUZzUG81NDJlNmFFTENTU01kV0pESkxBMVZrZThMN2EtQUhsWXZJT3lUaVJlSXJRZnd5VjVGSHV0a2Viak9pejJSOWFxeW5Pb3dZMWk5ck5Qd3hyZzRkVWhKQ0dWMmtRSFVxZkFMLThlQjZFeWVFd3h3WEcyY21KVWVXTGJSM0dHQTc4MVJSc2ZNVHYxU0Y3eno0dw?oc=5",
+   "fecha": "2026-10-29T15:18:28-03:00",
+   "resumen": "Cornejo destacó el potencial minero de Mendoza y puso el foco en una inversión de más de US$ 800 millones    Diario Mendoza Today",
+   "medio": "Diario Mendoza Today",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 4.65,
+   "medios": [
+    "Diario Mendoza Today"
+   ]
+  },
+  {
+   "titulo": "Súper Niño: creció la preocupación por el empleo rural tras las lluvias en Mendoza",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHVkQzk3MnNDVWhuQThrUFZmN3ZRWWVNX3d2cTlNYjBoTEcwYVRQaTlYb3Etejdfdl85QThoU2JVc2NlVlJzbXBPVHFpWEI5N1JUblBybGs2UHJtdTh1eHA0WDI1YkRvTFVKRjRSN2NYSXAwZ3ROWURwRU1Tbzh6UnE1TnJLMF9Lei1SYU9uVlRmUUJFdHJ3SkptMUQ1ZGZiWUxaay1WdFFGOWJ1NkhXaGdrTnJhQQ?oc=5",
+   "fecha": "2026-10-29T11:28:14-03:00",
+   "resumen": "Súper Niño: creció la preocupación por el empleo rural tras las lluvias en Mendoza    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "Empleo/SIPA Mendoza (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.51,
+   "medios": [
+    "Diario El Sol Mendoza"
+   ]
+  },
+  {
+   "titulo": "Ronda RIGI: la UIA propone que las grandes inversiones impulsen a la industria nacional",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0JvV2ZSb3h6M1ZBNWh2QXdkTW9pOFNfdTdLX3BnazgyZUN3UU9wWU5MOU4yQXN1T09XWG9xXzVKSjQ0dmVoTDYxYXhWa1F1NHFnRV92Z2ZXb1Foc0x4cVdGaEI4YUJELWlheWk3RW5lcHlGTU1zcDhjcFRDZTZNb0VpOUVuM0NFZUdpdWVjWE15US0zS0F4T3U5WXJhYTlsUmR3SGx6ek9weGotR29vNU0zODNhNlNRNmdyUEotTGVnSWN4T3Fob0Jn?oc=5",
+   "fecha": "2026-10-29T16:20:00-03:00",
+   "resumen": "Ronda RIGI: la UIA propone que las grandes inversiones impulsen a la industria nacional    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.49,
+   "medios": [
+    "Los Andes"
+   ]
+  },
+  {
+   "titulo": "Alfredo Cornejo lanzó la licitación para digitalizar el sistema de salud con US$ 85 millones",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdWI4ak5nd1F0WlRaQ2c1andDWjNkNmVVSDVQWVh3a3JNUVJEVW5nRXVUdXFJVTlNd08wMTJ6VG9tR05CT2J5X3FSVUE4U2JsbnJCRV9Vd0FfNnBUN3JGbHdyNFFzcFlBblo2YnJTNWtrNTJ5aDBiWVFwVWRMRWU2S1h3bjlic1hoVy1sZ2xpaU9pOEd2Rl94RXFaNjFaMFI2bVlOajNuaUpPTDJXQlp5VlFzSlVwMnhlU0MxdDZnLThZdGlfUmJ1VHJoN3dGdGt1bkFZZHpLMmFyWWc1OWJj?oc=5",
+   "fecha": "2026-10-30T08:47:16-03:00",
+   "resumen": "Alfredo Cornejo lanzó la licitación para digitalizar el sistema de salud con US$ 85 millones    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.47,
+   "medios": [
+    "MDZ Online"
+   ]
+  },
+  {
+   "titulo": "El BCRA acumuló tres jornadas sin compras y el riesgo país siguió en alza",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVVkSkhWTVZfNEYxalplYkZMQjdELWljMlJuV3N5Sk1SZUh1Y1IxdTZEVUM1aXdpZ1hBN0RfQks2UXZDeEcwNGVGbWtrejZKQzhSRzZINF85VU5yaXBoMVBoZkxrSW1USldsa0RDbHdJWGxpZjNfeFJaQWJsM2lwRUk5Y2VIZlFPZ3l1YzlhVGRFa0U2M3JRVWNxbnB5TTdIcnV4OFdUZXNCZ9IBqgFBVV95cUxNNVVkSkhWTVZfNEYxalplYkZMQjdELWljMlJuV3N5Sk1SZUh1Y1IxdTZEVUM1aXdpZ1hBN0RfQks2UXZDeEcwNGVGbWtrejZKQzhSRzZINF85VU5yaXBoMVBoZkxrSW1USldsa0RDbHdJWGxpZjNfeFJaQWJsM2lwRUk5Y2VIZlFPZ3l1YzlhVGRFa0U2M3JRVWNxbnB5TTdIcnV4OFdUZXNCZw?oc=5",
+   "fecha": "2026-10-29T07:18:39-03:00",
+   "resumen": "El BCRA acumuló tres jornadas sin compras y el riesgo país siguió en alza    Diario Mendoza Today",
+   "medio": "Diario Mendoza Today",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.88,
+   "medios": [
+    "Diario Mendoza Today"
+   ]
+  },
+  {
+   "titulo": "El FMI le pidió al Gobierno que siga bajando el riesgo país de cara a 2027",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3JHc3ZYYWZTbEZVb1FGVkNxVVhsVzNYODBkX2RNQWFTUnFQeGFDaDlIa083eExPY2g2VElDaEVYTWdzX25ZMU9Gb0JmRHk5czUzX3VUSzRIYkNlT3lwdXFXb0xsNXQ4YW5sak84aHg2MkVkcE1kTkZSMnhwR3VJcFlUdnNGd290M3M5X0JULTlQeVFOVGZHVmlzVFVPTkt3cHdVRUpqSG13Q2VxalVFVEhMd9IBswFBVV95cUxOX3JHc3ZYYWZTbEZVb1FGVkNxVVhsVzNYODBkX2RNQWFTUnFQeGFDaDlIa083eExPY2g2VElDaEVYTWdzX25ZMU9Gb0JmRHk5czUzX3VUSzRIYkNlT3lwdXFXb0xsNXQ4YW5sak84aHg2MkVkcE1kTkZSMnhwR3VJcFlUdnNGd290M3M5X0JULTlQeVFOVGZHVmlzVFVPTkt3cHdVRUpqSG13Q2VxalVFVEhMdw?oc=5",
+   "fecha": "2026-10-29T13:30:00-03:00",
+   "resumen": "El FMI le pidió al Gobierno que siga bajando el riesgo país de cara a 2027    Diario Mendoza",
+   "medio": "Diario Mendoza",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 3.8,
+   "medios": [
+    "Diario Mendoza"
+   ]
+  },
+  {
+   "titulo": "El vino blanco gana terreno en Argentina y Mendoza sostiene sus despachos en 2026",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGJVcVkwZHFpaF9OX0hUUUtPLWVPYlBvUDhxbnJUVnBxMHhDTUt0VEJzZU1BNHdmaTFTdGlnZHVudjhzczhZMkk0Wm43d3FPeWtsOF82X3poWkhTNGFvNFREcjEtQTVDRS1velVmNFdIRzcxVUhXN192RUpmRWV1aXl4b180UUdjeFhTd0ZkYXUtX3dmN0ZyQ1Q5M0k5T1A3WEd4aTRPNXRaVjlNZjNKeUpPTjlRMlZrZkFqZE9n?oc=5",
+   "fecha": "2026-10-29T14:03:00-03:00",
+   "resumen": "El vino blanco gana terreno en Argentina y Mendoza sostiene sus despachos en 2026    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.74,
+   "medios": [
+    "Los Andes"
+   ]
+  },
+  {
+   "titulo": "El escalofriante crimen que originó la leyenda más temida de Mendoza",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2pZRkhrOFo0SThrQ2J1UnpMRWdleVYxaEt5T1hWV2VLU0RNYzFvTVBLMENtTjBjR3RBcFZ3R0NQWkFoZkZyY0doM1FMa0NNb1UtRE5Tanl4Q256UTQxLTNfaUJuX1NCckFtVHBfeURiQ1lTcFY1SUdfRnpMYTJQNjd0VENFUHlzc0p4dWRUUWFTX01VRUZHMXJtdVNYamlwMGh3Nk81WlM0TXNjOXNwa3Bn0gG3AUFVX3lxTE9UMFlVY3Iyd29KYjV0WmtsNEVsRF9QQWpMRl9xUExidHFPakt2SG1QaGdDMk5iVkF5YkV6bmRyN1Q2VFVZRFVqT2VNNjBIRWlkZmFDd3JTOG5TeDNPMkgyTlJwRC1iVTd2TldzMG5VNktUdllLWG9veERDSnJsOUJCVVNQN0VkOUViYUFXb0xHblB6S2E3YVlHbVJEWkxmOXFvNUljcTVlblpKcVhfQTIzRkh2RmR2aw?oc=5",
+   "fecha": "2026-10-29T11:15:00-03:00",
+   "resumen": "El escalofriante crimen que originó la leyenda más temida de Mendoza    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.71,
+   "medios": [
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "“El Niño va a dispararla” la advertencia del exministro Waldo Mendoza sobre la inflación en Perú y su propuesta enfocada en bonos, carreteras y créditos",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeEpFeHpILV9EOFV3NVZLQ1hLeFhRQXg5bFRBLS1USVdieUhmZ1FrVWtLcnlrMmdlaG9OYW9VRnptMEFidWRISk1qRTFIdHhHa3VkYmZQa0JoLWNrT0hNalltU1F2X3lNVWJScHFZVzg5dlkwYTVBcUNLaGtsZnlhaFpnV0s4cUpPQ3RoRmRRYjIwczliZWxfWWh1ZGVrRkVFWTFMVWRld18wQlcwT0VZaUpJcjVoRGhUVkF6TTN5YVhqZ2pWbWhpRjJ4bFAyeDBsdHN0ZWxiNVFaZWFkdHJndUc5UTFnYTJ1NVdKZndqYzA1SlNVY1Z5QUtEZmRZZTBQMmVDTlVqZksxcjI1T2J5ZjhRTE5WMVhrVFHSAbQCQVVfeXFMT3FoZmM4aVY3STZTX1Q3TkctSzhPUl93UUd2WFJhOE5mTk01eHVLU082TUlLbTZKMU9tTWJyQWU1bWZvaU9STHA3SVYzdDQwQU5HaXJOQzB3V1haMVJqeUxTc1k5T09hUHJMSngzcjRFNTRYQ0hXYlV5MVVySjZqZkJtVW1ZUEI3Z0M5dVgwajFfSWFFcllNbEVEWF9sMmJ2UElxSk1kRnNtdWFiLVd0Q1FzWl9SNnN5cTdhVnc0UkxrdWRaQjVyZzgxUDFHMk44RFlwRURkM25HQjBoWnFudFB1eVd0anlfSjhmWEtyWllHZmZBTk10cG1rSVdPYUJYN0NLd3dKMU1naERFXzdVUGVMTy1qQ1I5Rmp4dS16eW5tSUJBZ2U0ZUJrcnQ2V1EyRkE3U3Y?oc=5",
+   "fecha": "2026-10-29T09:24:00-03:00",
+   "resumen": "“El Niño va a dispararla” la advertencia del exministro Waldo Mendoza sobre la inflación en Perú y su propuesta enfocada en bonos, carreteras y créditos    Infobae",
+   "medio": "Infobae",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 3.7,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Vitivinicultura: el recambio tecnológico modifica perfiles laborales y hay recorte de personal",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdDNtY2U2Ynl1LUdja0FrTmk2eUctSkFrYlJnVnlDTTlDQWdSQXpubUlhRkhoN19xZUNubFhhekZwMUpmZHNFeTZRV19tS0x2R1RjS2tKTXozLWdpOGJTb2c5ekN2bTZVSTZ1MDJoOFl3UXN2b21rVVAyaFJwTE5NSWNFbXpmeGE3VzRCSHItWVdCMGZVVE9TTkd1WFdGLW5sNTJPNE9ycXlIb2Y4VE1HYTYtNV9LSVllQWUzYktJMnVLejRUcHdfazJnVkpUSERGQXc?oc=5",
+   "fecha": "2026-10-30T12:05:00-03:00",
+   "resumen": "Vitivinicultura: el recambio tecnológico modifica perfiles laborales y hay recorte de personal    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.64,
+   "medios": [
+    "Los Andes"
+   ]
+  },
+  {
+   "titulo": "Turismo internacional: crecen las llegadas, pero el déficit de dólares supera los 918 millones",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEp6SWJnekdXR2ZNR1FzaUltMjZObzU3XzJNSkkxNWpOcHZYZDMtS1NOekl0SkhBZEZlTnpnbGJaMzFua21vdVR1eC0tdUx6WVpaazJCZTR6T2RoeE8tM3JlT2xTakRMMzM4aDNfbDlsdERxWHd5TXo0VjIxRzc4QlJfR2lONWg5LXdieTRSUmoxVTVsZWdsX196SUVJMVdFelRuTmtFRzFPejhQYkZxa1hPU3FjbUptalctYmZHVlFfX0RxZk9YQUpqWVZqLVVoVnQ1N2VSUURmZ9IB2gFBVV95cUxNcEp6SWJnekdXR2ZNR1FzaUltMjZObzU3XzJNSkkxNWpOcHZYZDMtS1NOekl0SkhBZEZlTnpnbGJaMzFua21vdVR1eC0tdUx6WVpaazJCZTR6T2RoeE8tM3JlT2xTakRMMzM4aDNfbDlsdERxWHd5TXo0VjIxRzc4QlJfR2lONWg5LXdieTRSUmoxVTVsZWdsX196SUVJMVdFelRuTmtFRzFPejhQYkZxa1hPU3FjbUptalctYmZHVlFfX0RxZk9YQUpqWVZqLVVoVnQ1N2VSUURmZw?oc=5",
+   "fecha": "2026-10-29T19:22:00-03:00",
+   "resumen": "Turismo internacional: crecen las llegadas, pero el déficit de dólares supera los 918 millones    Sitio Andino",
+   "medio": "Sitio Andino",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.5,
+   "medios": [
+    "Sitio Andino"
+   ]
+  },
+  {
+   "titulo": "Lorenzo Mendoza advierte que la reconstrucción de Venezuela requiere alianzas entre sectores",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaEdXNTdEUWhIdnVENXE1MHNwSHJJazhEQ0pMQ3QwckxwVnlCbE1hczR1cmdxeVBKd05PcUpwc3g3SmtaV0c3amNVanpndEowTDVLMkRjVVVOYk9YNVdlRkkyTG5YVG1PN1dmSzZaQ282Z19kOGZ3NGZla2FJVmJtTVBnV1N3QU1LblkwOUxZUFVycVUwbXp4czNNTzI3bzNKZXU4OElSNWNjN3AxUUhucW1XS19BZTBjaFByNUdEN1Z4UVlmcUZZ?oc=5",
+   "fecha": "2026-10-29T17:03:26-03:00",
+   "resumen": "Lorenzo Mendoza advierte que la reconstrucción de Venezuela requiere alianzas entre sectores    El Nacional",
+   "medio": "El Nacional",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 3.44,
+   "medios": [
+    "El Nacional"
+   ]
+  },
+  {
+   "titulo": "No se movió el dólar blue en Mendoza y el oficial cedió terreno: recortaron la brecha",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNajR2Q1JaYjRzOXd1dlFLRE1hb3lQOGxnRUQtZm0zZFZpSWlINW14cWk0bzhSMGd1YTI2SE03WXI3S1ZtdFNmX2QtOWhCZ3hYa21SVl9SQTA1amp3VmM2emRxRmkzcjVNWEJ1WTFvMGgzUEgybVlJaGRGT0VHUnNPUDJ0djZlT3M2aVhBVGsxbGhnWUhOYm4tZjZlc3Z0cVhPbi1RclQtUWY2ZFVvLTMxY2prNlJ6ajdV0gG-AUFVX3lxTE5QN1hkTzlJOWVRdXloWE85aUFob20wRnRTblJHdEdlQTlHNjR3bm0yV016ZmVlQ3RGaFQ4SmlnWDc1N1RRM0RHOFVzSWVob1BWUmk5bDdMUVJEdUdtajQ3SUxkSmR6TTZVdzh2UFRxeDI5OVhCcWxiZlBiVWl1enM4b0Z6U25JaW1YT1NrUklJcTgwNkpXVFpQeUlLSG0zbXhCVGgwQUFWZVdFNVdWOFNiN0ljM0ZjelUwYS1SNlE?oc=5",
+   "fecha": "2026-10-29T20:16:00-03:00",
+   "resumen": "No se movió el dólar blue en Mendoza y el oficial cedió terreno: recortaron la brecha    Diario Mendoza",
+   "medio": "Diario Mendoza",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 3.32,
+   "medios": [
+    "Diario Mendoza"
+   ]
+  },
+  {
+   "titulo": "Clima de Inversión y Expectativas Empresariales",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXVPNmJRdVFSYUc0Zm5yc1A4NXpXZkFPcFBLcFp6RHpmYXNCbFlkdWVzanQ3c2tXM1RyOFhRazg4RlVfb2NCdU1tdkJHWnF6REM3N01EbFk0ZXdiaExZYlhLcFVmX2x0YlN6Q05qcFlqdjFQaVZHMHdndzVPT1N0eFRBRldOcURQdF9NSQ?oc=5",
+   "fecha": "2026-10-29T11:40:03-03:00",
+   "resumen": "Clima de Inversión y Expectativas Empresariales    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.29,
+   "medios": [
+    "Diario El Sol Mendoza"
+   ]
+  }
+ ],
+ "candidatas_argentina": [
+  {
+   "titulo": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEs4cDBkcGdydUJJNVMtSmlQbVRucHlXSDhpRDZFVklMNW1sTTB4a05Od05zR1B1b240cXZad0pBYzI5MXhUQUptOVVZZFFkRy1reWN6VjlQUVBaYUVTdFZJTXN5UHBDX0xoSjFCNXZaMXZDZVdYd2ppT1ZrQjM5QXlGakk5amJBdVBpdmJwLWZpdERYNDExMWQyMEZfUEZKQUJVLUt2OFlMdmtHQm1OWWkwZTdMdnY3YkxMY0szYzVhY2pYaDJ4endUeU9obndUb2lvQzJ4NE5hZ9IB2gFBVV95cUxPMEs4cDBkcGdydUJJNVMtSmlQbVRucHlXSDhpRDZFVklMNW1sTTB4a05Od05zR1B1b240cXZad0pBYzI5MXhUQUptOVVZZFFkRy1reWN6VjlQUVBaYUVTdFZJTXN5UHBDX0xoSjFCNXZaMXZDZVdYd2ppT1ZrQjM5QXlGakk5amJBdVBpdmJwLWZpdERYNDExMWQyMEZfUEZKQUJVLUt2OFlMdmtHQm1OWWkwZTdMdnY3YkxMY0szYzVhY2pYaDJ4endUeU9obndUb2lvQzJ4NE5hZw?oc=5",
+   "fecha": "2026-10-30T00:27:20-03:00",
+   "resumen": "El BCRA prevé un \"aumento significativo\" de la actividad económica para fin de año    NoticiasNet",
+   "medio": "NoticiasNet",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 8.07,
+   "score": 9.47,
    "medios": [
-    "Diario Hoy En la noticia",
-    "Diario Río Negro"
+    "Ambito",
+    "NoticiasNet",
+    "Ámbito"
    ]
   },
   {
-   "titulo": "Más de 1800 empresas quieren subirse a la ola del RIGI, sobre todo en el sector de la minería",
-   "url": "https://www.lanacion.com.ar/economia/mas-de-1800-empresas-quieren-subirse-a-la-ola-del-rigi-sobre-todo-en-el-sector-de-la-mineria-nid29102026/",
-   "fecha": "2026-10-29T17:12:17-03:00",
-   "resumen": "Rosario fue la sede de una gran ronda de negocios entre quienes adhirieron al régimen de inversiones y las pymes que quieren venderles productos y servicios",
-   "medio": "La Nación",
-   "fuente": "La Nación",
+   "titulo": "La inflación en Italia subió al 5,4% en octubre y el PBI no creció en el tercer trimestre",
+   "url": "https://www.infobae.com/america/mundo/2026/10/30/la-inflacion-en-italia-subio-al-54-en-octubre-y-el-pbi-no-crecio-en-el-tercer-trimestre/",
+   "fecha": "2026-10-30T12:34:33-03:00",
+   "resumen": "El encarecimiento de la energía, que superó el 31% interanual, impulsó el alza de precios en la península",
+   "medio": "Infobae",
+   "fuente": "Infobae",
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 8.06,
+   "score": 7.85,
    "medios": [
-    "La Nación"
+    "Infobae"
    ]
   },
   {
@@ -1090,146 +954,65 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 7.76,
+   "score": 7.73,
    "medios": [
     "El Destape",
+    "Mundo Empresarial AR",
     "Primera Edición"
    ]
   },
   {
-   "titulo": "Comenzó la primera ronda de negocios del RIGI: los sectores “estrella” de la economía buscan sumar proveedores locales",
-   "url": "https://www.infobae.com/economia/2026/10/29/comenzo-la-primera-ronda-de-negocios-del-rigi-los-sectores-estrella-de-la-economia-buscan-sumar-proveedores-locales/",
-   "fecha": "2026-10-29T13:05:45-03:00",
-   "resumen": "En Rosario, funcionarios nacionales y gobernadores destacaron el potencial de la minería y la energía para impulsar las exportaciones, generar empleo y fortalecer la industria",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 6.92,
+   "titulo": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGYwM3dKVDBvMnAzQmlMaU1tZ1FfUUgzZHZheEFjZ1dvYVhiemhxcFlCTmV1d0h3ZVNqa2lfVWIyTTZnMG9Vdndwek91a3FzTF9ITzBGX1lTZmNBUkRFVVkzSEVGbmV5dk94X1hWTWdjNmloZWdlQ3VIWUpQRElkNzFLbVRiR1FoLWZNWWx0RTFIUV9UdkJHX0ItaXpOQVlzNE1McXpvbmE3bG9SVUItWGVVWDVtWjhEdU9vSDVienk4eXplYnZ5Nmpn?oc=5",
+   "fecha": "2026-10-29T13:49:00-03:00",
+   "resumen": "Las cuatro medidas que el FMI acordó con el Gobierno para impulsar el crecimiento de la economía    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 7.16,
    "medios": [
-    "Infobae"
+    "Canal26",
+    "Clarin.com",
+    "Diario Chilecito",
+    "Diario El Sol Mendoza",
+    "Forbes Argentina",
+    "La Nación",
+    "Los Andes",
+    "MDZ Online",
+    "Primera Edición"
    ]
   },
   {
-   "titulo": "El BCRA anticipa presiones sobre la inflación en el último trimestre: cuáles son los tres rubros que pueden empujar los precios",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPR2hjbkJXRWUtblpWTG9LUjA0OHhNX3RJYkxYU3M3OVhLM0lPM2VHNHhXNkptMU5rTXhxdUtLSTdiSVllQXNRaVV0eFlkQ2ZpQlNQX0VoNC1xY1NOdDcxNGhsbWZKN2FhUHJBQll1WmtBYndNTS0wR096dURIV3JEWmxwUXZyOGFFYzB1dkc4SHBPWlI0VEpld0U1MElNeThNWjVRbFVmSFVYX1l3VWxvMEdtZVNINng5SUx0aFpEU0c5VGZGSGNSNlE3amJqUnhJeE1xYndpTlRNZ3ZMRjVYNVk3emsteDdQUUJKcVFNRzlmQzJ6aUZGVnFGbEM0VHBq0gGbAkFVX3lxTE53OVYzdEdKTU5yVWwzdmZSTUhvamRpYThpcU96dXhVM3dpUHlGMVk5VnRIUUY5UWdsZXhHdFVvZHBOQml2eGhybHlsRnpXelBreS03LXduYmw5UmJxckpzRXE2RmdESHU1Um5YRVNWS3hMcHBFUFJ5TnpiX2M2bmNVelNhdVJlenZROXdBODZKS1g3WnBfN2tXNlgzeE5hQ1EtaUxxUEg1T2xkZndtNFFLNVJSRDlMUjZIVDFUQThJYTItMVFuOEZDNlF2b3ltQm9MeFF5RE54NU9yYU1vb0VsWk9HbHJaWG5Memtjc0lyMDNDU3NmWWEwcm9CcWNvSW9WVFJmazNDSDBWMk05a19wV0dEaVc3NXZVbkU?oc=5",
-   "fecha": "2026-10-29T16:28:00-03:00",
-   "resumen": "El BCRA anticipa presiones sobre la inflación en el último trimestre: cuáles son los tres rubros que pueden empujar los precios    Infobae",
-   "medio": "Infobae",
+   "titulo": "El BCRA admitió caída en la actividad y posible repunte de la inflación: el rol clave de los swap con China y EE.UU. para 2027",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTnF2ZDlKc28yYWF5ZjNCdUFaSjdhbXY3MHlqWG9zcS1ySW5jUzd5QXlES1dOWnAtRDdSUENKaFpjclhsay1mT3hCM215bC04ZTd1T1NHeXI4dkRJOGFhOEhQa0VnVDNzSEtFUWtPX19GdTVEV1NYT2NxYy01dExKam13Qk9HbnYweFVfTTQtd1pKczBRZUlUX3Vzb2ZXV3JSMGZuekc4WnU5eUFrMDRUQXlXWGdUNzJ0ZUl1b1ktVmxkUjZJMUpJeFhFNVd5ekgxZHB3eHRmbUx2WVZod1VwcGViOHVtM2VXUmFuYjMxSjRHVHlXV2tvMmRnQ1kwRGfSAYcCQVVfeXFMTlRLTHctd1BackNYODlFLWRrVEJoTk1sdzczOF9taWRvMVBMZ29KdGQyNGM3T2ZGMW1FcDZGRndMYmUxc0REbkZUdW5mMlM5YzdpMUY5WDdjV2dXYTZ2YlhGdnBVd1NrQ2ItSW1XZUl4OGp4UjMtOGl2TS1yZHpRTHBaUVFENU9ncmVaSW9iVWdoQXF4QXVIWDJkWFh1cnZ3eUZaUEJvUzVYQzhfenZOZU9lcmJEd3RFbER2cmlycmdab1ZhVFUzajBsN1VTSzhOdmJmMms3MDZqcm1SSDJHYlFJb3dLVW1NbmpBN2dMN3BreUlKTjN2Z3BETGh0WHhuOG5vMkxlaHM?oc=5",
+   "fecha": "2026-10-29T21:23:11-03:00",
+   "resumen": "El BCRA admitió caída en la actividad y posible repunte de la inflación: el rol clave de los swap con China y EE.UU. para 2027    Diario Río Negro",
+   "medio": "Diario Río Negro",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 6.88,
+   "score": 6.62,
    "medios": [
-    "Infobae"
+    "Diario Hoy En la noticia",
+    "Diario Río Negro"
    ]
   },
   {
-   "titulo": "Daniel González, a días de renunciar a su cargo en el Gobierno: “El RIGI no puede  solucionar todos los problemas de los argentinos”",
-   "url": "https://www.infobae.com/economia/2026/10/30/daniel-gonzalez-a-dias-de-renunciar-a-su-cargo-en-el-gobierno-el-rigi-no-puede-solucionar-todos-los-problemas-de-los-argentinos/",
-   "fecha": "2026-10-29T22:41:15-03:00",
-   "resumen": "El ex secretario de Coordinación de Energía y Minería de Economía cerró la primera ronda de negocios del programa e hizo un balance de su paso por la administración pública",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 6.39,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "El FMI detalló las medidas acordadas con Argentina para impulsar la inversión y el empleo",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSDdvLVBOTFVCN1Zud2JGdGxMT1RZaEZRMjk5OTNrZTZidHpGeFRWOGxhMmJzbGhBRHNYdUhDWERvd2tIS1BNMklUZlZ3QUNsdjFhRnRSUU1uYm5mNkl5REg0Y0Npck16LUJ5blM3SFo0SUtlbi1JLUhuVTUzRVpSNGktUVBXOFlrcWdfNXVwZkhuYkFWb1NMLVhGWVhoODVEcnk0UkIwbF94Sm16TWM5NHlyenI?oc=5",
-   "fecha": "2026-10-29T15:22:41-03:00",
-   "resumen": "El FMI detalló las medidas acordadas con Argentina para impulsar la inversión y el empleo    Neuquen Post",
-   "medio": "Neuquen Post",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 6.17,
-   "medios": [
-    "Neuquen Post",
-    "Noticias \"d\""
-   ]
-  },
-  {
-   "titulo": "El FMI alerta por el crecimiento y el riesgo país, pero pide al Gobierno mantener el rumbo económico",
-   "url": "https://www.ambito.com/economia/preocupado-el-crecimiento-y-el-riesgo-pais-el-fmi-recomienda-al-gobierno-mantener-el-rumbo-la-n6339322",
-   "fecha": "2026-10-29T12:06:00-03:00",
-   "resumen": " Para potenciar el crecimiento y extender sus beneficios, el Fondo acordó con las autoridades argentinas profundizar los mercados de capitales y de créditos hipotecarios, mejorar la flexibilidad del mercado laboral, avanzar en concesiones de infraestructura y facilitar las inversiones en el marco del RIGI  ",
-   "medio": "Ámbito",
-   "fuente": "Ámbito",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 6.09,
-   "medios": [
-    "Ámbito"
-   ]
-  },
-  {
-   "titulo": "El impacto del contrabando: el 60% de las empresas están afectadas y las pérdidas fiscales suman USD 2.300 millones al año",
-   "url": "https://www.infobae.com/economia/2026/10/30/el-impacto-del-contrabando-el-60-de-las-empresas-estan-afectadas-y-las-perdidas-fiscales-suman-usd-2300-millones-al-ano/",
-   "fecha": "2026-10-30T01:47:19-03:00",
-   "resumen": "El contrabando representa el 5% del PBI y seis de cada diez empresas industriales lo sufren. Esta semana el Estado firmó acuerdos con Mercado Libre y la UIA, entre otras cámaras empresarias para detectar y frenar el comercio ilegal",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 6.09,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "La economía de EEUU creció a su ritmo más rápido en un año de la mano del consumo interno y la inversión en IA",
-   "url": "https://www.ambito.com/economia/la-eeuu-crecio-su-ritmo-mas-rapido-un-ano-la-mano-del-consumo-interno-y-la-inversion-ia-n6339413",
-   "fecha": "2026-10-29T17:19:00-03:00",
-   "resumen": "El PBI de Estados Unidos se aceleró a 3,4% impulsado por el consumo y la inversión en IA, aunque las importaciones y los mayores costos hipotecarios frenaron el crecimiento.",
-   "medio": "Ámbito",
-   "fuente": "Ámbito",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 6.07,
-   "medios": [
-    "Ámbito"
-   ]
-  },
-  {
-   "titulo": "Qué provincias lideran el ranking fiscal completo con superávit y cuáles ocupan los últimos puestos con déficit",
-   "url": "https://www.ambito.com/economia/que-provincias-lideran-el-ranking-fiscal-completo-y-cuales-ocupan-los-ultimos-puestos-n6339398",
-   "fecha": "2026-10-29T14:03:00-03:00",
-   "resumen": "Pese a las señales de alerta por el crecimiento y el riesgo país, el FMI insistió en que el Gobierno debe mantener el rumbo económico y sostener su estrategia de estabilización. El plan fiscal bajo análisis y las provincias que mejor mantienen sus cuentas públicas.  ",
-   "medio": "Ámbito",
-   "fuente": "Ámbito",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.99,
-   "medios": [
-    "Ámbito"
-   ]
-  },
-  {
-   "titulo": "Bausili anticipó cómo seguirá la inflación y proyectó una recuperación de la economía hacia fin de año",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU21WSzlFeDdyeGJMOF96LUhkVzU2MnV0aURWczlaRk5oUW5hY1J5YjlxZkJZOGlJSm5BdzkxZUpFUjI3Y2hnZ1gtdVdhTld2RFNlRkNwNzNyZlc3ckRJM2dkdkF5eGF5MnE0ZDluUFZDdWx4UlNPS3N5b3c0QUYyVkdVd0x5SmxVS0pvWkV3ZVRCV0EwaHB6TnJpcHhMdDFsRUFxbGhlQVNFTDV6RlIxZHcwWUg4UUpRX3J3WkxYb2xEWUVtZHp2LQ?oc=5",
-   "fecha": "2026-10-30T06:01:08-03:00",
-   "resumen": "Bausili anticipó cómo seguirá la inflación y proyectó una recuperación de la economía hacia fin de año    El Litoral",
-   "medio": "El Litoral",
+   "titulo": "Menos consumo, industria en retroceso y presión sobre los precios: las alertas del BCRA",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSENMZDNaS0ZWeGVIbi1tdGl3cjNjd1N4bE9EdVhZaXJaYUJxb01Da1pUUmVlUjNlNkV4UVVDY3AtLXR4N0JLdE1ocUd0eGR5LWdpTTRFd2xHN1VXTUNZSGFSa2hieEp4M0p4VUJjc0FjM3BmS28tUzdJZHNKcE9LaXBNcHktQlJGdWs2V1J1MC1rS2o4STNWV1NsMndZWDZCdk00TV9WNERWaUVlVHpXMzQ4bmxUQk5QcXg2bnA3azdObmxfQ3ZrMlU3QQ?oc=5",
+   "fecha": "2026-10-29T17:51:08-03:00",
+   "resumen": "Menos consumo, industria en retroceso y presión sobre los precios: las alertas del BCRA    Infocielo",
+   "medio": "Infocielo",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 5.81,
+   "score": 6.58,
    "medios": [
-    "El Litoral"
+    "Infocielo"
    ]
   },
   {
@@ -1242,9 +1025,257 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 5.71,
+   "score": 6.53,
    "medios": [
+    "Ciudad MCY",
     "teleSUR"
+   ]
+  },
+  {
+   "titulo": "Más de 1800 empresas quieren subirse a la ola del RIGI, sobre todo en el sector de la minería",
+   "url": "https://www.lanacion.com.ar/economia/mas-de-1800-empresas-quieren-subirse-a-la-ola-del-rigi-sobre-todo-en-el-sector-de-la-mineria-nid29102026/",
+   "fecha": "2026-10-29T17:12:17-03:00",
+   "resumen": "Rosario fue la sede de una gran ronda de negocios entre quienes adhirieron al régimen de inversiones y las pymes que quieren venderles productos y servicios",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 6.4,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "FMI y Argentina: las medidas acordadas para reactivar la economía y reducir el riesgo país",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeTBYQm1BMjN6TEU3NGtLSDdfbU1ZOWNhbE04QmNGNDB6b0FRQndOOXQxMU9DUnR5TTJuTDYxc1g5amtlZEdQTE8wSnpsWEtVZHR6X083ME1LX0FzQU1ybXRjNzlOVUEyM3dhdGJoZnlJdGE3X2dJOWNUaEh3ZWozQ3BSNF96LW1sWUllM0NDZktnVFc5ZUpva21XS3ZOd2lqTHYyS181RHZTMXBMRktGRjFPSWVoTDI3Ync?oc=5",
+   "fecha": "2026-10-29T15:17:10-03:00",
+   "resumen": "FMI y Argentina: las medidas acordadas para reactivar la economía y reducir el riesgo país    RoadShow",
+   "medio": "RoadShow",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 6.36,
+   "medios": [
+    "Agencia Noticias Argentinas",
+    "Hoy Día Córdoba",
+    "LA17",
+    "RoadShow",
+    "Tiempo de San Juan"
+   ]
+  },
+  {
+   "titulo": "Luis Caputo aseguró que las inversiones del RIGI \"garantizan que Argentina no va a tener problemas de tipo de cambio\"",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR3M2MVI1cXllemtTSWdDdjlDZlExT2phcHM4Q0pRYTlwMFdVY1lNTEdNTkhYTnpLNW54eEFnWV9CLWRYV2NIc0wzQV9iWlRmUW1hX1BNbE0tUWNZUmNTMDlEQWg1cG45dDRrUThSMDJIQjc0VW1MT3VsaGZoRnpNRG5GeWdhOVBkS2lLanhNLWh1d21TOWxDanhpaXg5WVBMXzVyNVdDRzN4UHZ2Rk9WSjJTeUdiSkdDZkhRUDFuaXpLRkN0QjdyNWlxVk00SlJFbDRNVzRoQ2dEWTRQRExhTkppSThxTVFMVG1j?oc=5",
+   "fecha": "2026-10-29T10:38:17-03:00",
+   "resumen": "Luis Caputo aseguró que las inversiones del RIGI \"garantizan que Argentina no va a tener problemas de tipo de cambio\"    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 6.01,
+   "medios": [
+    "El Cronista",
+    "MDZ Online",
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "La inversión real no arranca: los factores detrás de una caída que no cede y por qué demorará en recuperarse",
+   "url": "https://www.ambito.com/economia/la-inversion-real-no-arranca-los-factores-detras-una-caida-que-no-cede-y-que-demorara-recuperarse-n6339404",
+   "fecha": "2026-10-30T07:00:00-03:00",
+   "resumen": "La inversión bruta volvió a caer en septiembre, golpeada por el desplome en maquinaria y equipos. La debilidad de la actividad, el crédito escaso y la limitada tracción inicial del RIGI postergan las decisiones de las empresas.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.97,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "El BCRA anticipa presiones sobre la inflación en el último trimestre: cuáles son los tres rubros que pueden empujar los precios",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPR2hjbkJXRWUtblpWTG9LUjA0OHhNX3RJYkxYU3M3OVhLM0lPM2VHNHhXNkptMU5rTXhxdUtLSTdiSVllQXNRaVV0eFlkQ2ZpQlNQX0VoNC1xY1NOdDcxNGhsbWZKN2FhUHJBQll1WmtBYndNTS0wR096dURIV3JEWmxwUXZyOGFFYzB1dkc4SHBPWlI0VEpld0U1MElNeThNWjVRbFVmSFVYX1l3VWxvMEdtZVNINng5SUx0aFpEU0c5VGZGSGNSNlE3amJqUnhJeE1xYndpTlRNZ3ZMRjVYNVk3emsteDdQUUJKcVFNRzlmQzJ6aUZGVnFGbEM0VHBq0gGbAkFVX3lxTE53OVYzdEdKTU5yVWwzdmZSTUhvamRpYThpcU96dXhVM3dpUHlGMVk5VnRIUUY5UWdsZXhHdFVvZHBOQml2eGhybHlsRnpXelBreS03LXduYmw5UmJxckpzRXE2RmdESHU1Um5YRVNWS3hMcHBFUFJ5TnpiX2M2bmNVelNhdVJlenZROXdBODZKS1g3WnBfN2tXNlgzeE5hQ1EtaUxxUEg1T2xkZndtNFFLNVJSRDlMUjZIVDFUQThJYTItMVFuOEZDNlF2b3ltQm9MeFF5RE54NU9yYU1vb0VsWk9HbHJaWG5Memtjc0lyMDNDU3NmWWEwcm9CcWNvSW9WVFJmazNDSDBWMk05a19wV0dEaVc3NXZVbkU?oc=5",
+   "fecha": "2026-10-29T16:28:00-03:00",
+   "resumen": "El BCRA anticipa presiones sobre la inflación en el último trimestre: cuáles son los tres rubros que pueden empujar los precios    Infobae",
+   "medio": "Infobae",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 5.42,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "El Gobierno confirmó que aumentará los subsidios a los colectivos para evitar subas del boleto",
+   "url": "https://www.lanacion.com.ar/economia/el-gobierno-confirmo-que-aumentara-los-subsidios-a-los-colectivos-para-evitar-subas-del-boleto-nid30102026/",
+   "fecha": "2026-10-30T11:34:32-03:00",
+   "resumen": "Tras negociaciones con las cámaras empresariales, Transporte acordó actualizar los costos y saldar una deuda de 40.000 millones; la medida congela la tarifa en el AMBA al menos hasta enero",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.37,
+   "medios": [
+    "Clarin.com",
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "Daniel González, a días de renunciar a su cargo en el Gobierno: “El RIGI no puede  solucionar todos los problemas de los argentinos”",
+   "url": "https://www.infobae.com/economia/2026/10/30/daniel-gonzalez-a-dias-de-renunciar-a-su-cargo-en-el-gobierno-el-rigi-no-puede-solucionar-todos-los-problemas-de-los-argentinos/",
+   "fecha": "2026-10-29T22:41:15-03:00",
+   "resumen": "El ex secretario de Coordinación de Energía y Minería de Economía cerró la primera ronda de negocios del programa e hizo un balance de su paso por la administración pública",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.28,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Comenzó la primera ronda de negocios del RIGI: los sectores “estrella” de la economía buscan sumar proveedores locales",
+   "url": "https://www.infobae.com/economia/2026/10/29/comenzo-la-primera-ronda-de-negocios-del-rigi-los-sectores-estrella-de-la-economia-buscan-sumar-proveedores-locales/",
+   "fecha": "2026-10-29T13:05:45-03:00",
+   "resumen": "En Rosario, funcionarios nacionales y gobernadores destacaron el potencial de la minería y la energía para impulsar las exportaciones, generar empleo y fortalecer la industria",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.26,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "El impacto del contrabando: el 60% de las empresas están afectadas y las pérdidas fiscales suman USD 2.300 millones al año",
+   "url": "https://www.infobae.com/economia/2026/10/30/el-impacto-del-contrabando-el-60-de-las-empresas-estan-afectadas-y-las-perdidas-fiscales-suman-usd-2300-millones-al-ano/",
+   "fecha": "2026-10-30T01:47:19-03:00",
+   "resumen": "El contrabando representa el 5% del PBI y seis de cada diez empresas industriales lo sufren. Esta semana el Estado firmó acuerdos con Mercado Libre y la UIA, entre otras cámaras empresarias para detectar y frenar el comercio ilegal",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.12,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Bausili anticipó cómo seguirá la inflación y proyectó una recuperación de la economía hacia fin de año",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU21WSzlFeDdyeGJMOF96LUhkVzU2MnV0aURWczlaRk5oUW5hY1J5YjlxZkJZOGlJSm5BdzkxZUpFUjI3Y2hnZ1gtdVdhTld2RFNlRkNwNzNyZlc3ckRJM2dkdkF5eGF5MnE0ZDluUFZDdWx4UlNPS3N5b3c0QUYyVkdVd0x5SmxVS0pvWkV3ZVRCV0EwaHB6TnJpcHhMdDFsRUFxbGhlQVNFTDV6RlIxZHcwWUg4UUpRX3J3WkxYb2xEWUVtZHp2LQ?oc=5",
+   "fecha": "2026-10-30T06:01:08-03:00",
+   "resumen": "Bausili anticipó cómo seguirá la inflación y proyectó una recuperación de la economía hacia fin de año    El Litoral",
+   "medio": "El Litoral",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 4.98,
+   "medios": [
+    "El Litoral"
+   ]
+  },
+  {
+   "titulo": "Grupo Syngenta: cayeron un 5% las ventas globales y la empresa advirtió sobre dificultades del agro en América Latina",
+   "url": "https://www.lanacion.com.ar/economia/campo/grupo-syngenta-cayeron-un-5-las-ventas-globales-y-la-empresa-advirtio-sobre-dificultades-del-agro-en-nid30102026/",
+   "fecha": "2026-10-30T12:24:27-03:00",
+   "resumen": "Facturó US$17.300 millones en los primeros nueve meses de 2026, aunque logró mejorar su rentabilidad; el Ebitda alcanzó los US$3200 millones, un 1% más que un año atrás; en la región, la presión sobre los precios de los agroquímicos, las altas tasas de interés y los problemas climáticos afectaron las ventas de productos para protección de cultivos",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.89,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "La economía de EEUU creció a su ritmo más rápido en un año de la mano del consumo interno y la inversión en IA",
+   "url": "https://www.ambito.com/economia/la-eeuu-crecio-su-ritmo-mas-rapido-un-ano-la-mano-del-consumo-interno-y-la-inversion-ia-n6339413",
+   "fecha": "2026-10-29T17:19:00-03:00",
+   "resumen": "El PBI de Estados Unidos se aceleró a 3,4% impulsado por el consumo y la inversión en IA, aunque las importaciones y los mayores costos hipotecarios frenaron el crecimiento.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.82,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "La otra cara del boom minero: las provincias que buscan quedarse con una parte del negocio sin tener grandes yacimientos",
+   "url": "https://www.infobae.com/economia/2026/10/30/la-otra-cara-del-boom-minero-las-provincias-que-buscan-quedarse-con-una-parte-del-negocio-sin-tener-grandes-yacimientos/",
+   "fecha": "2026-10-30T11:25:13-03:00",
+   "resumen": "Los mandatarios de Córdoba, Corrientes y Entre Ríos propusieron medidas para mejorar la competitividad e integrar a sus industrias al desarrollo de la minería",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.77,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "ARCA prorrogó el plazo para entrar al plan especial de pago para pymes hasta el 30 de diciembre",
+   "url": "https://www.ambito.com/economia/arca-prorrogo-el-plazo-entrar-al-plan-especial-pago-pymes-el-30-diciembre-n6339655",
+   "fecha": "2026-10-30T10:17:00-03:00",
+   "resumen": "También se posterga el plazo para el programa especial para prestadores de servicios de salud. El plan de pagos se anunció este año como respuesta a reclamos de las pymes, aunque no generó mayor entusiasmo entre los contribuyentes debido a la alta tasa de interés.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.64,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Qué provincias lideran el ranking fiscal completo con superávit y cuáles ocupan los últimos puestos con déficit",
+   "url": "https://www.ambito.com/economia/que-provincias-lideran-el-ranking-fiscal-completo-y-cuales-ocupan-los-ultimos-puestos-n6339398",
+   "fecha": "2026-10-29T14:03:00-03:00",
+   "resumen": "Pese a las señales de alerta por el crecimiento y el riesgo país, el FMI insistió en que el Gobierno debe mantener el rumbo económico y sostener su estrategia de estabilización. El plan fiscal bajo análisis y las provincias que mejor mantienen sus cuentas públicas.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.6,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "El FMI alerta por el crecimiento y el riesgo país, pero pide al Gobierno mantener el rumbo económico",
+   "url": "https://www.ambito.com/economia/preocupado-el-crecimiento-y-el-riesgo-pais-el-fmi-recomienda-al-gobierno-mantener-el-rumbo-la-n6339322",
+   "fecha": "2026-10-29T12:06:00-03:00",
+   "resumen": "Para potenciar el crecimiento y extender sus beneficios, el Fondo acordó con las autoridades argentinas profundizar los mercados de capitales y de créditos hipotecarios, mejorar la flexibilidad del mercado laboral, avanzar en concesiones de infraestructura y facilitar las inversiones en el marco del RIGI",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.57,
+   "medios": [
+    "Ámbito"
    ]
   },
   {
@@ -1257,9 +1288,69 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 5.59,
+   "score": 4.34,
    "medios": [
     "Eduardo German"
+   ]
+  },
+  {
+   "titulo": "Plazo fijo UVA en 2026: por qué es la inversión más rentable del año en Argentina",
+   "url": "https://www.ambito.com/economia/plazo-fijo-uva-2026-que-es-la-inversion-mas-rentable-del-ano-argentina-n6338937",
+   "fecha": "2026-10-29T17:00:00-03:00",
+   "resumen": "Mientras muchos ahorristas seguían de cerca al dólar y las acciones, los depósitos ajustados por inflación terminaron dando mejores resultados.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.23,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "El riesgo país sube más de 20% en octubre y cierra cerca de los 750 puntos",
+   "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-sube-mas-de-20-en-octubre-y-cierra-cerca-de-los-750-puntos-nid30102026/",
+   "fecha": "2026-10-30T12:35:07-03:00",
+   "resumen": "Las acciones argentinas terminan otro mes negativo tanto en Wall Street como en el mercado local; el tipo de cambio oficial tiene una suba mensual de $20",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.93,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "RIGI tour: la nueva apuesta de Milei para mostrar que la economía se mueve ante la inminente recesión",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT0doR0ppS0hzdEU4RUpIMWZJdXc5NlMwMEg5OGJ0WlN0Rm9XS1J1YzU2Nk5WQzNVd2FFdXJJTnA2SG1pRTUyUmowUnhlQWNKNHJMRHVEcUgzSEo2OVNpbFdYUmxkcncwXzBSdWRoSGozUTlvT3puWkplSGo0UnRqVmJvaFFCYUlxRjF3VzB6X01sUGJDblNJTDRyNGhiamZtWmlzRUM0TWt1dnVsRDJGNVo1QlBHeDV4QjZPSml2THFUU3N0dnpMbHNFNFNIbUs0Qlo4T3VnMlM1SWRs0gH3AUFVX3lxTFBzTFpqZXl2S3VXc1RYTURhbFVGbDVVUVpFSTlOQ1AwNmIwcUVyVVFPcG9aWFNNQ1VBaFJ4UG16N3ZNcGEtbEcxeE11dVZEOHFXamlLVzE0d1JlSzZVODBncmtCTGFhbkRNX1Z2VUxLSkxwY0RvQndoMHhCMVpnMDU5UWNFSXU5RXZ2ZVNRQS1yXzc3M0dHb3puemx4dXQ3dnlqTEhtUXVTMFZadHRlZ2F5MlBTdG5YVjB2Mnd6bVFTM0NMYmRFNWhreVp3SlJIRGhVVl9HREV4ZzRSdEpOaUwxZ29zRnlBa01UYTFFS2NCM3ZWZHREcTQ?oc=5",
+   "fecha": "2026-10-30T12:33:26-03:00",
+   "resumen": "RIGI tour: la nueva apuesta de Milei para mostrar que la economía se mueve ante la inminente recesión    El Cronista",
+   "medio": "El Cronista",
+   "fuente": "El Cronista",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.93,
+   "medios": [
+    "El Cronista"
+   ]
+  },
+  {
+   "titulo": "“A veces es muy difícil pensar en invertir” en la Argentina, aseguró una empresaria industrial",
+   "url": "https://www.infobae.com/economia/2026/10/30/a-veces-es-muy-dificil-pensar-en-invertir-en-la-argentina-aseguro-una-empresaria-industrial/",
+   "fecha": "2026-10-30T12:01:40-03:00",
+   "resumen": "Marysol Rodríguez, gerenta de Sinteplast, hizo referencia a las dificultades que suele atravesar la industria y las dudas que surgen a la hora de hacer inversiones",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.88,
+   "medios": [
+    "Infobae"
    ]
   },
   {
@@ -1272,56 +1363,10 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 5.4,
+   "score": 3.85,
    "medios": [
     "Infobae",
     "Página|12"
-   ]
-  },
-  {
-   "titulo": "El FMI le pidió al Gobierno reforzar la compra de reservas internacionales",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTBLYU5JUVlzMUxjUUZSNDBKV0FXRjRxUWpkalpEZG95RlJkLTZab2Vjd1Nnd2VZMlZOckcwdDdfdTZndkl6NnpHTUhQV0lmdUxVSUVxRnRMc2FuTjdEMFRaNldDRVJCM1VBcENZY25BVTYzckVMS3NoYTVNWVA0dTRkZTBCd0xucVYyZ1JFSWtscGVHSmZyYmprM3hxeHJibUtSSHY0OWh6aG94Sm1JZ3VQTjd3a3lVLWtkdU9HRHJXSE05djQ4X0NNTVBoQdIBzgFBVV95cUxQWTBLYU5JUVlzMUxjUUZSNDBKV0FXRjRxUWpkalpEZG95RlJkLTZab2Vjd1Nnd2VZMlZOckcwdDdfdTZndkl6NnpHTUhQV0lmdUxVSUVxRnRMc2FuTjdEMFRaNldDRVJCM1VBcENZY25BVTYzckVMS3NoYTVNWVA0dTRkZTBCd0xucVYyZ1JFSWtscGVHSmZyYmprM3hxeHJibUtSSHY0OWh6aG94Sm1JZ3VQTjd3a3lVLWtkdU9HRHJXSE05djQ4X0NNTVBoQQ?oc=5",
-   "fecha": "2026-10-29T17:21:00-03:00",
-   "resumen": "El FMI le pidió al Gobierno reforzar la compra de reservas internacionales    Somos Pymes",
-   "medio": "Somos Pymes",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.4,
-   "medios": [
-    "Somos Pymes"
-   ]
-  },
-  {
-   "titulo": "Plazo fijo UVA en 2026: por qué es la inversión más rentable del año en Argentina",
-   "url": "https://www.ambito.com/economia/plazo-fijo-uva-2026-que-es-la-inversion-mas-rentable-del-ano-argentina-n6338937",
-   "fecha": "2026-10-29T17:00:00-03:00",
-   "resumen": "Mientras muchos ahorristas seguían de cerca al dólar y las acciones, los depósitos ajustados por inflación terminaron dando mejores resultados.  ",
-   "medio": "Ámbito",
-   "fuente": "Ámbito",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.34,
-   "medios": [
-    "Ámbito"
-   ]
-  },
-  {
-   "titulo": "El FMI le recomendó al Gobierno seguir acumulando reservas ante la suba del riesgo país",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzJrNnJwdFc5TkI4N0FmejhGQkxiR0pmSVJIV0VDNlJyMWNnOVVnRUFtclZTMF9hVk0tMk9qZHNicUFaWmo1WE10dHB5UHNDZEswZ2ZHdDQ3dVZpZ01SOTJRTUJsc0V6dlFsSTlJY1lPNDhVNUxYT0ExQmdaeENrcXZrYWhxOVc3WldZVTNQTTdvT2tSZUdkNXZFMThUZEktQzh5YllOdlF5Y2d2eVRVWExmdzhQN284Y2tJODdqMEZTTlVtQU5GTGtuX0pJWHBaT2NwNXpQVTlFNW5iWlRZSHhwZzDSAeQBQVVfeXFMTTcyazZycHRXOU5CODdBZno4RkJMYkdKZklSSFdFQzZScjFjZzlVZ0VBbXJWUzBfYVZNLTJPamRzYnFBWlpqNVhNdHRweVBzQ2RLMGdmR3Q0N3VWaWdNUjkyUU1CbHNFenZRbEk5SWNZTzQ4VTVMWE9BMUJnWnhDa3F2a2FocTlXN1pXWVUzUE03b09rUmVHZDV2RTE4VGRJLUM4eWJZTnZReWNndnlUVVhMZnc4UDdvOGNrSTg3ajBGU05VbUFORkxrbl9KSVhwWk9jcDV6UFU5RTVuYlpUWUh4cGcw?oc=5",
-   "fecha": "2026-10-29T14:43:40-03:00",
-   "resumen": "El FMI le recomendó al Gobierno seguir acumulando reservas ante la suba del riesgo país    Cadena 3 Argentina",
-   "medio": "Cadena 3 Argentina",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.16,
-   "medios": [
-    "Cadena 3 Argentina",
-    "Radio Mitre"
    ]
   },
   {
@@ -1334,24 +1379,9 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 5.09,
+   "score": 3.84,
    "medios": [
     "Identidad Correntina"
-   ]
-  },
-  {
-   "titulo": "Ya no alcanzan las alfombras para esconder la mugre: el Banco Central admitió la caída de la actividad económica",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94NWJsWURWU0JUc1pYbTI5eGpLUEZvSE5LcjBoa19FczV1b2c2V1lRbVBVRDczY0ZmOWJqTEhOX3pZbEs3WmR1bmxxUE9nV2xBM2g3NkQtR2lZbHlLcnpjVS0tMmlwNXJXT0QtOVdDeTB0ZmNMOUxyT0JqSkR3QQ?oc=5",
-   "fecha": "2026-10-29T15:55:06-03:00",
-   "resumen": "Ya no alcanzan las alfombras para esconder la mugre: el Banco Central admitió la caída de la actividad económica    Agencia NOVA",
-   "medio": "Agencia NOVA",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 4.82,
-   "medios": [
-    "Agencia NOVA"
    ]
   },
   {
@@ -1364,39 +1394,54 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 4.65,
+   "score": 3.82,
    "medios": [
     "El Liberal"
    ]
   },
   {
-   "titulo": "BCRA: la inflación bajó al 1,9% mensual y proyectan 30% para diciembre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR24tYXd3Nkc2a3pYQjN2N2F4b3ZhWk14aGE0XzhWQjh4RlYxSEQxVWRWSThFWWh3NEVPUzhuUldvVjNlYnpUVDFTSE90R0xoYlNBV1JwbjhPeEFXTVZmTzVEYTJqVnZDSzE3aEhrbUZRTmRLVEY4VjNfRXRkT2RuOTZSMEtVMkpw0gGOAUFVX3lxTFBBVjFpamJjcHJUZ1I2U3ZfZGVlNU15Skw2NzJnQ3dHVVJub01XRHVqYTRxUXVraGdhaXBmTjAwSkU0N0dCWmwzR2pWTDdNSTVTc19QclM2blozaC1KeHMxZXlEeWlfQXE0Nm93T1NLN0c5MWlLVURGaXE0RDZhcnlSX0NnNklrVE9fLUNoQWc?oc=5",
-   "fecha": "2026-10-29T13:38:00-03:00",
-   "resumen": "BCRA: la inflación bajó al 1,9% mensual y proyectan 30% para diciembre de 2026    iProfesional",
-   "medio": "iProfesional",
+   "titulo": "Ya no alcanzan las alfombras para esconder la mugre: el Banco Central admitió la caída de la actividad económica",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94NWJsWURWU0JUc1pYbTI5eGpLUEZvSE5LcjBoa19FczV1b2c2V1lRbVBVRDczY0ZmOWJqTEhOX3pZbEs3WmR1bmxxUE9nV2xBM2g3NkQtR2lZbHlLcnpjVS0tMmlwNXJXT0QtOVdDeTB0ZmNMOUxyT0JqSkR3QQ?oc=5",
+   "fecha": "2026-10-29T15:55:06-03:00",
+   "resumen": "Ya no alcanzan las alfombras para esconder la mugre: el Banco Central admitió la caída de la actividad económica    Agencia NOVA",
+   "medio": "Agencia NOVA",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 4.42,
+   "score": 3.78,
    "medios": [
-    "iProfesional"
+    "Agencia NOVA"
    ]
   },
   {
-   "titulo": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
-   "url": "https://www.infobae.com/economia/2026/10/29/jornada-financiera-subieron-los-bonos-argentinos-y-cayo-el-riesgo-pais-pero-las-acciones-cedieron-por-cuarto-dia-seguido/",
-   "fecha": "2026-10-29T19:51:39-03:00",
-   "resumen": "Las bajas de Wall Street y la Bolsa de San Pablo dieron marco a una caída de 1% para el MSCI Merval. Los bonos Globales rebotaron 0,7% y el indicador de JP Morgan bajó a 741 puntos. El BCRA compró dólares después de tres ruedas sin intervención",
-   "medio": "Infobae",
-   "fuente": "Infobae",
+   "titulo": "IRS puede embargar mes a mes gran parte del salario de los contribuyentes que tengan deudas y no las regularicen a tiempo",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPaWVKR0NSSjZVeEJ0bk9BTzRQdFk5TjNJbk1rTmMxWlZfaUVnT053LWF1ZDFUVmVLbWRrbi16SUFuYWdUaDBManRMcnNpZjBReGVZVWtDSl9sRDlzMm52TFlFQ2tZNURLQ0phUFZSUW5RWkowaEpUWkpmcWVFVF9yLVp4RjhEUHNSSUdCbWM0bFVSTnVEd3A4XzVXVDBzMHVrLXMxcmx5WDZGdk9iY2NIbW8zbUJReVRqTW5DT25rcTVSWUk0X0tjeGJZYWxpeEkwZ3A3UllpaXcxaXJnaE1lMklaalNMcjIybGpJeHdjZC1ydXdQbFR0WlRfQl9RMlQ0cWNMck1ORV9rTGt3Z2w2bmFkXzZTaElwNW1j0gGbAkFVX3lxTE9pZUpHQ1JKNlV4QnRuT0FPNFB0WTlOM0luTWtOYzFaVl9pRWdPTnctYXVkMVRWZUttZGtuLXpJQW5hZ1RoMExqdExyc2lmMFF4ZVlVa0NKX2xEOXMybnZMWUVDa1k1REtDSmFQVlJRblFaSjBoSlRaSmZxZUVUX3ItWnhGOERQc1JJR0JtYzRsVVJOdUR3cDhfNVdUMHMwdWstczFybHlYNkZ2T2JjY0htbzNtQlF5VGpNbkNPbmtxNVJZSTRfS2N4YllhbGl4STBncDdSWWlpdzFpcmdoTWUySVpqU0xyMjJsakl4d2NkLXJ1d1BsVHRaVF9CX1EyVDRxY0xyTU5FX2tMa3dnbDZuYWRfNlNoSXA1bWM?oc=5",
+   "fecha": "2026-10-30T10:21:00-03:00",
+   "resumen": "IRS puede embargar mes a mes gran parte del salario de los contribuyentes que tengan deudas y no las regularicen a tiempo    El Cronista",
+   "medio": "El Cronista",
+   "fuente": "El Cronista",
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 4.4,
+   "score": 3.72,
    "medios": [
-    "Infobae"
+    "El Cronista"
+   ]
+  },
+  {
+   "titulo": "Las empresas argentinas buscan crédito en yuanes para abaratar sus inversiones",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHNOaktVQzlZaDhQbTEzUVlfN0dUOWtUN1lTMmRPdzNZZllRV3lrU09SSFA1TFhOczNidzAxUXVsT3N4dHd4Y0wybTJvRU94NmZ6cVFWZ0Z0TjBUbHFNM3U1ZHo4RWUyOVQwZjhaaVZXVVBiRFQ3V0d1STVLTTBVZlItV2tBVjZkNmNHSk1mbjZhOXNTbXFzbWFOeW4ya2VPRmhnZGhoZktsVzRENUhoT1V3?oc=5",
+   "fecha": "2026-10-30T10:04:36-03:00",
+   "resumen": "Las empresas argentinas buscan crédito en yuanes para abaratar sus inversiones    Clarin.com",
+   "medio": "Clarin.com",
+   "fuente": "Clarín",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.7,
+   "medios": [
+    "Clarin.com"
    ]
   },
   {
@@ -1409,7 +1454,7 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 4.37,
+   "score": 3.68,
    "medios": [
     "Diario El Día de La Plata"
    ]
@@ -1424,7 +1469,7 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 4.35,
+   "score": 3.66,
    "medios": [
     "Infobae"
    ]
@@ -1439,7 +1484,22 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 4.35,
+   "score": 3.66,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Jornada financiera: subieron los bonos argentinos y cayó el riesgo país, pero las acciones cedieron por cuarto día seguido",
+   "url": "https://www.infobae.com/economia/2026/10/29/jornada-financiera-subieron-los-bonos-argentinos-y-cayo-el-riesgo-pais-pero-las-acciones-cedieron-por-cuarto-dia-seguido/",
+   "fecha": "2026-10-29T19:51:39-03:00",
+   "resumen": "Las bajas de Wall Street y la Bolsa de San Pablo dieron marco a una caída de 1% para el MSCI Merval. Los bonos Globales rebotaron 0,7% y el indicador de JP Morgan bajó a 741 puntos. El BCRA compró dólares después de tres ruedas sin intervención",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.57,
    "medios": [
     "Infobae"
    ]
@@ -1454,102 +1514,24 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 4.26,
+   "score": 3.43,
    "medios": [
     "El Intransigente"
    ]
   },
   {
-   "titulo": "El BCRA reconoció que la economía entró en recesión en el 3er trimestre",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1pWSXd6UmpCbDgtSlNpTWkzQWFUZDViOWZvemVLWElSVDhnbW1sQXZEb2xtWlRaU1RVdWI1VGVUVWxlaTBCY1d2d2Y4cHZtakpnZjNWazNHVE5vSnptX0VLQUkxSUtfci1DVThCQ3A4MXRWQnRQdmNQLWJWRU80WGJYY2xCSWg4R0QwVldObER6Q3EwYlI0NWlNak84UlMxWVZ5WtIBqgFBVV95cUxNT0VDaGVjMFBfNTNOTWZ4NDJjNkFlNzFpOGtpN3JHUk9qc2g3am9mNGliYl9nM0tCbE1qQ3l5NUNBaWZQQmRJSi1NTWk5R3paampETXVzLXRMaEhkd1pkV3Z2N0gxSE80UllZNmdjNjJHZnFvR1haVjExbGlzUEJQay1TTUxtUWkzRGFicDFDV1lCM0NVZ0tWM3l4STdzSndBdEVocDAyWWxjUQ?oc=5",
-   "fecha": "2026-10-29T15:54:00-03:00",
-   "resumen": "El BCRA reconoció que la economía entró en recesión en el 3er trimestre    Urgente24",
-   "medio": "Urgente24",
+   "titulo": "BCRA: la inflación bajó al 1,9% mensual y proyectan 30% para diciembre de 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR24tYXd3Nkc2a3pYQjN2N2F4b3ZhWk14aGE0XzhWQjh4RlYxSEQxVWRWSThFWWh3NEVPUzhuUldvVjNlYnpUVDFTSE90R0xoYlNBV1JwbjhPeEFXTVZmTzVEYTJqVnZDSzE3aEhrbUZRTmRLVEY4VjNfRXRkT2RuOTZSMEtVMkpw0gGOAUFVX3lxTFBBVjFpamJjcHJUZ1I2U3ZfZGVlNU15Skw2NzJnQ3dHVVJub01XRHVqYTRxUXVraGdhaXBmTjAwSkU0N0dCWmwzR2pWTDdNSTVTc19QclM2blozaC1KeHMxZXlEeWlfQXE0Nm93T1NLN0c5MWlLVURGaXE0RDZhcnlSX0NnNklrVE9fLUNoQWc?oc=5",
+   "fecha": "2026-10-29T13:38:00-03:00",
+   "resumen": "BCRA: la inflación bajó al 1,9% mensual y proyectan 30% para diciembre de 2026    iProfesional",
+   "medio": "iProfesional",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 4.04,
+   "score": 3.38,
    "medios": [
-    "Economis",
-    "Urgente24"
-   ]
-  },
-  {
-   "titulo": "El negocio de vender fuera de la ley mueve el 5% del PBI",
-   "url": "https://www.lanacion.com.ar/economia/el-negocio-de-vender-fuera-de-la-ley-mueve-el-5-del-pbi-nid29102026/",
-   "fecha": "2026-10-29T12:42:17-03:00",
-   "resumen": "Un estudio de Insight LAC sostiene que las diferencias de precios, los impuestos y las barreras regulatorias favorecen el comercio ilegal; en medio de los nuevos acuerdos para reforzar los controles, plantea que las plataformas digitales pueden colaborar con el Estado, pero no reemplazar su función de fiscalización",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 3.97,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "La obra privada más grande en décadas empieza a transformar una región donde había que irse para encontrar empleo",
-   "url": "https://www.lanacion.com.ar/economia/la-obra-privada-mas-grande-en-decadas-empieza-a-transformar-una-region-donde-habia-que-irse-para-nid29102026/",
-   "fecha": "2026-10-29T12:29:56-03:00",
-   "resumen": "El VMOS tiene un avance del 85% y prevé sus primeras exportaciones en el primer trimestre de 2027; su terminal ocupa a 1600 personas y moviliza comercios y servicios",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 3.94,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "Dante Sica: “Toyota no va a dejar de vender Hilux ni hacer una inversión en Argentina porque Milei no se hable con Lula”",
-   "url": "https://www.infobae.com/economia/2026/10/29/dante-sica-toyota-no-va-a-dejar-de-vender-hilux-ni-hacer-una-inversion-en-argentina-porque-milei-no-se-hable-con-lula/",
-   "fecha": "2026-10-29T12:21:23-03:00",
-   "resumen": "El exministro de Producción analizó la relación comercial con Brasil y advirtió que la devaluación del real puede impulsar las importaciones, aunque remarcó que el nivel de actividad del país vecino es el principal factor para las exportaciones argentinas.",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 3.92,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "FMI recomendó a la Argentina sostener el rumbo económico y acumular reservas",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNekd5V1NtTWVuUlRMNHFTS0NON1BKS0Rwc3hsMXcyZ2RDbTM2V095UHZjQmxLLVp2WjJQNjNJaUlrc1libWhOc0lXXzJQWlNraDI2UlBjN044QkhGcklfYzNoZkZnYUlrc3lGTmJ2cGM2XzF5ZEktS0lidXUtUUNzTmtUMWQ0cG9lUTcwSV91YmhwVWxmamxYTFdlUTZKc2lyTkc0cDRpNmswbkVZMXB3dFFB?oc=5",
-   "fecha": "2026-10-29T18:26:47-03:00",
-   "resumen": "FMI recomendó a la Argentina sostener el rumbo económico y acumular reservas    El Intransigente",
-   "medio": "El Intransigente",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 3.92,
-   "medios": [
-    "Diario de Rivera",
-    "El Intransigente"
-   ]
-  },
-  {
-   "titulo": "El FMI se mostró confiado en que las reformas de la Argentina permitirán transformar la estabilización en crecimiento y empleo",
-   "url": "https://www.infobae.com/economia/2026/10/29/el-fmi-se-mostro-confiado-en-que-las-reformas-de-la-argentina-permitiran-transformar-la-estabilizacion-en-crecimiento-y-empleo/",
-   "fecha": "2026-10-29T12:02:43-03:00",
-   "resumen": "Julie Kozack, directora del Departamento de Comunicaciones del organismo, detalló cuatro medidas en marcha para impulsar la actividad durante la conferencia de prensa regular del FMI de este jueves",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 3.87,
-   "medios": [
-    "Crónica",
-    "Infobae"
+    "iProfesional"
    ]
   }
  ]
