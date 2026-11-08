@@ -1,23 +1,6 @@
 {
  "top_mendoza": [
   {
-   "titulo": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY19ldmJBZ0dXZVdLNkw3aGRqUDk1UTYtdENjcEdfalhoVmFtb3VzbW12NGxlSjRXbHN6eUcyUEJ6Zmg4YzZfNWxseWVERlR0bnJGaDV6dnVBNW9VeHZ6bkFHRnhSdWotdXVLdFNTVlpCWjVSdS03SnBLb3ZiUDJYbVpvSEJCTVJGMmZZSWRGUTlNUzZwN2NmZVl4MFJ5SHMyUWFlS3VRcVZ6ejdOTkJ5d0o3TnhHb2VpalBDTlZjNU9QM0RBanc?oc=5",
-   "fecha": "2026-11-07T16:39:12-03:00",
-   "resumen": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas    MinutoYA",
-   "medio": "MinutoYA",
-   "fuente": "Empleo/SIPA Mendoza (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 14.13,
-   "medios": [
-    "Diario Mendoza Today",
-    "MinutoYA",
-    "Sitio Andino"
-   ]
-  },
-  {
    "titulo": "Solo el 4,9% de las INDUSTRIAS piensa sumar personal: cómo está el EMPLEO en el sector",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk9maWZkT0xLa0NUZndESndLeGZzMEhIZzFFd0ZSZ2NjVFJSVFp0Tm1YV2g1RlZZak10Uk9mcWl4SDRyXzk4R0dOb3ZMejg2Y0lDWWtleWRSeExFbHZnV1pkNFluVXZ6WnYxMjdwdGJHRl9HTlZUeVMyZmxwSnFySVc5TXp5UFhxNFFBcjZiRlhEbEZFaXpxOUo5YTBlNG9zYUl5N2YwS212UlZNRFNvVNIBsAFBVV95cUxNNk9maWZkT0xLa0NUZndESndLeGZzMEhIZzFFd0ZSZ2NjVFJSVFp0Tm1YV2g1RlZZak10Uk9mcWl4SDRyXzk4R0dOb3ZMejg2Y0lDWWtleWRSeExFbHZnV1pkNFluVXZ6WnYxMjdwdGJHRl9HTlZUeVMyZmxwSnFySVc5TXp5UFhxNFFBcjZiRlhEbEZFaXpxOUo5YTBlNG9zYUl5N2YwS212UlZNRFNvVA?oc=5",
    "fecha": "2026-11-07T22:24:23-03:00",
@@ -27,7 +10,7 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 11.32,
+   "score": 9.38,
    "medios": [
     "Mendoza Post"
    ]
@@ -42,7 +25,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 10.69,
+   "score": 8.73,
    "medios": [
     "Diario El Sol Mendoza"
    ]
@@ -57,101 +40,119 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 9.79,
+   "score": 8.43,
    "medios": [
     "Mendoza Post"
    ]
   },
   {
-   "titulo": "Dos de cal y una de arena: crecen la construcción y la minería pero cayó la industria",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1NBbUpEX2FBSVFTMEMzakRUZlZLcEJQQUgzNV9VM3R5bTRSNUxQeGpOdnl4ZC1SV3RId2ZwWmtNdENBbGVHa0ZuY0xaLWVoUm1MQjVtMjlSQm43YUoyVUVxWi1mU1M2bmJZUzJyTlhTanUzSWFneUJLVWZ2eGp3V0taY2V4Y05yVTMydmNGcFNWdDVQQmFENjlFZ0JXc3p1VGxKM08ycTN0eFRhZVFEQzc3M3pEd05y0gG4AUFVX3lxTE1DU0FtSkRfYUFJUVMwQzNqRFRmVktwQlBBSDM1X1UzdHltNFI1TFB4ak52eXhkLVJXdEh3ZnBaa010Q0FsZUdrRm5jTFotZWhSbUxCNW0yOVJCbjdhSjJVRXFaLWZTUzZuYllTMnJOWFNqdTNJYWd5QktVZnZ4andXS1pjZXhjTnJVMzJ2Y0ZwU1Z0NVBCYUQ2OUVnQldzenVUbEozTzJxM3R4VGFlUURDNzczekR3TnI?oc=5",
-   "fecha": "2026-11-07T08:01:28-03:00",
-   "resumen": "Dos de cal y una de arena: crecen la construcción y la minería pero cayó la industria    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "INDEC Cuyo (GN)",
+   "titulo": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY19ldmJBZ0dXZVdLNkw3aGRqUDk1UTYtdENjcEdfalhoVmFtb3VzbW12NGxlSjRXbHN6eUcyUEJ6Zmg4YzZfNWxseWVERlR0bnJGaDV6dnVBNW9VeHZ6bkFHRnhSdWotdXVLdFNTVlpCWjVSdS03SnBLb3ZiUDJYbVpvSEJCTVJGMmZZSWRGUTlNUzZwN2NmZVl4MFJ5SHMyUWFlS3VRcVZ6ejdOTkJ5d0o3TnhHb2VpalBDTlZjNU9QM0RBanc?oc=5",
+   "fecha": "2026-11-07T16:39:12-03:00",
+   "resumen": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas    MinutoYA",
+   "medio": "MinutoYA",
+   "fuente": "Empleo/SIPA Mendoza (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 7.96,
+   "score": 7.48,
    "medios": [
-    "Diario Mendoza Today"
+    "MinutoYA"
+   ]
+  },
+  {
+   "titulo": "Ante empresarios, Cornejo defendió las medidas de alivio para las pymes",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTdKeUJ5X2hkQmFEbW1uVlBTOElfeW9IS2hWVmtwWExxVnBRekR5RUl2SWw5QXZuMFFQVVVraFJUQzZ0REhKLVNyNjFYZi1NQTFWV3MtZ3owWm1wMm4zS0xYV3hIdkxoNk5MdHZkb203OUxvTEc5T1hHTF9QWkswdHFVOXI5X3ZLZDhXanJMU3lZTlJsSTdwM0ZaVDNtMXFraVowUzhjdEnSAagBQVVfeXFMTUE3SnlCeV9oZEJhRG1tblZQUzhJX3lvSEtoVlZrcFhMcVZwUXpEeUVJdklsOUF2bjBRUFVVa2hSVEM2dERISi1TcjYxWGYtTUExVldzLWd6MFptcDJuM0tMWFd4SHZMaDZOTHR2ZG9tNzlMb0xHOU9YR0xfUFpLMHRxVTlyOV92S2Q4V2pyTFN5WU5SbEk3cDNGWlQzbTFxa2laMFM4Y3RJ?oc=5",
+   "fecha": "2026-11-07T18:32:35-03:00",
+   "resumen": "Ante empresarios, Cornejo defendió las medidas de alivio para las pymes    Mendoza Post",
+   "medio": "Mendoza Post",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 6.54,
+   "medios": [
+    "Mendoza Post"
    ]
   }
  ],
  "top_argentina": [
   {
-   "titulo": "Ajuste deflacionario con boom de dólares",
-   "url": "https://www.infobae.com/opinion/2026/11/08/ajuste-deflacionario-con-boom-de-dolares/",
-   "fecha": "2026-11-08T00:48:19-03:00",
-   "resumen": "El ingreso histórico de divisas por exportaciones energéticas y agrícolas permite fortalecer las reservas del Banco Central, aunque el consumo doméstico sigue deprimido",
+   "titulo": "Radiografía de uno de los números que más le preocupan al papa León XIV",
+   "url": "https://www.lanacion.com.ar/economia/radiografia-de-uno-de-los-numeros-que-mas-le-preocupan-al-papa-leon-xiv-nid08112026/",
+   "fecha": "2026-11-08T08:20:52-03:00",
+   "resumen": "La gestión de Milei mejoró los índices de pobreza gracias a la lucha contra la inflación; sin embargo, es una tendencia que se frenó en los últimos meses por la precarización del empleo, la baja de los ingresos y el freno de la economía",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 8.88,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "El salto en las importaciones del RIGI que reabre la discusión sobre el lugar de las pyme argentinas",
+   "url": "https://www.infobae.com/economia/2026/11/08/el-salto-en-las-importaciones-del-rigi-que-reabre-la-discusion-sobre-el-lugar-de-las-pyme-argentinas/",
+   "fecha": "2026-11-08T12:28:24-03:00",
+   "resumen": "El récord de octubre con USD 140 millones llega justo cuando cámaras empresariales y funcionarios buscan definir cuánto de la actividad de los grandes proyectos termina beneficiando a la industria nacional",
    "medio": "Infobae",
    "fuente": "Infobae",
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 8.5,
+   "score": 8.86,
    "medios": [
     "Infobae"
    ]
   },
   {
-   "titulo": "Un informe del Banco Central reveló que las tasas reales negativas impulsan el crédito a empresas pero frenan las líneas para el consumo",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTEpQcDNPRXlPVWJodUh5dGJIeVhSQk14eGFiaVp4bjJiVkdQQ2hFWW1HVHVTZlh3U3VkeXhNOGtfWGpjT3BfZGhYNVFDajFobFBYbHlXOXlHa0M0QVNWX1l1S1hFSTVUbENIYmN2VnNVbEwwNml6QzAyWjQ0cEFOXy1mMUt3LW5mRWFMdGxocFE3OC1PVUpXMm9OZUtJMmhLM1cxbTJaRl9Zd1ptN1NjVEVzYjlNT1Jsank2UFNldEdnd0lMQURzaGtFSUcxNmRpTTlGTnZEb2p6eGJNVTNPMkJyazlwcXNoYlJsMy14QVBwUFE1dnpRMDFaSDlwOUdOTTJV?oc=5",
-   "fecha": "2026-11-07T17:01:16-03:00",
-   "resumen": "Un informe del Banco Central reveló que las tasas reales negativas impulsan el crédito a empresas pero frenan las líneas para el consumo    Radio LV11",
-   "medio": "Radio LV11",
+   "titulo": "Argentina tendrá más adultos mayores que niños hacia 2040: cómo impactará en la economía y las jubilaciones",
+   "url": "https://www.ambito.com/economia/argentina-tendra-mas-adultos-mayores-que-ninos-2040-como-impactara-la-y-las-jubilaciones-n6341616",
+   "fecha": "2026-11-08T00:00:00-03:00",
+   "resumen": "Los nacimientos cayeron 47% en una década y para 2040 habrá más personas de 65 años o más que menores de 15. Cómo impactará el cambio demográfico sobre las jubilaciones, el empleo y las inversiones.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 8.76,
+   "medios": [
+    "Ambito",
+    "Rosario Finanzas",
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Las ventas minoristas pyme cayeron 1,6% interanual en octubre y el consumo no repunta",
+   "url": "https://www.ambito.com/economia/las-ventas-minoristas-pyme-cayeron-16-interanual-octubre-y-el-consumo-no-repunta-n6342900",
+   "fecha": "2026-11-08T10:53:00-03:00",
+   "resumen": "Las ventas pyme mostraron una leve recuperación frente a septiembre, pero no lograron revertir la tendencia negativa. Un informe del sector también expuso las dificultades de los comercios para sostener la rentabilidad.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 7.96,
+   "medios": [
+    "Infobae",
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "INDEC publicará esta semana la inflación de octubre: ¿cómo afecta el bolsillo?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHlQb0RXZGhpYjBVVGEyWVgyLTR2RWVha2QxZVpfMng2STU0bFBRVWV0YXNfcDg0ZURJOHlMUVBfR2M3NU84YUdtMEZTdjVXOVBCUVlNQlhQbEQ2Zm9YVUVuQ01oYUg0THQ2RmFDZFJPbE1EUWY3aU4xVVhkZXZPVWJmUm1vV3lEdXBManozZDFndUoyQ3h2MjFHaENxMVJMTnpYajM5R3hLWWN4NnFuZDJnbGgtdW9Eemc?oc=5",
+   "fecha": "2026-11-08T11:48:26-03:00",
+   "resumen": "INDEC publicará esta semana la inflación de octubre: ¿cómo afecta el bolsillo?    NewsDigitales",
+   "medio": "NewsDigitales",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 7.03,
+   "score": 7.26,
    "medios": [
-    "Radio LV11"
-   ]
-  },
-  {
-   "titulo": "El INDEC dice 32,3% pero un informe privado lleva la pobreza argentina al 45,4%",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWduWHVmbEtjWnp3Y1RoMEVqTXFmTloxc2hwVVdPUE4xc0loaVRaRklWXy1rUS1YWVlLVVNlbUNkby1VUEF4TnBzbE9wRmVTTkJfYXIzT1gtaDBUeWg1MkdVOE1QT05mWE9IWGRwSzFjXzZ0Z2pQb2M2a1FGNHl4UTUxTWMweF9lVHZFWkhXYktONUFoLTdOYVJYbUdCb2NrTm44bXY4enJmbU40Mmw3dnVabGFSUlk1ZE9nVWxn?oc=5",
-   "fecha": "2026-11-08T00:04:57-03:00",
-   "resumen": "El INDEC dice 32,3% pero un informe privado lleva la pobreza argentina al 45,4%    Semanario de Junín",
-   "medio": "Semanario de Junín",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 6.25,
-   "medios": [
-    "Semanario de Junín"
-   ]
-  },
-  {
-   "titulo": "Alerta en la industria de maquinaria agrícola: crecen las importaciones y los fabricantes locales acumulan deudas y cierres",
-   "url": "https://www.infobae.com/economia/2026/11/07/alerta-en-la-industria-de-maquinaria-agricola-crecen-las-importaciones-y-los-fabricantes-locales-acumulan-deudas-y-cierres/",
-   "fecha": "2026-11-07T20:23:18-03:00",
-   "resumen": "La apertura comercial sumó presión sobre los nacionales y tres de las compañías más reconocidas del sector enfrentan cheques rechazados, salarios impagos y plantas con actividad reducida o paralizada",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.98,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "El Gobierno busca encapsular la suba del riesgo país para evitar un impacto en el dólar y la actividad",
-   "url": "https://www.infobae.com/economia/2026/11/08/el-gobierno-busca-encapsular-la-suba-del-riesgo-pais-para-evitar-un-impacto-en-el-dolar-y-la-actividad/",
-   "fecha": "2026-11-08T00:51:13-03:00",
-   "resumen": "La caída de los bonos refleja un aumento de la desconfianza de los inversores. La derrota de Bolsonaro y de los republicanos fueron impactos negativos para Milei. Mantener el equilibrio cambiario y la inflación debajo de 2% es clave en esta etapa",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.96,
-   "medios": [
-    "Infobae"
+    "NewsDigitales"
    ]
   }
  ],
@@ -164,22 +165,22 @@
   {
    "fuente": "Los Andes (GN)",
    "ok": true,
-   "notas": 55
+   "notas": 61
   },
   {
    "fuente": "MDZ",
    "ok": true,
-   "notas": 57
+   "notas": 76
   },
   {
    "fuente": "Diario Uno",
    "ok": true,
-   "notas": 13
+   "notas": 21
   },
   {
    "fuente": "El Sol",
    "ok": true,
-   "notas": 8
+   "notas": 7
   },
   {
    "fuente": "Unidiversidad",
@@ -194,42 +195,42 @@
   {
    "fuente": "Ámbito",
    "ok": true,
-   "notas": 5
+   "notas": 9
   },
   {
    "fuente": "Infobae",
    "ok": true,
-   "notas": 26
+   "notas": 29
   },
   {
    "fuente": "La Nación",
    "ok": true,
-   "notas": 26
+   "notas": 38
   },
   {
    "fuente": "Clarín",
    "ok": true,
-   "notas": 62
+   "notas": 80
   },
   {
    "fuente": "El Cronista",
    "ok": true,
-   "notas": 48
+   "notas": 61
   },
   {
    "fuente": "Página/12",
    "ok": true,
-   "notas": 82
+   "notas": 74
   },
   {
    "fuente": "Google News economía argentina",
    "ok": true,
-   "notas": 13
+   "notas": 21
   },
   {
    "fuente": "Google News Mendoza economía",
    "ok": true,
-   "notas": 21
+   "notas": 18
   },
   {
    "fuente": "DEIE Mendoza",
@@ -249,7 +250,7 @@
   {
    "fuente": "INDEC Cuyo (GN)",
    "ok": true,
-   "notas": 7
+   "notas": 4
   },
   {
    "fuente": "BCRA",
@@ -264,32 +265,15 @@
   {
    "fuente": "Empleo/SIPA Mendoza (GN)",
    "ok": true,
-   "notas": 4
+   "notas": 3
   },
   {
    "fuente": "INDEC/BCRA (GN)",
    "ok": true,
-   "notas": 15
+   "notas": 19
   }
  ],
  "candidatas_mendoza": [
-  {
-   "titulo": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY19ldmJBZ0dXZVdLNkw3aGRqUDk1UTYtdENjcEdfalhoVmFtb3VzbW12NGxlSjRXbHN6eUcyUEJ6Zmg4YzZfNWxseWVERlR0bnJGaDV6dnVBNW9VeHZ6bkFHRnhSdWotdXVLdFNTVlpCWjVSdS03SnBLb3ZiUDJYbVpvSEJCTVJGMmZZSWRGUTlNUzZwN2NmZVl4MFJ5SHMyUWFlS3VRcVZ6ejdOTkJ5d0o3TnhHb2VpalBDTlZjNU9QM0RBanc?oc=5",
-   "fecha": "2026-11-07T16:39:12-03:00",
-   "resumen": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas    MinutoYA",
-   "medio": "MinutoYA",
-   "fuente": "Empleo/SIPA Mendoza (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 14.13,
-   "medios": [
-    "Diario Mendoza Today",
-    "MinutoYA",
-    "Sitio Andino"
-   ]
-  },
   {
    "titulo": "Solo el 4,9% de las INDUSTRIAS piensa sumar personal: cómo está el EMPLEO en el sector",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk9maWZkT0xLa0NUZndESndLeGZzMEhIZzFFd0ZSZ2NjVFJSVFp0Tm1YV2g1RlZZak10Uk9mcWl4SDRyXzk4R0dOb3ZMejg2Y0lDWWtleWRSeExFbHZnV1pkNFluVXZ6WnYxMjdwdGJHRl9HTlZUeVMyZmxwSnFySVc5TXp5UFhxNFFBcjZiRlhEbEZFaXpxOUo5YTBlNG9zYUl5N2YwS212UlZNRFNvVNIBsAFBVV95cUxNNk9maWZkT0xLa0NUZndESndLeGZzMEhIZzFFd0ZSZ2NjVFJSVFp0Tm1YV2g1RlZZak10Uk9mcWl4SDRyXzk4R0dOb3ZMejg2Y0lDWWtleWRSeExFbHZnV1pkNFluVXZ6WnYxMjdwdGJHRl9HTlZUeVMyZmxwSnFySVc5TXp5UFhxNFFBcjZiRlhEbEZFaXpxOUo5YTBlNG9zYUl5N2YwS212UlZNRFNvVA?oc=5",
@@ -300,7 +284,7 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 11.32,
+   "score": 9.38,
    "medios": [
     "Mendoza Post"
    ]
@@ -315,7 +299,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 10.69,
+   "score": 8.73,
    "medios": [
     "Diario El Sol Mendoza"
    ]
@@ -330,9 +314,54 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 9.79,
+   "score": 8.43,
    "medios": [
     "Mendoza Post"
+   ]
+  },
+  {
+   "titulo": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY19ldmJBZ0dXZVdLNkw3aGRqUDk1UTYtdENjcEdfalhoVmFtb3VzbW12NGxlSjRXbHN6eUcyUEJ6Zmg4YzZfNWxseWVERlR0bnJGaDV6dnVBNW9VeHZ6bkFHRnhSdWotdXVLdFNTVlpCWjVSdS03SnBLb3ZiUDJYbVpvSEJCTVJGMmZZSWRGUTlNUzZwN2NmZVl4MFJ5SHMyUWFlS3VRcVZ6ejdOTkJ5d0o3TnhHb2VpalBDTlZjNU9QM0RBanc?oc=5",
+   "fecha": "2026-11-07T16:39:12-03:00",
+   "resumen": "Cornejo ratificó el rumbo fiscal de Mendoza y anunció medidas para las pequeñas empresas    MinutoYA",
+   "medio": "MinutoYA",
+   "fuente": "Empleo/SIPA Mendoza (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 7.48,
+   "medios": [
+    "MinutoYA"
+   ]
+  },
+  {
+   "titulo": "Ante empresarios, Cornejo defendió las medidas de alivio para las pymes",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTdKeUJ5X2hkQmFEbW1uVlBTOElfeW9IS2hWVmtwWExxVnBRekR5RUl2SWw5QXZuMFFQVVVraFJUQzZ0REhKLVNyNjFYZi1NQTFWV3MtZ3owWm1wMm4zS0xYV3hIdkxoNk5MdHZkb203OUxvTEc5T1hHTF9QWkswdHFVOXI5X3ZLZDhXanJMU3lZTlJsSTdwM0ZaVDNtMXFraVowUzhjdEnSAagBQVVfeXFMTUE3SnlCeV9oZEJhRG1tblZQUzhJX3lvSEtoVlZrcFhMcVZwUXpEeUVJdklsOUF2bjBRUFVVa2hSVEM2dERISi1TcjYxWGYtTUExVldzLWd6MFptcDJuM0tMWFd4SHZMaDZOTHR2ZG9tNzlMb0xHOU9YR0xfUFpLMHRxVTlyOV92S2Q4V2pyTFN5WU5SbEk3cDNGWlQzbTFxa2laMFM4Y3RJ?oc=5",
+   "fecha": "2026-11-07T18:32:35-03:00",
+   "resumen": "Ante empresarios, Cornejo defendió las medidas de alivio para las pymes    Mendoza Post",
+   "medio": "Mendoza Post",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 6.54,
+   "medios": [
+    "Mendoza Post"
+   ]
+  },
+  {
+   "titulo": "La recaudación cayó 2,7% en 2026, pero anticipan una mejora a fin de año",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVRNa2dvLTFpVVJXanotczFHaDM0MkF6NFdCUUxaYWNMNUduanRsOGNlSTI2WDB2cHltMUpjN3I2aGg5MEpVYVo1bmh4bW04QS12T0JwNjBWYzNRdDBDdldrUndDcmtsakVxbXVqbmNWMW9aY0p5dmhMcDZ3N1lhWjBDZVVKZWNvTFIzRll2WVhCa3FjTHB4cEJfS0JTdGNTd3ZGeVFhYXRTQmdPSmNnWDhCVXpLUdIBtgFBVV95cUxPbVRNa2dvLTFpVVJXanotczFHaDM0MkF6NFdCUUxaYWNMNUduanRsOGNlSTI2WDB2cHltMUpjN3I2aGg5MEpVYVo1bmh4bW04QS12T0JwNjBWYzNRdDBDdldrUndDcmtsakVxbXVqbmNWMW9aY0p5dmhMcDZ3N1lhWjBDZVVKZWNvTFIzRll2WVhCa3FjTHB4cEJfS0JTdGNTd3ZGeVFhYXRTQmdPSmNnWDhCVXpLUQ?oc=5",
+   "fecha": "2026-11-08T07:34:51-03:00",
+   "resumen": "La recaudación cayó 2,7% en 2026, pero anticipan una mejora a fin de año    Diario Mendoza",
+   "medio": "Diario Mendoza",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 5.66,
+   "medios": [
+    "Diario Mendoza"
    ]
   },
   {
@@ -345,42 +374,24 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 7.96,
+   "score": 5.61,
    "medios": [
     "Diario Mendoza Today"
    ]
   },
   {
-   "titulo": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este sábado 7 de noviembre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVlaNXV0aUp1V0kxakJUWktKVjRFLWpyZTc3WmpWZXZRdF9Dc0MxU25Va1FiRkgyM252bE9HZTJ1Y3g5TVVHUDhTSkwtRzRjeEpXRkw0ajBQZUN4Ung2WlZCT0lQNkRzS29qUVBleTlGNjFKa3ZPNnNUUUl6ME1BTkVOR29NSnJjRzRId1I0cG1idnA4R2tLamNNakQ2dHBRcmd0VEx3T3VlRFFFZ0szeGtSVUpmZ1ZnYlVYOEJCSdIBxAFBVV95cUxQYV9GalhPRndQT3oyNTV6U3RXYy1EQllZN0pfS3VEbEZPaFRRbkVZOE8xdjNKaHQ0ZmZ1NTJhM1h0YzVpR3dMcnl5Znh1WUdvUWhqSk82N0V2OEZIRFBsX1RlYTAwNGFlX002WE9sR1lENGhfR184QWJ3enVtZ2hDNm01eFVjS1owZk1mS185NDRWM1l6bF9idWJUZ3hHdGJTSVNMak5rMTdXVk9hbWhTZzVpR1laVmxQV0Q1V2NjSkduU3Q1?oc=5",
-   "fecha": "2026-11-07T07:50:00-03:00",
-   "resumen": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este sábado 7 de noviembre de 2026    Sitio Andino",
+   "titulo": "El Gobierno de Mendoza anunció una baja del impuesto de Sellos y un plan de alivio fiscal para las pymes",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeEd5LWNQTmRGZDAtaHNXVEpTaVJidjFQY0pkTGFtSEwtNXBub3pleE1jUE5JV1FzTWFsNzRncFBkYnY3RUMtZjZWaFEwSV81NGkwMmhJLWhFZ1kycmZ3d18xZEl1eVVyM1BNQVZMTmhRT2Q4bXdOVEhrMnJoLXJwOTZWMnJVMmY0dEs4bFhaMkh1Z0Y1YUZrTjlpSGJfaUlGTGdJZlJoT3pHZjZLeHZBWjBYUWFlb0M5OUd3NGFxOTR1dGF1R0ZSX2trdVNlaGs2UkV0UGF30gHbAUFVX3lxTE55SnMway0xcmtoZkFVeUIyajgteVQ3bXlZejZ2VmU0NGNLVDBSQTI0dGsyV2xOTW4xZUlRN2JRay1qSEU3N1V0OG1BZ0FtOVhENVpUd0dsMmNOUkxGaE9YQkx2LXFUclhCS1E5QlVEU2M3VlR2cDJ0ZHpwWWhCN1Q0d1RlY19ZMTl2NFF5Q2hnb09sUmlfcUMyN3pDemtVUzZIQXUtX05oVk40eUdFTGRPUHVyS09sY0JSTzdkUHZ6c1NaQkhBMnh3d0QtQ2twY3BmbTBBR0pzREkzRQ?oc=5",
+   "fecha": "2026-11-07T16:00:00-03:00",
+   "resumen": "El Gobierno de Mendoza anunció una baja del impuesto de Sellos y un plan de alivio fiscal para las pymes    Sitio Andino",
    "medio": "Sitio Andino",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 6.6,
+   "score": 5.36,
    "medios": [
-    "Clarin.com",
-    "El Cronista",
-    "La Nación",
     "Sitio Andino"
-   ]
-  },
-  {
-   "titulo": "La construcción repuntó 7,8% y alcanzó su mayor suba mensual desde 2024",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzNJRWVaMjRWbW9UYVFwT2wyV1JpcGEtbEloRVppWGZwa1ltSFZmWDczS0dwU2JWQTVYWmFDYVgwZ2N3cTJpc0xUU2hVWTZKYnVhbjBnZXNpSEVNdEppcDkySGxnX0c1QXJjOTVWSjM2eU5vb2ZRR0kxSEh4a1UxS195QkFNUG53VnpCX0lKVmhram1QdkxKRU1MMXgtNlR3X1VKaXFB?oc=5",
-   "fecha": "2026-11-07T21:37:32-03:00",
-   "resumen": "La construcción repuntó 7,8% y alcanzó su mayor suba mensual desde 2024    Diario El Sol Mendoza",
-   "medio": "Diario El Sol Mendoza",
-   "fuente": "El Sol",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 6.31,
-   "medios": [
-    "Diario El Sol Mendoza"
    ]
   },
   {
@@ -393,9 +404,55 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 5.5,
+   "score": 5.22,
+   "medios": [
+    "Diario Mendoza",
+    "San Nicolás"
+   ]
+  },
+  {
+   "titulo": "La construcción repuntó 7,8% y alcanzó su mayor suba mensual desde 2024",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzNJRWVaMjRWbW9UYVFwT2wyV1JpcGEtbEloRVppWGZwa1ltSFZmWDczS0dwU2JWQTVYWmFDYVgwZ2N3cTJpc0xUU2hVWTZKYnVhbjBnZXNpSEVNdEppcDkySGxnX0c1QXJjOTVWSjM2eU5vb2ZRR0kxSEh4a1UxS195QkFNUG53VnpCX0lKVmhram1QdkxKRU1MMXgtNlR3X1VKaXFB?oc=5",
+   "fecha": "2026-11-07T21:37:35-03:00",
+   "resumen": "La construcción repuntó 7,8% y alcanzó su mayor suba mensual desde 2024    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 5.2,
+   "medios": [
+    "Diario El Sol Mendoza"
+   ]
+  },
+  {
+   "titulo": "Con qué valores abrirán el dólar blue y el oficial este martes en Mendoza",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlozUmpMODBiODFXNnhoYTlRVFFvYnpmek9rTUlVTlhtRnVwbE95bWpjb01fRUYwUEJxSjRGdV9DN0wzSTYzUDNKMVBfUVlyQTBkMkUxLXdFb0NyUFBPRmRjNTBPLVY2MHhpTmRIdVI2TWxFWGNFRnZCWTRLeExiNk1FdGV4clloY3BVZjQ2N09fRkh0RWloLWR6WEt0RkszN2FEYVdR0gGrAUFVX3lxTE11MmpENEVhb2s4SlBRMVNXZjRLY3BPZWdTUGZYMThtRW5EaWozbmE4RFg2N2dKVk8xUDFxUTRxaXZJUWwxY0cxUU1NVWNmM0tpLTJuS1NzNHhPSFVTY3BFaEJiREVjNTVrcTRSd0NUMnBQT2I2RzdKVFJENlZvRzZ2U001bDZ1SFlGNDJHdE1LZTFNd2pOc0JfQk95XzlDOVJHQ0hoY01oMHRhaw?oc=5",
+   "fecha": "2026-11-08T10:00:00-03:00",
+   "resumen": "Con qué valores abrirán el dólar blue y el oficial este martes en Mendoza    Diario Mendoza",
+   "medio": "Diario Mendoza",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 5.1,
    "medios": [
     "Diario Mendoza"
+   ]
+  },
+  {
+   "titulo": "Se busca coherencia para las Pymes argentinas",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbTl0bE1HUXo5d2lTeE1wd3Rzdm1KVHA1UGtQUklBc2VmckZ5bGtDT0p0R1dmTjVEeDBrQW4zclUwVWQ4MnRYZmdpXzJJZVFZQk82MUFIX3l4Z0lXTFpDWTFDYWxySFFRUTFYQV8wcFpzUDZEUjZnZ25nLXNPRFZvYVpEakdlX1AxeTJzZ2pvMTdHZWpUbEt6R3dDUW5hYVZt?oc=5",
+   "fecha": "2026-11-08T09:41:00-03:00",
+   "resumen": "Se busca coherencia para las Pymes argentinas    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.6,
+   "medios": [
+    "MDZ Online"
    ]
   },
   {
@@ -408,24 +465,9 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 5.2,
+   "score": 4.35,
    "medios": [
     "Los Andes"
-   ]
-  },
-  {
-   "titulo": "La recaudación cae 2,7% en 2026, pero anticipan una mejora a fin de año",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3pkQkFEZXBHWl9OMVpmamxsNG1mcUxwbi1jZ2R4WjhGT1AzMG5XSDVsS21kbTFwLXdZdEZlb2hsaUpHNEthUTl4WnVGWHdqZlhFWXVqM19ZU3J2WnV3X1BkTXVmLXRUcjNMN1lpVEcycjdqaEZ4M3A2OURGRjBVdTdhT09PSFV0OVA0V2pfWlpyT2ZUNzBac2ZqdTkzVVFmZDdRWVFSUGdCQlJscVZn0gG0AUFVX3lxTE1XeFZxQWhrN3FoVkI4Tk14eUpWNzhDVVM3SjB5Vm9waGI3UUtYV0JtRHh6aFVRMjZrSW0wS2pKQmJBQ0Ytb1JVX2dBZ01yVDdrQlFaVk1NZ1BYbWNVc3dwT1dIelNCVUU1LVFWbjFtVTctTVRXWDQzNjV4NFFMRjVJZC1EVF83ZjB4M2Z5U3ZHU0JCZ2R2cXJPd3J4UFlwZ0ZQWDBnMERzQjRsb2RrUURBT2hzRQ?oc=5",
-   "fecha": "2026-11-07T18:51:00-03:00",
-   "resumen": "La recaudación cae 2,7% en 2026, pero anticipan una mejora a fin de año    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 4.63,
-   "medios": [
-    "Diario Mendoza"
    ]
   },
   {
@@ -438,7 +480,7 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 3.75,
+   "score": 2.86,
    "medios": [
     "Diario Mendoza"
    ]
@@ -453,7 +495,7 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 3.64,
+   "score": 2.76,
    "medios": [
     "Diario Mendoza"
    ]
@@ -468,7 +510,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 3.13,
+   "score": 2.62,
    "medios": [
     "Los Andes"
    ]
@@ -483,9 +525,24 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 3.13,
+   "score": 2.62,
    "medios": [
     "Los Andes"
+   ]
+  },
+  {
+   "titulo": "Cerezas: productores estiman una cosecha un 30% por debajo del promedio",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnQ1QXd2bEJKTnZiS3ExX3lRa3dYSkVFVVVMUV9HTXFkTGxreS1vVW1OblhtUFYxcVktMlhTbFgzZW55bEZ1M09YU1ZBa3d1T3ktVUxIdjU4TklucWZPaWhORTlPdWxtXzBEclB5TnhQQUlDU1ZiSGtNRE00RXVDaXNmQVI4Z3ZrdWEtOURRVmtaU3paSi1ia3lmcU9HSHl6dTgwT2pXakNTZWtXY1dfalRqUUNqTE5uM255Z1liRXk?oc=5",
+   "fecha": "2026-11-08T11:27:12-03:00",
+   "resumen": "Cerezas: productores estiman una cosecha un 30% por debajo del promedio    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 2.4,
+   "medios": [
+    "MDZ Online"
    ]
   },
   {
@@ -498,24 +555,39 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 2.99,
+   "score": 2.24,
    "medios": [
     "Infocampo"
    ]
   },
   {
-   "titulo": "La INDUSTRIA subió 0,7% en un mes, pero sigue ESTANCADA: los números que preocupan",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ19oZHVoMVVYY2llQkF2LXRZeFRvWHk4SkE2ZGcxaXd2Q1JoSWNocThydDJySWRTX0poNm9ULXRQMnV6OG9QZWFEOGlTMTlsWGVYTEYzLWJKWUVnVUF4OFlOOWs3dHdTa1h1SzJ1RktsRmxMUEdTMHhZYkhvLXBHYkVTRVBVVWVJYlc1MGJVVUIwUjFtUlp6dU9xRzhlbUw10gGgAUFVX3lxTE9nX2hkdWgxVVhjaWVCQXYtdFl4VG9YeThKQTZkZzFpd3ZDUmhJY2hxOHJ0MnJJZFNfSmg2b1QtdFAydXo4b1BlYUQ4aVMxOWxYZVhMRjMtYkpZRWdVQXg4WU45azd0d1NrWHVLMnVGS2xGbExQR1MweFliSG8tcEdiRVNFUFVVZUliVzUwYlVVQjBSMW1SWnp1T3FHOGVtTDU?oc=5",
-   "fecha": "2026-11-06T20:28:00-03:00",
-   "resumen": "La INDUSTRIA subió 0,7% en un mes, pero sigue ESTANCADA: los números que preocupan    Mendoza Post",
-   "medio": "Mendoza Post",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
+   "titulo": "Impuestos provinciales: la disputa que se viene para atraer inversiones",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelhyeW1uZVJ0VkpxUlE1azFZck51c3lOWWk4RE9FQUNteWlRRDRfUExZOTRFc0ItbENvb2U1SzVvSXoyNF9IR09ocmpxbHZ1M1BDbmdDU3NYSGwzQ3FnYzFvTGU0bUI5NU5GUk1fT04ydThzQTF4dGtHdVlFbUd3NlVwTU1TS2VBRFl6aTFFWlRzampGRzRpaWRGOWt5Q0JvMEh2RlRNZmdnQWdBTWpNZA?oc=5",
+   "fecha": "2026-11-08T08:25:00-03:00",
+   "resumen": "Impuestos provinciales: la disputa que se viene para atraer inversiones    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 2.92,
+   "score": 2.23,
    "medios": [
-    "Mendoza Post"
+    "Los Andes"
+   ]
+  },
+  {
+   "titulo": "Reservas: ¿de cuánto es la bazuca cambiaria de Milei?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0x5ek82WnlrRUxJc3pzVlJzYkFXVFZXdmNLUDN1elVOam9SaW9YSmNaRk5WeXBFWkZVSEFsdkxjX2RWSzBEYjFDMmh0R1pKQng2aF9GTWpqdTdNb1d3Y1V0Tk5WbGg4UVJaaU5YeV9ibS14WWJVUkRWRjJQOG5OSkI1ZzlyNk41MUNuZUU4T1I5V1ZYZlYySGJ6cTQyNXo5WTJOdmhWQQ?oc=5",
+   "fecha": "2026-11-08T08:25:00-03:00",
+   "resumen": "Reservas: ¿de cuánto es la bazuca cambiaria de Milei?    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 2.23,
+   "medios": [
+    "MDZ Online"
    ]
   },
   {
@@ -528,7 +600,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 2.62,
+   "score": 1.94,
    "medios": [
     "Los Andes"
    ]
@@ -543,52 +615,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 2.19,
-   "medios": [
-    "MDZ Online"
-   ]
-  },
-  {
-   "titulo": "El mapa inmobiliario del Gran Mendoza: dónde se firman más boletos y dónde se mueve más volumen de dólares",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOXlqUlQ5TDBuZGFvSTZacGNuUmpPMklTUTN0YzlvdTJidzBrSldjRkUzTE9XdVoyaXdLVHcxT2NvRDRQeXI2bFJLYVVYdWJtSlNnaUwtUExXVVlMM3pRUmxISnBydlJTM0U4NXgwMUJvampFSUVTOEJYVEJuRm10ZURlUVJUdEJVbmlQbDZZZzVkQU1hMXpMbEZYR1RWSmV2Vkg0R3BpQUE1bHliZnlvUkRCTkpYZUoxU3g0dlU4clE3M3RTazNkamZxRHRZbGFmd0N3NllTbFpaMGJuZk5mdWh3?oc=5",
-   "fecha": "2026-11-06T19:18:35-03:00",
-   "resumen": "El mapa inmobiliario del Gran Mendoza: dónde se firman más boletos y dónde se mueve más volumen de dólares    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 2.06,
-   "medios": [
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "El riesgo país trepó a 939 puntos en la Argentina y rompió un nuevo récord negativo",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQelVraHhLWjJNQi1aR1dPY3ZGN3dhQ1JCQ044a1IyMEhIZ25Ta3BiNVlma1dDcDhFbVd0S2VYMkRaVnI1cWRTalFycHRDTThPeGx3b3VPTU9IZEp4V3hTNGl5aFBxYkcwTmxodkhNWWFjR2lHOF9nazlpdWxFSlBMSlNXZTJNS0Z6OXFRMkJBTEtKRjRQc2dUa1oyUER5SVVhdTQ5UUxuYzlDdUMwbWsxRWlyMHprSkoxejRjM0I0RTkwZ9IBwgFBVV95cUxQelVraHhLWjJNQi1aR1dPY3ZGN3dhQ1JCQ044a1IyMEhIZ25Ta3BiNVlma1dDcDhFbVd0S2VYMkRaVnI1cWRTalFycHRDTThPeGx3b3VPTU9IZEp4V3hTNGl5aFBxYkcwTmxodkhNWWFjR2lHOF9nazlpdWxFSlBMSlNXZTJNS0Z6OXFRMkJBTEtKRjRQc2dUa1oyUER5SVVhdTQ5UUxuYzlDdUMwbWsxRWlyMHprSkoxejRjM0I0RTkwZw?oc=5",
-   "fecha": "2026-11-06T20:31:00-03:00",
-   "resumen": "El riesgo país trepó a 939 puntos en la Argentina y rompió un nuevo récord negativo    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 1.95,
-   "medios": [
-    "Diario Mendoza"
-   ]
-  },
-  {
-   "titulo": "Los bonos rebotaron y subieron en la última rueda, mientras el riesgo país se acercó a los 940 puntos",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNalZTdG9YNHRWTW5tTTE1OXVmTkNDTkVoeG5TVnE2N05KRWNyZ1FIZVBYOC1wanBqdW90YnFKRzc1bFFfeWtmY2FRaTlucnNUZ0FBdERLMWYwMHFpUkNFMDdnWUFoWENBSlJWQ2pYVGtRVDUyRVdDWmZIX0Q2RVAtWF9JOEFMRXZrWTkzbDE3TjFjMHZZcjFiNDk4dU5vM3lJYVJGVkhLRUNCckZTQmhJZFZBNzR0MHFfQzdKWDlZRWNoZjdRMzlveVJYR0ZfaThULWZJTTBqSm1HZG8zU1hMMWlxWWVwRHl6SHI4U1BR?oc=5",
-   "fecha": "2026-11-07T08:42:00-03:00",
-   "resumen": "Los bonos rebotaron y subieron en la última rueda, mientras el riesgo país se acercó a los 940 puntos    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 1.79,
+   "score": 1.51,
    "medios": [
     "MDZ Online"
    ]
@@ -603,9 +630,24 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 1.73,
+   "score": 1.39,
    "medios": [
     "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "Los bonos rebotaron y subieron en la última rueda, mientras el riesgo país se acercó a los 940 puntos",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNalZTdG9YNHRWTW5tTTE1OXVmTkNDTkVoeG5TVnE2N05KRWNyZ1FIZVBYOC1wanBqdW90YnFKRzc1bFFfeWtmY2FRaTlucnNUZ0FBdERLMWYwMHFpUkNFMDdnWUFoWENBSlJWQ2pYVGtRVDUyRVdDWmZIX0Q2RVAtWF9JOEFMRXZrWTkzbDE3TjFjMHZZcjFiNDk4dU5vM3lJYVJGVkhLRUNCckZTQmhJZFZBNzR0MHFfQzdKWDlZRWNoZjdRMzlveVJYR0ZfaThULWZJTTBqSm1HZG8zU1hMMWlxWWVwRHl6SHI4U1BR?oc=5",
+   "fecha": "2026-11-07T08:42:00-03:00",
+   "resumen": "Los bonos rebotaron y subieron en la última rueda, mientras el riesgo país se acercó a los 940 puntos    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 1.28,
+   "medios": [
+    "MDZ Online"
    ]
   },
   {
@@ -618,24 +660,39 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 1.55,
+   "score": 1.21,
    "medios": [
     "Diario UNO"
    ]
   },
   {
-   "titulo": "La industria volvió a caer en septiembre, mientras que la construcción logró repuntar",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmFHdGFVbk92SXdTdkFmNklHTThJYW5ILUdVeUx1eFNIbnltV2dna2R5dTFCbk5CcnhWU3hjZGw4SEt3eVRTdE9RT25ta3BuVjVDdnhJOEc2cmxnSFZrcFN4RGhEaUg4M05OSTJmVTVIeW9jU3lFV29YRXl3T0pEZEV6VHhjSDZsY1Q4ejNYUkl2VkZiZ1Fna2VxWFhvMXdHM3psbzZNWmNuSzRrdk1QR3hfSEpoMC1JYnFIcWZaTGtTUFk?oc=5",
-   "fecha": "2026-11-06T19:56:00-03:00",
-   "resumen": "La industria volvió a caer en septiembre, mientras que la construcción logró repuntar    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
+   "titulo": "Calendario de ANSES en semana reducida: quiénes cobran jubilaciones, AUH y PNC entre el 11 y el 13 de noviembre",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXVPMFRhbG1FMjBLelpPU1lOZ2U3eVdFcVlNRzZsdjRQUTg0XzB4OGd2bFcyME1fYXhXeUhCc0N6SzY1RlhLd21OcUdXVEQyX3JfQW50eG9GOXdfdHV1VHlQM1lldThHSVI0aHhtMnBPN05oWXc2eGNtTzdGRkVYY0l3X2w4ZGx1NWhWeUppb2g3SzJyRGhRNlR1R3lpMXJZVjU5WkR4bi1vc0lLZ1VTd0FvQXhjcE1HbkJFMVJ4YkJMUE1PcGlqbUlzRlVIS3UxM290Z1M4cFjSAd4BQVVfeXFMTVFxOTdQMlJVbDlQRjYyM1BrOGxLQXdQeDhFcE54RzBSVFVxbVI2bk45OXFVUk9STmlXcFJENWVBcUEwanFDOXJ0Sm5uazJDU2hROW45dDBRWFI4VERIaUctRnMzUUM4aEkzMVQ1OER6Q0tJWWtBTklMX1NvTUMtOG5RQ09ITjhDanpOcWV4NjdTaUFuSTl5VUNNWE1DYmU1Rzc4d0Y4YnlZY002OE4tdUVCZjJyVndmV000a1d6ZnlRNnZRNmk0WWY0QW55eHNWTUZQMkpaVXE4UzI2LWVn?oc=5",
+   "fecha": "2026-11-08T10:02:00-03:00",
+   "resumen": "Calendario de ANSES en semana reducida: quiénes cobran jubilaciones, AUH y PNC entre el 11 y el 13 de noviembre    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 1.5,
+   "score": 1.16,
    "medios": [
-    "Los Andes"
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "La fortuna que ganó Boca por ser campeón: el jugoso cheque en dólares que se llevó agónicamente",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOblFBNWpSWmdsamNQYXRsLWtLQzVON1g1NGJEeVBGTHhSRlNjM2I3dGtPQ2J6NWdkTWc5ZDBrZ0d6TGJPZ0VSbkZDS0wzUkx5UW15VXNHN25xQzh2a0hRQ3k1SEJuaUk2cWdmUlJBUWtsd0Z5X2ZhdFlyOXczX1NuY1h5Nk53clpSVE11X0NPSTV0Y2g0cnVWOVN5cVVqREQtUlJjcFNVU29ibWU1dENJakpITzd0aWJIZm43OVgwM010X25Iekl4R0VLR1dwVDFXU2lleGFNVQ?oc=5",
+   "fecha": "2026-11-08T08:25:00-03:00",
+   "resumen": "La fortuna que ganó Boca por ser campeón: el jugoso cheque en dólares que se llevó agónicamente    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 1.11,
+   "medios": [
+    "Diario UNO"
    ]
   },
   {
@@ -648,7 +705,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 1.25,
+   "score": 0.91,
    "medios": [
     "Los Andes"
    ]
@@ -663,7 +720,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 1.09,
+   "score": 0.75,
    "medios": [
     "Los Andes"
    ]
@@ -678,7 +735,37 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 1.09,
+   "score": 0.75,
+   "medios": [
+    "MDZ Online"
+   ]
+  },
+  {
+   "titulo": "La \"Reina de la maldad\" murió dejando una fortuna de 12 millones de dólares a su perra y desheredó a sus nietos",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcXZjOXJzQ2NrWG0zTWM1WEJkdjRTdnRuOVllVFoyNWE0ZnlnbVRWVTBRcVdIRGNsbXhiQjhkbnd1RkNBUmhmQktrYmZNbEtnZXBFUjVFaW5QSmxsamM2cVhaMkY5QjdlWUlKM0RpbUQ3VXFUVXNwLUVJYVU5dlJXTG5LRkZvRVl4RThVcVd6TDZUU20xOHc5NzlOelJsaDBOX1l3WHk1RFBWenA4bWZ4TjYyRlVXUDRHYktvUHV5RkZaT1JSSndpRFhGR0VPZnI4bnJPUGpocTlCdDTSAeABQVVfeXFMTk8yS2V3MER0SjZJYWZDTUVnQkZ2MGVyWWJldFNuZHRsLTJTdkp2b1laM0lLdnV5UkJPVDdSWUhBc2NfVmJRUFZuMzQxS0l0STBxRW5VbUthV2ptM3VzenB3cjM5MmowS3lWVVZweWI4a3pVWTNYX0ZtMzBoTUhtVW55X3pGWFVIZG9nSUxWVWJsX0JBMzlvR0NIbnkwbFgxSG55OVFnUjBCWGxNUU5rSE1xQ1NmTHdWRXh3QXBFTS1GYjJyLXFmM2ZpUkoxZG1CcmNZOWhybXVCbEhtTkotQ1k?oc=5",
+   "fecha": "2026-11-07T15:45:00-03:00",
+   "resumen": "La \"Reina de la maldad\" murió dejando una fortuna de 12 millones de dólares a su perra y desheredó a sus nietos    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 0.63,
+   "medios": [
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "Jeep completa la edición especial del 85 aniversario con el inicio de las ventas de las versiones Compass y Commander",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNai1oN25mRnVzQlgxU1R0YWZCaXlNeFBQX094QldoYkFyTHl4elhoMXJlNHRhRUVKSERfanZmRDVBNnp5VlpZRFh1NE1IUEdKOHJSUlkybkV1djZCckJ2QnNLU1NobGMtbXZzN1hFTG9qZHJEWFpCWTNiSFVzSDAtRFdBSDF4YUhtQjlzQlhwOFllYlpuM1NWdmhFS0NKYTZoWEhMajF4R2FvaXUxX2tFTDNsc1l6ejFfQklBbUg5dkFDTTZJOWh3Mm9zTGFJYzQwUUk5Y2NVOU5YcUItbXFQUVkyWVdFUnBEYy0xZUwyVlBMRUlFZVptemdqS1p5RThBM1E?oc=5",
+   "fecha": "2026-11-07T12:03:00-03:00",
+   "resumen": "Jeep completa la edición especial del 85 aniversario con el inicio de las ventas de las versiones Compass y Commander    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 0.52,
    "medios": [
     "MDZ Online"
    ]
@@ -693,25 +780,9 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 0.86,
+   "score": 0.51,
    "medios": [
-    "Los Andes",
-    "MDZ Online"
-   ]
-  },
-  {
-   "titulo": "Jeep completa la edición especial del 85 aniversario con el inicio de las ventas de las versiones Compass y Commander",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNai1oN25mRnVzQlgxU1R0YWZCaXlNeFBQX094QldoYkFyTHl4elhoMXJlNHRhRUVKSERfanZmRDVBNnp5VlpZRFh1NE1IUEdKOHJSUlkybkV1djZCckJ2QnNLU1NobGMtbXZzN1hFTG9qZHJEWFpCWTNiSFVzSDAtRFdBSDF4YUhtQjlzQlhwOFllYlpuM1NWdmhFS0NKYTZoWEhMajF4R2FvaXUxX2tFTDNsc1l6ejFfQklBbUg5dkFDTTZJOWh3Mm9zTGFJYzQwUUk5Y2NVOU5YcUItbXFQUVkyWVdFUnBEYy0xZUwyVlBMRUlFZVptemdqS1p5RThBM1E?oc=5",
-   "fecha": "2026-11-07T12:03:00-03:00",
-   "resumen": "Jeep completa la edición especial del 85 aniversario con el inicio de las ventas de las versiones Compass y Commander    MDZ Online",
-   "medio": "MDZ Online",
-   "fuente": "MDZ",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 0.69,
-   "medios": [
-    "MDZ Online"
+    "Los Andes"
    ]
   },
   {
@@ -724,7 +795,7 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 0.55,
+   "score": 0.38,
    "medios": [
     "MDZ Online"
    ]
@@ -739,13 +810,91 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 0.52,
+   "score": 0.38,
    "medios": [
     "Diario UNO"
    ]
   }
  ],
  "candidatas_argentina": [
+  {
+   "titulo": "Radiografía de uno de los números que más le preocupan al papa León XIV",
+   "url": "https://www.lanacion.com.ar/economia/radiografia-de-uno-de-los-numeros-que-mas-le-preocupan-al-papa-leon-xiv-nid08112026/",
+   "fecha": "2026-11-08T08:20:52-03:00",
+   "resumen": "La gestión de Milei mejoró los índices de pobreza gracias a la lucha contra la inflación; sin embargo, es una tendencia que se frenó en los últimos meses por la precarización del empleo, la baja de los ingresos y el freno de la economía",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 8.88,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "El salto en las importaciones del RIGI que reabre la discusión sobre el lugar de las pyme argentinas",
+   "url": "https://www.infobae.com/economia/2026/11/08/el-salto-en-las-importaciones-del-rigi-que-reabre-la-discusion-sobre-el-lugar-de-las-pyme-argentinas/",
+   "fecha": "2026-11-08T12:28:24-03:00",
+   "resumen": "El récord de octubre con USD 140 millones llega justo cuando cámaras empresariales y funcionarios buscan definir cuánto de la actividad de los grandes proyectos termina beneficiando a la industria nacional",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 8.86,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Argentina tendrá más adultos mayores que niños hacia 2040: cómo impactará en la economía y las jubilaciones",
+   "url": "https://www.ambito.com/economia/argentina-tendra-mas-adultos-mayores-que-ninos-2040-como-impactara-la-y-las-jubilaciones-n6341616",
+   "fecha": "2026-11-08T00:00:00-03:00",
+   "resumen": "Los nacimientos cayeron 47% en una década y para 2040 habrá más personas de 65 años o más que menores de 15. Cómo impactará el cambio demográfico sobre las jubilaciones, el empleo y las inversiones.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 8.76,
+   "medios": [
+    "Ambito",
+    "Rosario Finanzas",
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Las ventas minoristas pyme cayeron 1,6% interanual en octubre y el consumo no repunta",
+   "url": "https://www.ambito.com/economia/las-ventas-minoristas-pyme-cayeron-16-interanual-octubre-y-el-consumo-no-repunta-n6342900",
+   "fecha": "2026-11-08T10:53:00-03:00",
+   "resumen": "Las ventas pyme mostraron una leve recuperación frente a septiembre, pero no lograron revertir la tendencia negativa. Un informe del sector también expuso las dificultades de los comercios para sostener la rentabilidad.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 7.96,
+   "medios": [
+    "Infobae",
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "INDEC publicará esta semana la inflación de octubre: ¿cómo afecta el bolsillo?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONHlQb0RXZGhpYjBVVGEyWVgyLTR2RWVha2QxZVpfMng2STU0bFBRVWV0YXNfcDg0ZURJOHlMUVBfR2M3NU84YUdtMEZTdjVXOVBCUVlNQlhQbEQ2Zm9YVUVuQ01oYUg0THQ2RmFDZFJPbE1EUWY3aU4xVVhkZXZPVWJmUm1vV3lEdXBManozZDFndUoyQ3h2MjFHaENxMVJMTnpYajM5R3hLWWN4NnFuZDJnbGgtdW9Eemc?oc=5",
+   "fecha": "2026-11-08T11:48:26-03:00",
+   "resumen": "INDEC publicará esta semana la inflación de octubre: ¿cómo afecta el bolsillo?    NewsDigitales",
+   "medio": "NewsDigitales",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 7.26,
+   "medios": [
+    "NewsDigitales"
+   ]
+  },
   {
    "titulo": "Ajuste deflacionario con boom de dólares",
    "url": "https://www.infobae.com/opinion/2026/11/08/ajuste-deflacionario-con-boom-de-dolares/",
@@ -756,9 +905,39 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 8.5,
+   "score": 7.14,
    "medios": [
     "Infobae"
+   ]
+  },
+  {
+   "titulo": "Inflación: qué espera el mercado para los precios en año electoral y el riesgo latente para el IPC",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTC02UnJwZUg5aGQ2R0h3VkdEZlF4U0YyZk1lQXRTdWxVXzl2SkE5Z2JLQ3FnQThvNTRHZEdVX2JyZ1ZzMUtfLWpnUjZ1TFlKMW9iMllqWjFlVy1za1JmWjBib3hfTTFnTmdqcGNMRXViOUZqMUtUVlR4ZE04VFlnYmJ1TWwyZUNSVnBwY2MzUmhPMGR5NWtLWTRpWHduVHk5ZHV0eDlPMFVNTUlxY2FmblhjN3Ayd2ljS1JCUG1id1lVODlIYm5jYWlKQTNDNl80UHdNRnJxbVA?oc=5",
+   "fecha": "2026-11-08T08:29:33-03:00",
+   "resumen": "Inflación: qué espera el mercado para los precios en año electoral y el riesgo latente para el IPC    El Cronista",
+   "medio": "El Cronista",
+   "fuente": "El Cronista",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 7.13,
+   "medios": [
+    "El Cronista"
+   ]
+  },
+  {
+   "titulo": "Martín Polo: “Lo peor que le podría pasar a la Argentina en 2027 es acudir a la ayuda de EEUU”",
+   "url": "https://www.ambito.com/economia/martin-polo-lo-peor-que-le-podria-pasar-la-argentina-2027-es-acudir-la-ayuda-eeuu-n6342805",
+   "fecha": "2026-11-08T00:00:00-03:00",
+   "resumen": "El economista analizó el castigo de los inversores ante una actividad estancada, una inflación que no cede y la incertidumbre global tras el revés electoral de Donald Trump. Además, evaluó la disparada del riesgo país, la estabilidad del dólar y el papel de las reservas del Banco Central de cara a las elecciones presidenciales.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 6.95,
+   "medios": [
+    "Ámbito"
    ]
   },
   {
@@ -771,9 +950,24 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 7.03,
+   "score": 5.6,
    "medios": [
     "Radio LV11"
+   ]
+  },
+  {
+   "titulo": "Radiografía de la pobreza infantil en Argentina: preocupan los datos a pesar de la baja de la inflación",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMXRZYmpKT3dNZ1ZJbHRzbnh3MXRRdDRNMzhTdXV6c2pqYmxtbnNQOVVYV3diT2hRWW40REZEb0lwWnE3WXJPMkJTc2lxQ0oteWpIcU82WHFnMmlGU0dGM3ZIMkJLUEwxSzlBSGt1ZUw4QXZpdXNUeXE3bnBZZVJnSUpvNzRtTHp1SS1YM2hDVjBXRGJXOWxVWHdRTU42YTAyMkN2Q1RvOFJKU29WT0czQV9NVzVIT2tSZVgtNmNRNUxoZFg2OHRxalI2SnJHcHRuSUtLYQ?oc=5",
+   "fecha": "2026-11-08T08:20:52-03:00",
+   "resumen": "Radiografía de la pobreza infantil en Argentina: preocupan los datos a pesar de la baja de la inflación    Rosario Finanzas",
+   "medio": "Rosario Finanzas",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.33,
+   "medios": [
+    "Rosario Finanzas"
    ]
   },
   {
@@ -786,24 +980,9 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 6.25,
+   "score": 5.23,
    "medios": [
     "Semanario de Junín"
-   ]
-  },
-  {
-   "titulo": "Alerta en la industria de maquinaria agrícola: crecen las importaciones y los fabricantes locales acumulan deudas y cierres",
-   "url": "https://www.infobae.com/economia/2026/11/07/alerta-en-la-industria-de-maquinaria-agricola-crecen-las-importaciones-y-los-fabricantes-locales-acumulan-deudas-y-cierres/",
-   "fecha": "2026-11-07T20:23:18-03:00",
-   "resumen": "La apertura comercial sumó presión sobre los nacionales y tres de las compañías más reconocidas del sector enfrentan cheques rechazados, salarios impagos y plantas con actividad reducida o paralizada",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.98,
-   "medios": [
-    "Infobae"
    ]
   },
   {
@@ -816,9 +995,54 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 5.96,
+   "score": 5.01,
    "medios": [
     "Infobae"
+   ]
+  },
+  {
+   "titulo": "Alerta en la industria de maquinaria agrícola: crecen las importaciones y los fabricantes locales acumulan deudas y cierres",
+   "url": "https://www.infobae.com/economia/2026/11/07/alerta-en-la-industria-de-maquinaria-agricola-crecen-las-importaciones-y-los-fabricantes-locales-acumulan-deudas-y-cierres/",
+   "fecha": "2026-11-07T20:23:18-03:00",
+   "resumen": "La apertura comercial sumó presión sobre los nacionales y tres de las compañías más reconocidas del sector enfrentan cheques rechazados, salarios impagos y plantas con actividad reducida o paralizada",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.89,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Con el riesgo país en alza, el Gobierno identificó tres amenazas globales: qué factores preocupan al equipo económico",
+   "url": "https://www.infobae.com/economia/2026/11/08/con-el-riesgo-pais-en-alza-el-gobierno-identifico-tres-amenazas-globales-que-factores-preocupan-al-equipo-economico/",
+   "fecha": "2026-11-08T10:46:45-03:00",
+   "resumen": "El ministro de Economía, Luis Caputo,  y número 2 del Banco Central, Vladimir Werning, advirtieron sobre el escenario mundial. La variable que mejoró en los últimos días y que pretende hacer el Gobierno",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.72,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Qué compran afuera los proyectos RIGI y cuánto podría fabricar la industria argentina",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWZCd01nM2ppOG1MZTdPZE5XUUNoNENFbHNrVFhjTk1QVThZcUZzQXRqdzBFZDdGQU9VRG9rLXhYYWtqbHVzeDB3WWtNSjEyU1BlMzUwNXg2MmFMX2JRREtld0lMTFJ5RmtuNDVCUndweHZ6b0pxeGN4aXZoUk5HSjh5WVNZWmh5US1HMEJLVnh5QkdjSDdRQWgzelo4WVlGb29qYzlUaWtmT3ZQNVM0TEVIaUdWb0RKa3N4ZGZqeVdBekFoY2V3atIB4wFBVV95cUxNSC1lSGhiaW9rUHVqQ2VGd1I3V0pETVU5aENEclhxTW1hbWMwUzBCS1l5SU93c3puU2RGN3N5bGxtd25WZnI1QVU3bEJwdzEzWU5yR1FCM3pkZnFYMm44MUphcnVSdVkycWhMcmpXaWpsekFla0dlb21VbmRVV3AtN2tpenNxQXFENEFOV3FialVVbm1RQ2w5anpremtSNHZKVU54WmZwVm5SQmJNaUplLU5fbGRSN2VLVDNuVXUzODlyalVWQzktZ3paWGxjRU9PYlhVSDlCX2FCb2E1RDc1N1BGOA?oc=5",
+   "fecha": "2026-11-08T08:27:29-03:00",
+   "resumen": "Qué compran afuera los proyectos RIGI y cuánto podría fabricar la industria argentina    El Cronista",
+   "medio": "El Cronista",
+   "fuente": "El Cronista",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.46,
+   "medios": [
+    "El Cronista"
    ]
   },
   {
@@ -831,7 +1055,7 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 5.27,
+   "score": 4.18,
    "medios": [
     "Infobae"
    ]
@@ -846,9 +1070,24 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 5.05,
+   "score": 3.83,
    "medios": [
     "Infobae"
+   ]
+  },
+  {
+   "titulo": "Las pymes, en la cuenta regresiva: cómo las afectará el nuevo fondo obligatorio que empieza a funcionar en diciembre",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVAxUlpsNjBnR1BnazJPMkhVT282WFlMM2diT2Q1UEhPTVlTUDhLWHF3ZXBoR05DaHlMWjJYOU5iNUhiaHRESUpQU3MxdDhVYVZDSkZYbTRKTFVYQXh0ODlNYkF1U3U1WE1BTHFuN3g3cjFweE1BOXEtMnNaR3JFdG0yZVdsbmxyODVXY1NVc1RIMUFWNmZ0Q1V3WHpQZXVRei1lbU45Z0J6YmFWY2xPVkpDcF9XXzd6WFY1bGtKYWU4XzlhX01uN1NHeVlXQQ?oc=5",
+   "fecha": "2026-11-08T06:01:20-03:00",
+   "resumen": "Las pymes, en la cuenta regresiva: cómo las afectará el nuevo fondo obligatorio que empieza a funcionar en diciembre    Clarin.com",
+   "medio": "Clarin.com",
+   "fuente": "Clarín",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.34,
+   "medios": [
+    "Clarin.com"
    ]
   },
   {
@@ -861,7 +1100,7 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 4.35,
+   "score": 3.33,
    "medios": [
     "Dato Posta"
    ]
@@ -876,24 +1115,84 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 4.04,
+   "score": 3.22,
    "medios": [
     "Clarin.com"
    ]
   },
   {
-   "titulo": "Las pymes, en la cuenta regresiva: cómo las afectará el nuevo fondo obligatorio que empieza a funcionar en diciembre",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVAxUlpsNjBnR1BnazJPMkhVT282WFlMM2diT2Q1UEhPTVlTUDhLWHF3ZXBoR05DaHlMWjJYOU5iNUhiaHRESUpQU3MxdDhVYVZDSkZYbTRKTFVYQXh0ODlNYkF1U3U1WE1BTHFuN3g3cjFweE1BOXEtMnNaR3JFdG0yZVdsbmxyODVXY1NVc1RIMUFWNmZ0Q1V3WHpQZXVRei1lbU45Z0J6YmFWY2xPVkpDcF9XXzd6WFY1bGtKYWU4XzlhX01uN1NHeVlXQQ?oc=5",
-   "fecha": "2026-11-08T06:01:20-03:00",
-   "resumen": "Las pymes, en la cuenta regresiva: cómo las afectará el nuevo fondo obligatorio que empieza a funcionar en diciembre    Clarin.com",
-   "medio": "Clarin.com",
-   "fuente": "Clarín",
+   "titulo": "El riesgo país no para de subir y se duplicó en tres meses: cuánto se explica por factores locales y cuánto pesa el frente externo",
+   "url": "https://www.infobae.com/economia/2026/11/07/el-riesgo-pais-no-para-de-subir-y-se-duplico-en-tres-meses-cuanto-se-explica-por-factores-locales-y-cuanto-pesa-el-frente-externo/",
+   "fecha": "2026-11-07T02:26:41-03:00",
+   "resumen": "La aversión global a los activos emergentes coincidió con dudas sobre reservas, vencimientos de deuda, actividad e inflación, una combinación que profundizó la caída de los bonos soberanos argentinos y encareció el financiamiento",
+   "medio": "Infobae",
+   "fuente": "Infobae",
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 3.88,
+   "score": 3.0,
    "medios": [
-    "Clarin.com"
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Los conceptos del Papa a propósito de la IA, la economía, el “poder tecnológico” y la búsqueda de la verdad",
+   "url": "https://www.infobae.com/economia/2026/11/08/los-conceptos-del-papa-a-proposito-de-la-ia-la-economia-el-poder-tecnologico-y-la-busqueda-de-la-verdad/",
+   "fecha": "2026-11-08T12:16:31-03:00",
+   "resumen": "Al igual que su predecesor de nombre papal y autor del texto canónico de la “Doctrina Social de la Iglesia”, León XIV señala la doble cara de “las cosas nuevas”, cita a Francisco para advertir sobre la concentración del “poder tecnológico” y a Hannah Arendt para destacar la importancia de distinguir entre lo verdadero y lo falso. “Babel” vs la reconstrucción de los Muros de Jerusalem",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 2.94,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "De cuánto es el bono de noviembre 2026 para jubilados y a quiénes les corresponde",
+   "url": "https://www.lanacion.com.ar/economia/de-cuanto-es-el-bono-de-noviembre-2026-para-jubilados-y-a-quienes-les-corresponde-nid29102026/",
+   "fecha": "2026-11-08T09:56:27-03:00",
+   "resumen": "Este mes los pensionados y jubilados de la Anses tienen un aumento en sus haberes, según el último índice de inflación; además, continúa la entrega d bono previsional",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 2.78,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "A cuánto llega la PUAM en noviembre de 2026 con el aumento confirmado",
+   "url": "https://www.lanacion.com.ar/economia/a-cuanto-llega-la-puam-en-noviembre-de-2026-con-el-aumento-confirmado-nid20102026/",
+   "fecha": "2026-11-08T09:56:15-03:00",
+   "resumen": "El monto de la prestación se reajusta por inflación; a cuánto llega con el bono del mes",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 2.78,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "Nueva paritaria de octubre a diciembre: cuánto cobran los empleados de comercio con el aumento confirmado",
+   "url": "https://www.lanacion.com.ar/economia/nueva-paritaria-de-octubre-a-diciembre-cuanto-cobran-los-empleados-de-comercio-con-el-aumento-nid28102026/",
+   "fecha": "2026-11-08T09:56:00-03:00",
+   "resumen": "El gremio y las empresas acordaron nuevos porcentajes de incremento mensuales y un bono extraordinario, que se pagará en dos veces",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 2.78,
+   "medios": [
+    "La Nación"
    ]
   },
   {
@@ -906,24 +1205,9 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 3.78,
+   "score": 2.76,
    "medios": [
     "InfoPlatense"
-   ]
-  },
-  {
-   "titulo": "Inflación de octubre: a cuánto se ubica el indicador clave que anticipa el dato oficial del INDEC",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTGZBcUdQREowUnhfUDl1N3lJTzVNSmdWbjFwSUhEaE1xRjh3MkRVeHhGWnlxN0k4cmRRREpVSnlKT3pGbG12NXVvR1ZXYzhHaGpRQXUzYzdUUGlkRVlnZVgySnZMai1YdTg2VUdfRGVmUTA0TjFEaVJYeEdQU1Y2QTYzbWZiVFNhalk5UDU1MUlkaG9QdDEzU1Z5OXBUcFR4enBKcWlmU3pBYV9zQWpxSmhIUlg0aXVnUFNBM1ZubE4xLXl4QXZicWVueUQ4YTU0U0R4bFV6OHNHZw?oc=5",
-   "fecha": "2026-11-07T09:27:06-03:00",
-   "resumen": "Inflación de octubre: a cuánto se ubica el indicador clave que anticipa el dato oficial del INDEC    Mirador Provincial",
-   "medio": "Mirador Provincial",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 3.71,
-   "medios": [
-    "Mirador Provincial"
    ]
   },
   {
@@ -936,7 +1220,7 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 3.55,
+   "score": 2.74,
    "medios": [
     "Minutouno"
    ]
@@ -951,55 +1235,54 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 3.4,
+   "score": 2.72,
    "medios": [
     "La Gaceta"
    ]
   },
   {
-   "titulo": "El riesgo país no para de subir y se duplicó en tres meses: cuánto se explica por factores locales y cuánto pesa el frente externo",
-   "url": "https://www.infobae.com/economia/2026/11/07/el-riesgo-pais-no-para-de-subir-y-se-duplico-en-tres-meses-cuanto-se-explica-por-factores-locales-y-cuanto-pesa-el-frente-externo/",
-   "fecha": "2026-11-07T02:26:41-03:00",
-   "resumen": "La aversión global a los activos emergentes coincidió con dudas sobre reservas, vencimientos de deuda, actividad e inflación, una combinación que profundizó la caída de los bonos soberanos argentinos y encareció el financiamiento",
+   "titulo": "Costa Rica vuelve a registrar subidas de precios después de más de un año de bajas",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUmtjcms0RDduOTIwNzlJWS1GX2ZPTTlrQ2hzb2ZHLTFpcGE5cU01ZkttTi1xeWFsel9xSkQyZDRPMUlKdmUyeGNjNmthV05ZSFhPaEhQcjMyZTNwTUU1aTZXNVZJV1F0aUxyc1Y1cG5oQTZkMVA3bWFKcEpDRjdLbVhOQXg4Q0l5SVVLRWdBZTdRMDU2WmNjclozT3VDRU5zLXhmRnV0TzAzVFI2czJnZTBIVWw3UjVoMmN1cHhMR3V5Rk92TllwcGdWT2piZFg2NEJUajR0czZGTUl5ZFphOEF4SdIB4wFBVV95cUxNUmtjcms0RDduOTIwNzlJWS1GX2ZPTTlrQ2hzb2ZHLTFpcGE5cU01ZkttTi1xeWFsel9xSkQyZDRPMUlKdmUyeGNjNmthV05ZSFhPaEhQcjMyZTNwTUU1aTZXNVZJV1F0aUxyc1Y1cG5oQTZkMVA3bWFKcEpDRjdLbVhOQXg4Q0l5SVVLRWdBZTdRMDU2WmNjclozT3VDRU5zLXhmRnV0TzAzVFI2czJnZTBIVWw3UjVoMmN1cHhMR3V5Rk92TllwcGdWT2piZFg2NEJUajR0czZGTUl5ZFphOEF4SQ?oc=5",
+   "fecha": "2026-11-08T09:04:00-03:00",
+   "resumen": "Costa Rica vuelve a registrar subidas de precios después de más de un año de bajas    Infobae",
    "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 3.32,
+   "score": 2.72,
    "medios": [
     "Infobae"
    ]
   },
   {
-   "titulo": "Mundo laboral, inteligencia artificial y justicia social, según la mirada de León XIV",
-   "url": "https://www.lanacion.com.ar/economia/mundo-laboral-inteligencia-artificial-y-justicia-social-segun-la-mirada-de-leon-xiv-nid08112026/",
-   "fecha": "2026-11-08T07:03:02-03:00",
-   "resumen": "Cuestiones sociales, como la pobreza y las desigualdades, aparecen de forma recurrente en escritos y discursos del Papa; sus principales postulados y su llamado a actuar de forma proactiva contra la exclusión, ante los avances tecnológicos",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
+   "titulo": "Inflación de octubre: a cuánto se ubica el indicador clave que anticipa el dato oficial del INDEC",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTGZBcUdQREowUnhfUDl1N3lJTzVNSmdWbjFwSUhEaE1xRjh3MkRVeHhGWnlxN0k4cmRRREpVSnlKT3pGbG12NXVvR1ZXYzhHaGpRQXUzYzdUUGlkRVlnZVgySnZMai1YdTg2VUdfRGVmUTA0TjFEaVJYeEdQU1Y2QTYzbWZiVFNhalk5UDU1MUlkaG9QdDEzU1Z5OXBUcFR4enBKcWlmU3pBYV9zQWpxSmhIUlg0aXVnUFNBM1ZubE4xLXl4QXZicWVueUQ4YTU0U0R4bFV6OHNHZw?oc=5",
+   "fecha": "2026-11-07T09:27:06-03:00",
+   "resumen": "Inflación de octubre: a cuánto se ubica el indicador clave que anticipa el dato oficial del INDEC    Mirador Provincial",
+   "medio": "Mirador Provincial",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 2.98,
+   "score": 2.69,
    "medios": [
-    "La Nación"
+    "Mirador Provincial"
    ]
   },
   {
-   "titulo": "El riesgo país se duplicó en cuatro meses y crece la preocupación por la economía argentina",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOURtMU5jSWhWUkgtam9nS0NPb0g0RW5qVnFOUEVPWkJtTXRaWXFqc3R2R19jRjlOdmhQQ2pwVHVwRkJaVTVNOUo2c0ZjWU5Cd19RbnB5Tmd6QXZRWEFEanR6N3EtREFwRGpjSk5xMTVmMy0xR2dibEg5dVlmNFM4Ti0xZmNyczNGS2gyQVpkYUxJcC1rT1Vwdk9ydmE2R2dzM21mZS16S2dhYjBqOC1XeVF6dTkwR2p2cEZlSUdTVHF0VmViTGFWdw?oc=5",
-   "fecha": "2026-11-07T14:47:36-03:00",
-   "resumen": "El riesgo país se duplicó en cuatro meses y crece la preocupación por la economía argentina    InfoVeloz.com",
-   "medio": "InfoVeloz.com",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
+   "titulo": "La mora de las familias sigue creciendo, pero hay deudores que desaparecen de las estadísticas del Banco Central",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQanR4WVpsX1JkOUlqOG0zT3llbm1hc2RGNkxyOTdYaGpTaVlfcERiOFFZaU1GVVdSQUhldlotSW9ZR3c3WEhwODFjY2czbHlldll2czdrc1QxdG1jZVFzQl9EVDlvLTdpak9FZ1lQelVyOTFNNm9wLVNUTVZCOC12VUc2enJzV3V3NndMbmdkcTlNMEVQandJMUZBNmpPN0VGdDQxTkx5NEZYbzVlRktGd0ZjbkhfTlhDUzhvc2RacWN0TjVPMW01b0RnZUJlZFZUajFQdHVMMmFGcFHSAdsBQVVfeXFMUGp0eFlabF9SZDlJajhtM095ZW5tYXNkRjZMcjk3WGhqU2lZX3BEYjhRWWlNRlVXUkFIZXZaLUlvWUd3N1hIcDgxY2NnM2x5ZXZZdnM3a3NUMXRtY2VRc0JfRFQ5by03aWpPRWdZUHpVcjkxTTZvcC1TVE1WQjgtdlVHNnpyc1d1dzZ3TG5nZHE5TTBFUGp3STFGQTZqTzdFRnQ0MU5MeTRGWG81ZUZLRndGY25IX05YQ1M4b3NkWnFjdE41TzFtNW9EZ2VCZWRWVGoxUHR1TDJhRnBR?oc=5",
+   "fecha": "2026-11-08T08:23:07-03:00",
+   "resumen": "La mora de las familias sigue creciendo, pero hay deudores que desaparecen de las estadísticas del Banco Central    El Ciudadano",
+   "medio": "El Ciudadano",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 2.6,
+   "score": 2.67,
    "medios": [
-    "InfoVeloz.com",
-    "Mendoza Post"
+    "El Ciudadano"
    ]
   },
   {
@@ -1012,24 +1295,9 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 2.54,
+   "score": 2.13,
    "medios": [
     "teleSUR"
-   ]
-  },
-  {
-   "titulo": "“China-Shock.2”: productores de acero latinoamericanos debatirán cómo responder a la presión y competencia desleal del gigante asiático",
-   "url": "https://www.infobae.com/economia/2026/11/07/china-shock2-productores-de-acero-latinoamericanos-debatiran-como-responder-a-la-presion-y-competencia-desleal-del-gigante-asiatico/",
-   "fecha": "2026-11-07T15:10:56-03:00",
-   "resumen": "En “Alacero Summit 2026”, en México, empresas de la Argentina y otros países de la región abordarán temas como la sobrecapacidad global y el futuro de la cadena de valor. En 2025, las importaciones representaron el 43,5% del consumo regional, el nivel más alto de la serie histórica. Producción, geopolítica y tecnología, desde la IA hasta acero libre de emisiones",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 2.51,
-   "medios": [
-    "Infobae"
    ]
   },
   {
@@ -1042,7 +1310,7 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 2.51,
+   "score": 2.1,
    "medios": [
     "La Nación"
    ]
@@ -1057,9 +1325,85 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 2.45,
+   "score": 2.04,
    "medios": [
     "eju.tv"
+   ]
+  },
+  {
+   "titulo": "El riesgo país se duplicó en cuatro meses y crece la preocupación por la economía argentina",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOURtMU5jSWhWUkgtam9nS0NPb0g0RW5qVnFOUEVPWkJtTXRaWXFqc3R2R19jRjlOdmhQQ2pwVHVwRkJaVTVNOUo2c0ZjWU5Cd19RbnB5Tmd6QXZRWEFEanR6N3EtREFwRGpjSk5xMTVmMy0xR2dibEg5dVlmNFM4Ti0xZmNyczNGS2gyQVpkYUxJcC1rT1Vwdk9ydmE2R2dzM21mZS16S2dhYjBqOC1XeVF6dTkwR2p2cEZlSUdTVHF0VmViTGFWdw?oc=5",
+   "fecha": "2026-11-07T14:47:36-03:00",
+   "resumen": "El riesgo país se duplicó en cuatro meses y crece la preocupación por la economía argentina    InfoVeloz.com",
+   "medio": "InfoVeloz.com",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 2.02,
+   "medios": [
+    "InfoVeloz.com",
+    "Mendoza Post"
+   ]
+  },
+  {
+   "titulo": "Cuánto cobra el papa León XIV y qué beneficios económicos recibe del Vaticano",
+   "url": "https://www.ambito.com/economia/cuanto-cobra-el-papa-leon-xiv-y-que-beneficios-economicos-recibe-del-vaticano-n6342922",
+   "fecha": "2026-11-08T12:41:00-03:00",
+   "resumen": "Aunque el máximo líder de la Iglesia católica no tiene un salario oficial confirmado, algunas estimaciones ubican su remuneración en hasta 30.000 euros mensuales.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 1.98,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "“China-Shock.2”: productores de acero latinoamericanos debatirán cómo responder a la presión y competencia desleal del gigante asiático",
+   "url": "https://www.infobae.com/economia/2026/11/07/china-shock2-productores-de-acero-latinoamericanos-debatiran-como-responder-a-la-presion-y-competencia-desleal-del-gigante-asiatico/",
+   "fecha": "2026-11-07T15:10:56-03:00",
+   "resumen": "En “Alacero Summit 2026”, en México, empresas de la Argentina y otros países de la región abordarán temas como la sobrecapacidad global y el futuro de la cadena de valor. En 2025, las importaciones representaron el 43,5% del consumo regional, el nivel más alto de la serie histórica. Producción, geopolítica y tecnología, desde la IA hasta acero libre de emisiones",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 1.96,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "La deuda también tiene rostro de mujer",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONW5ockV4aVFISUwzYlpUTVd2OElRS3h2T2R4UDZFek9VNnlWb3ZjWExSN0dKSkl6LVhsaFdhaVItZ3JCQWVPNEk3M2hnOURLMk4yTWVJX1FPLU9naFhKdzkyYmtzR3JSRzdORjV6WW55WjJIV3JZT2JSOHJuZHZ0Q2pkdHE?oc=5",
+   "fecha": "2026-11-08T11:41:35-03:00",
+   "resumen": "La deuda también tiene rostro de mujer    Página|12",
+   "medio": "Página|12",
+   "fuente": "Página/12",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 1.93,
+   "medios": [
+    "Página|12"
+   ]
+  },
+  {
+   "titulo": "Argentina envejece: caen los nacimientos y advierten por el futuro de las jubilaciones y la economía hacia 2040",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaC1XYTFxZC1keTF6RWprcFExTkVkNkk0elRUUDdYZWRWSUgtNFhXREt2aUcteVFIdnRydW5IMU9kaExjRzE4YkY5cFRfYUo5SE94TG11NnZ6ZjJUbnRQZFF3MlFJa24yaGZjT0l5R204T2lRZ1JuUjNSR3JsbWxCc0prNGlPeFVzYXBZU1BXczZJX3ZkdVl5RHNDa0xnRUJZWHRib0ZJc2UzNF9ESHMwQk1heUY2UVg3aFV0QlRsaGlSdHNSVU5wVDlwNjA5SGNfQlNHT3o0T2VzNUxLWmc1NFc1MlNYX1ZxbW1vWQ?oc=5",
+   "fecha": "2026-11-08T11:42:08-03:00",
+   "resumen": "Argentina envejece: caen los nacimientos y advierten por el futuro de las jubilaciones y la economía hacia 2040    Zona Norte Hoy",
+   "medio": "Zona Norte Hoy",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 1.93,
+   "medios": [
+    "Zona Norte Hoy"
    ]
   },
   {
@@ -1072,282 +1416,9 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 2.32,
+   "score": 1.91,
    "medios": [
     "Urgente24"
-   ]
-  },
-  {
-   "titulo": "La SEC confirmó que recibió la denuncia de Dalbón por las operaciones con oro del BCRA",
-   "url": "https://www.infobae.com/economia/2026/11/07/la-sec-confirmo-que-recibio-la-denuncia-de-dalbon-por-las-operaciones-con-oro-del-bcra/",
-   "fecha": "2026-11-07T12:45:03-03:00",
-   "resumen": "El organismo estadounidense informó que registrará la presentación sobre reservas y Deutsche Bank, aunque advirtió que no divulgará datos sobre posibles actuaciones internas",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 2.28,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Informe de la UCA basado en datos del INDEC asegura que la pobreza aumentó al 34,4% en el segundo trimestre del 2026",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlRCSjVSU19fc0paeHVGVngwVU5SeWt6eDNRRHU1T0lxbkJqTXEzakJBSlpaRmJKVzVpbmNTMkhodHdiUmRxLWEzSlhCS2VwVVJOVl95Z0h4YWRXNThxRUF2UWhCVENSMWJONjB6Zzc2OXdDYWVhcEpBSG1FN054NkdrcnljNlhDMW0xSUpUVFAwRzdTZEZDc0VBVEdmWkdVUFNYV3JFellkb0MzWHNIUVNYRUt1NC1FMW9LRlQxNlpYXzZGTGprNERvdkhyQQ?oc=5",
-   "fecha": "2026-11-06T23:07:55-03:00",
-   "resumen": "Informe de la UCA basado en datos del INDEC asegura que la pobreza aumentó al 34,4% en el segundo trimestre del 2026    Info del Estero",
-   "medio": "Info del Estero",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 2.25,
-   "medios": [
-    "Info del Estero"
-   ]
-  },
-  {
-   "titulo": "\"Dólares hasta por las orejas\": a dónde se fueron todos los billetes que entraron por las exportaciones récord",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLV9lTVB1Ui1sWlBpaDh5b1RlZVdTSHVtREVuT1Q3a3JaenM4Tng3TzcwUldKNV83TC1KRjREbmlOVnVkVnBWdFk5TEdFdERYNmhGTlFKVVduS2UtV1Babzk5b0ZSYjJsSTZ1cnlsamVsb2J3TDVEQnhwQnBqZXVVS0daNjV6WE8zRFR3LXdqcjNwbHo0TllRQ3g4N1J0STBwZ2o3SWxn?oc=5",
-   "fecha": "2026-11-07T09:13:22-03:00",
-   "resumen": "\"Dólares hasta por las orejas\": a dónde se fueron todos los billetes que entraron por las exportaciones récord    Clarin.com",
-   "medio": "Clarin.com",
-   "fuente": "Clarín",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.96,
-   "medios": [
-    "Clarin.com"
-   ]
-  },
-  {
-   "titulo": "Ni las ofertas alcanzan: el consumo sigue sin repuntar y los comercios anticipan un fin de año en rojo",
-   "url": "https://www.infobae.com/economia/2026/11/07/ni-las-ofertas-alcanzan-el-consumo-masivo-sigue-sin-repuntar-y-los-comercios-anticipan-un-fin-de-ano-en-rojo/",
-   "fecha": "2026-11-07T16:09:45-03:00",
-   "resumen": "El CyberMonday, uno de los eventos comerciales más importantes del año, dejó resultados por debajo de las expectativas de muchas marcas y con fuertes caídas respecto del año anterior",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.95,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "El ajuste fiscal se profundizó en octubre: el gasto público cayó 5,4% real y acumula una baja de 3,2% en 2026",
-   "url": "https://www.lanacion.com.ar/economia/el-ajuste-fiscal-se-profundizo-en-octubre-el-gasto-publico-cayo-54-real-y-acumula-una-baja-de-32-en-nid07112026/",
-   "fecha": "2026-11-07T16:03:37-03:00",
-   "resumen": "De acuerdo a un informe privado, el recorte del último mes fue el segundo más pronunciado del año; la mayor parte del ajuste se concentró en las transferencias a provincias; jubilaciones y las universidades estuvieron entre los pocos rubros que mostraron aumentos reales",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.94,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "S&P 500 vs. “inversión en ladrillos”: en cual conviene meterse y cuál le gana por goleada a la otra",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORS1FMy12aWg3Q2FvT3BzaHZORFdQRFd2TzI3M3d0bmVQcC1qZ05vRlpiNFFPaWFISHlLWU1YUWFWZGhiRmRyQVZpbDFrUDI4TTVTNDNLTzM1QW4wM0M4V0MyQjBkdWpNclhOYXo2X3dKa3dwMkNKOVJiMmlEYkxIZzBXenRNelNsZlNLTEVSNmNwY0J5WW4wZElyRG4tZkpUYTRzYjAxdlIyT3JnVnh2OGVFQ2tXcmd6N3F0NHZhUnR0N01ObWhKN0tWbFVXcDZKVndYdtIB7wFBVV95cUxNLXh2X1EzMENkd3Z3WjlOMXNobHJUOVZnc1BEbEN0dDFxSnJVZlJSWm9NMFI4NURXOHZfNjF3T2JYbXlqR2NIVUNiUy1SckxVbkF2ZjFMbm9pNHMxOVA2YkV3bU82SzhMZUc2bEhRakR0V29kN2tvdUFZd3Y2TnpTOFkzOUZSejV6MDJ5NXFPbnNUWC0xTFFvb0ZnYXVfaEhRbkwzakF3Q2JQTnduWnJnVE9LMUNwaDlfUXh6eG9NRnZMdzFobXFnYmkySHlMa2NOc0Jldng4S2p6OHV5eVRlQXgzdmRfX2dmaWZVdi0wYw?oc=5",
-   "fecha": "2026-11-08T06:00:00-03:00",
-   "resumen": "S&P 500 vs. “inversión en ladrillos”: en cual conviene meterse y cuál le gana por goleada a la otra    El Cronista",
-   "medio": "El Cronista",
-   "fuente": "El Cronista",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.94,
-   "medios": [
-    "El Cronista"
-   ]
-  },
-  {
-   "titulo": "La planta que más litio produce en el país comenzó una ampliación con un RIGI de casi US$ 1.200 millones",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeE5jaDhOZTFVbjczN3cxUGJQLUhlX0ROQy1uUVlGQmp2dV9yc3lJTGlUeFBmQWFkdTJpQ2RyY2JtNWVRb1dkdXFWZVc4MmJfUXFkU0gzR0VKQmdGVGNWT3FDOTVBR3BDVzctRlYxbmxhNjM2OFo0amRjVXJhOVJpWW45REpyRjljZTBDclFtemVNT185SDU2S1F3dERsT0EySG9oSW5LdlFJQlk5NmhCMW4tSE01ekl3SXFlN3NMZDFSLVk?oc=5",
-   "fecha": "2026-11-07T15:44:30-03:00",
-   "resumen": "La planta que más litio produce en el país comenzó una ampliación con un RIGI de casi US$ 1.200 millones    Clarin.com",
-   "medio": "Clarin.com",
-   "fuente": "Clarín",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.92,
-   "medios": [
-    "Clarin.com"
-   ]
-  },
-  {
-   "titulo": "La pulseada entre Caputo y los gobernadores que podría cambiar el mapa de impuestos provinciales",
-   "url": "https://www.infobae.com/economia/2026/11/07/la-pulseada-entre-caputo-y-los-gobernadores-que-podria-cambiar-el-mapa-de-impuestos-provinciales/",
-   "fecha": "2026-11-07T15:13:13-03:00",
-   "resumen": "La propuesta del ministro de Economía para eliminar el Impuesto a los Sellos generó malestar entre varios mandatarios, que exigen ampliar la discusión a otros tributos no coparticipables antes de avanzar con cualquier acuerdo fiscal para reactivar la economía, Otras medidas",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.88,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Ya está disponible: una plataforma pública permite hacer un mapeo del campo",
-   "url": "https://www.lanacion.com.ar/economia/campo/lanzamiento-una-plataforma-publica-permitira-hacer-un-mapeo-del-campo-nid08112026/",
-   "fecha": "2026-11-08T03:00:00-03:00",
-   "resumen": "Creada para Santa Cruz, se llama IPGeo y facilita la carga desde los establecimientos de diferentes eventos en ovinos y bovinos; la información puntual va a ser accesible solo para los productores para mantener la confidencialidad",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.8,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "¿Habrá menos autos chinos?: todo lo que hay que saber del cupo de autos híbridos y eléctricos de 2027",
-   "url": "https://www.infobae.com/economia/2026/11/08/habra-menos-autos-chinos-todo-lo-que-hay-que-saber-del-cupo-de-autos-hibridos-y-electricos-de-2027/",
-   "fecha": "2026-11-08T00:50:16-03:00",
-   "resumen": "El Gobierno definió que el año próximo el reparto de los autos que no pagan arancel de importación será distinto. Tesla ocupará un 10% y se reduce la cuota del resto",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.7,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Lo que Perú consiguió y la Argentina aún tiene pendiente",
-   "url": "https://www.lanacion.com.ar/economia/peru-como-espejo-nid08112026/",
-   "fecha": "2026-11-08T00:12:00-03:00",
-   "resumen": "Moneda, crédito y continuidad de las reglas: lo que Perú logró y la Argentina todavía debe consolidar",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.67,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "Argentina tendrá más adultos mayores que niños hacia 2040: cómo impactará en la economía y las jubilaciones",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVhidlExWF9TMlczeVJkZkNzNU9xWG94OXpubmNFYkpOOHZNU0twUHpmdThEWXhMQm5qMHdTbTlUWDZHM3MyS1IzeFVzMk41ajhkeFphM19MTXpETE5GMDJQT0NIWUJSR24tMFp0elRBR0ZGQlFIMEx2c2VTVl9TcnpzVHlCLTZKOGR1NGhYbUktNzd4LVJuYkxTR2VkY0dsX0pIVHNZdzJ6dGk1LUV1WmJwaVlLOTY5SFpmZHhaamlwOXc1dVNYZtIBzgFBVV95cUxNbVEzbGdMbVk5N0lPS2UtTGF3V2RZdEcwdG50cVFkVnZGVEtmU1BzaWdEb0dDRUM3SHJxS2hQVEdkU0d2V29BQWoyTGhRTWxfMlIxaWJxTG9zRERteXdabktTaVN4SDVQd01BWFp2OUJpZzhVZmFzQmFDYkh4ZzZaamp3VzktM0R4TTJRM1VvZW11OXZNa0FiRHZuakREUFJUNjFNcUtKdERBZF9TY3FQTl9RMGNzN01IdkZIRnlXS0tneENjbk5HSWtiSFQ5QQ?oc=5",
-   "fecha": "2026-11-08T00:00:00-03:00",
-   "resumen": "Argentina tendrá más adultos mayores que niños hacia 2040: cómo impactará en la economía y las jubilaciones    Ambito",
-   "medio": "Ambito",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.66,
-   "medios": [
-    "Ambito"
-   ]
-  },
-  {
-   "titulo": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este sábado 7 de noviembre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVlaNXV0aUp1V0kxakJUWktKVjRFLWpyZTc3WmpWZXZRdF9Dc0MxU25Va1FiRkgyM252bE9HZTJ1Y3g5TVVHUDhTSkwtRzRjeEpXRkw0ajBQZUN4Ung2WlZCT0lQNkRzS29qUVBleTlGNjFKa3ZPNnNUUUl6ME1BTkVOR29NSnJjRzRId1I0cG1idnA4R2tLamNNakQ2dHBRcmd0VEx3T3VlRFFFZ0szeGtSVUpmZ1ZnYlVYOEJCSdIBxAFBVV95cUxQYV9GalhPRndQT3oyNTV6U3RXYy1EQllZN0pfS3VEbEZPaFRRbkVZOE8xdjNKaHQ0ZmZ1NTJhM1h0YzVpR3dMcnl5Znh1WUdvUWhqSk82N0V2OEZIRFBsX1RlYTAwNGFlX002WE9sR1lENGhfR184QWJ3enVtZ2hDNm01eFVjS1owZk1mS185NDRWM1l6bF9idWJUZ3hHdGJTSVNMak5rMTdXVk9hbWhTZzVpR1laVmxQV0Q1V2NjSkduU3Q1?oc=5",
-   "fecha": "2026-11-07T07:50:00-03:00",
-   "resumen": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este sábado 7 de noviembre de 2026    Sitio Andino",
-   "medio": "Sitio Andino",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 1.51,
-   "medios": [
-    "Clarin.com",
-    "El Cronista",
-    "La Nación",
-    "Sitio Andino"
-   ]
-  },
-  {
-   "titulo": "El INDEC encendió una alerta por los servicios básicos: millones de argentinos viven sin alguna de estas conexiones",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOWlEbjdwWGJ6Q0M0eHNfU1F1TG5aRzJUdlRaWVVaT2dkZUVNVlRZd0tLMU5uTWFuQXBLNkVFRGZYOWdkRXM2U19RaEctallLVTl3X3VWWDhwckZCc1lmZEJjdnFyUUtpOUp2TldKMEFweXRWbkYwVjZNcW1hV29CbUpjalpScHpvc3NuaWxQRHNHVkthSnhuMTZFZ3hFMC1RRFdDTExTTGIwSnBfeXlTSDJ6QUdheUJ3QkVVR3ZYZ3lkQzlTQkNkaXdyMDBaaXdxemFhOUllU2prY3JpNEx4bUY5YVhoZzEzUFYxcnF2clhCUHE4c3h2SU16Q1JQempJazhfRWs0WWs?oc=5",
-   "fecha": "2026-11-07T09:37:00-03:00",
-   "resumen": "El INDEC encendió una alerta por los servicios básicos: millones de argentinos viven sin alguna de estas conexiones    Minuto Neuquén",
-   "medio": "Minuto Neuquén",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 1.5,
-   "medios": [
-    "Minuto Neuquén"
-   ]
-  },
-  {
-   "titulo": "Quiénes pescan en el Mar Argentino: lanzan la primera plataforma sobre embarcaciones que operan en la Zona Económica Exclusiva",
-   "url": "https://www.infobae.com/economia/2026/11/07/quienes-pescan-en-el-mar-argentino-lanzan-la-primera-plataforma-sobre-embarcaciones-que-operan-en-la-zona-economica-exclusiva/",
-   "fecha": "2026-11-07T18:15:07-03:00",
-   "resumen": "Dos ONGs Identificaron 520 buques que realizan capturas hasta las 200 millas desde la costa continental.  Argentina, subrayan, es el único país latinoamericano con flota industrial pesquera que no publica oficialmente estos datos",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.4,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Sturzenegger contó por qué es el “plomero” del gobierno y habló sobre el nivel de riesgo país",
-   "url": "https://www.infobae.com/economia/2026/11/07/sturzenegger-conto-las-regulaciones-paradas-en-la-justicia-y-explico-por-que-es-el-plomero-del-gobierno-la-macro-es-para-vagos-y-milei-habla-como-habla/",
-   "fecha": "2026-11-07T18:05:29-03:00",
-   "resumen": "Mencionó las farmacias, la AFA y la VTV como desregulaciones trabadas, reiteró que el peronismo es el garante del statu-quo, aseguró que si Milei es reelecto el riesgo país “se va a derrumbar”, explicó por qué “la macro es para vagos” y defendió la forma en que se expresa el presidente para lograr el “cambio cultural”",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.39,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Ranking: el riesgo país de la Argentina es el segundo más alto de América Latina, más que cuadruplica el promedio regional y multiplica por más de 7 el de Paraguay",
-   "url": "https://www.infobae.com/economia/2026/11/07/ranking-el-riesgo-pais-de-la-argentina-es-el-segundo-mas-alto-de-america-latina-mas-que-cuadruplica-el-promedio-regional-y-multiplica-por-mas-de-7-el-de-paraguay/",
-   "fecha": "2026-11-07T17:00:27-03:00",
-   "resumen": "El indicador subió más de 500 puntos desde julio y marcó su nivel más alto desde las elecciones legislativas de octubre de 2025. Las causas detrás del fenómeno",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.34,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Fondos comunes de inversión: qué dejó octubre y qué mirar en noviembre",
-   "url": "https://www.infobae.com/opinion/2026/11/07/fondos-comunes-de-inversion-que-dejo-octubre-y-que-mirar-en-noviembre/",
-   "fecha": "2026-11-07T02:28:23-03:00",
-   "resumen": "El sector administró $116 billones y rozó USD 70.000 millones al tipo de cambio contado con liquidación, en un mes de elevada inestabilidad y con una expansión inferior al promedio semestral",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 1.33,
-   "medios": [
-    "Infobae"
    ]
   }
  ]
