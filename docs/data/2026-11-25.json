@@ -10,63 +10,64 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 46.39,
+   "score": 17.87,
    "medios": [
     "19640 Noticias",
     "Ambito",
-    "Cuestión Entrerriana",
-    "Diario Neuquino",
+    "DataClave",
+    "Diario El Día de La Plata",
     "Diario Panorama",
-    "Diario Popular",
-    "Diario Río Negro",
     "Diario de Cuyo",
     "El Liberal",
-    "FM Alpina",
     "Flipr.news",
-    "Infobae",
-    "Infofueguina",
     "Infonews",
-    "La Izquierda Diario",
     "La Nación",
+    "La Nueva Provincia",
     "Los Andes",
     "MDZ Online",
     "Neuquen Post",
-    "NewsDigitales",
     "Nueva Rioja",
     "Opinando San Nicolás",
     "Panorama Directo",
+    "Reconquista Radios",
     "RedBoing",
     "San Nicolás",
     "TeleSol Diario",
-    "radio don",
     "Ámbito"
    ]
   },
   {
-   "titulo": "La economía argentina cayó en recesión técnica pese al repunte del 1,1% en septiembre",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjJMTEw0U1R6UkN3WHN1MXdtdk1VR2l0V05iMk8wbDhSVFJVejdjNUJGenJvVWsyckotOHV4cU9lVFBmRUkwNUpFVUowRFotZXRma1QtOTg3cVZWY2o1cGg5R0RYWkN6NVMyYXBud0FjTE10aG9rcEJ6c1l4b0g5V3hkajlfX2JMZEl1cWFpRTY4WUpYOGl1b2hCUkxjanRVZ2pDMTNkR1I2akVhRG94R21STEdTVXUtUVBMb1NIU1R6YUVaQ3hWRzZhRQ?oc=5",
-   "fecha": "2026-11-24T16:28:00-03:00",
-   "resumen": "La economía argentina cayó en recesión técnica pese al repunte del 1,1% en septiembre    Diario de Cuyo",
-   "medio": "Diario de Cuyo",
+   "titulo": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este miércoles 25 de noviembre de 2026",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGwyOTBTc1E4T0JyQTlvbDVjdFhGcmNrcENna2YwUENOeVFvamZJdTc1cmx1SWpBSkZoZUNfckM4YWxhU2lVT0VUVUE2MVN1ZTFuM20xY3d1M0FYNVdpRVBYNHphd1VuelFYVEtyeDZlQlE5QkZVNkYtRi1UQjZJUHRoUmRkQnpyaHJ5dld6LXJDbTRkVFVsSUdrRFU3a25meEFwdXNLc1hnM0NiWGJURGM4MHY0cEI2d0lBYUkyNEcwTmVX0gHKAUFVX3lxTFBHWklZSmNpcTc1YVNzb1Q3anRBeVBlUGZCdHJtN0tJLWo1bHBFaFZjS213Ukx6Z0RsWFlfZG51aXFmWW02WElhTlF5eTlxR1VtbHBaZV9oelZGMzFmYlg0bVVnN3RXNzhIMVpicFhRZTZwTktMUWVvY0RjZWMwTGtFZnVmeXJTZ2t4ODdVSjR2MXBLZTh0MDh1UnBYYXNxQ2pZQUN6OUQwMUp6OGVLSEVqM1pWYkFBX3N3Z0Z5ZFhhaTItTEhsUnk4eVE?oc=5",
+   "fecha": "2026-11-25T00:00:00-03:00",
+   "resumen": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este miércoles 25 de noviembre de 2026    Sitio Andino",
+   "medio": "Sitio Andino",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 18.96,
+   "score": 10.18,
    "medios": [
-    "ADNSUR",
-    "Diario Mendoza",
-    "Diario de Cuyo",
-    "Forbes Argentina",
-    "LU22 Radio Tandil",
-    "La Noticia 1",
-    "LoQuePasa.net",
-    "Panorama Directo",
-    "RoadShow",
-    "Zona Norte Hoy",
-    "cazador de noticias",
-    "eldoce",
-    "Ámbito"
+    "Cadena 3 Argentina",
+    "Infocampo",
+    "La Nación",
+    "Rosario Finanzas",
+    "Sitio Andino"
+   ]
+  },
+  {
+   "titulo": "La economía no, pero la política le da aire a Cornejo y Milei",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSDFPN2U0cUh3eXFFVHdYVUV0VlpsM1JvcmFXZmw2Q1VmNU5ndVhsM2k0bFJvbGxuaE5oaU9xTkxEeUpyUlVFbnRPOEZheGYwVnZWZVBoUnMtcm1tVmRPWHZ3OWtPREQzVGNQQTJ0YmxvazlDVjkwRFBPVHotTDU0VkZHRnBIclRvZ1RFMmZRQi1LekZLVklLS0dB?oc=5",
+   "fecha": "2026-11-25T06:44:55-03:00",
+   "resumen": "La economía no, pero la política le da aire a Cornejo y Milei    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 8.22,
+   "medios": [
+    "Diario El Sol Mendoza"
    ]
   },
   {
@@ -79,7 +80,7 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 13.02,
+   "score": 8.07,
    "medios": [
     "Sitio Andino"
    ]
@@ -87,56 +88,77 @@
   {
    "titulo": "Presupuesto 2027 en Mendoza: empresarios del turismo reclamaron más fondos y participación en la promoción provincial",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUmZsdzB5cVlUWTJHVEZ2a0FOMTl6YjlKZ0tTSkVZcE9TeGgtMTM3bzA0RXpuYU5ySkM3TzI1LXdEbkFaSmtLRjR3M0VKaTl5VlJYOXpGNVJ2ZGFuOEthWGU5NG9EbktyY2hhb2k2RXRVQ0ZpOEc1SHBhcGNXbkJjWFhNWHhhZFVjaTN5S2QtZG5lWTFoUFk3a2JFTmFFekRmUDlJb3Y5ck92Vi1JaEl2ZEwxZDVicnp6a08wOXRKWkswN0RlbWZrc2o0WHNrRGF0SDJJTlR4cm00RlktS3B4bWZwUjdySkpDUmR5bw?oc=5",
-   "fecha": "2026-11-24T19:38:00-03:00",
+   "fecha": "2026-11-25T07:33:00-03:00",
    "resumen": "Presupuesto 2027 en Mendoza: empresarios del turismo reclamaron más fondos y participación en la promoción provincial    Los Andes",
    "medio": "Los Andes",
    "fuente": "Los Andes (GN)",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 8.09,
+   "score": 7.42,
    "medios": [
     "Los Andes"
-   ]
-  },
-  {
-   "titulo": "Hoteleros y gastronómicos pidieron ser tenidos en cuenta en el Presupuesto 2027 de Mendoza",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYXQ5cE1lV2g5OERfZlpLWHBtbjl4QUpOYkxfT2ZWdHpsMU14RHMtY0xyLVpnMk1vcmthWUdQZldBX2hUVEViR1E1VkU2YTRaSDFjdWZXWkhfSXJLcmNwUUFVZGlhRTdCR0lBTWpIMHVoUjRtWjJtckJWUzdQOUVGN2R0U0hNMkVJdlowN3drZi1kcUFQQ2lWMzV4NVNGa0I5aTl3cmg1MTVCQ1gtTmg4ZHZqQzYwZXhaOWhuR2hkeHo4TDVwZDU00gHMAUFVX3lxTE5VRVNHb285dDA5RHowX1lkcTNYR3VjRy0xOVBxeS1iN3ZlRlhFNnNkNkZFY2pUa2JHYmswM0N0NmxET0NrQTVtV213SV81Y2Z5TVFnRHA4X1I2RnUwU1ZjRHZLeW9IM21WSmNCNEpZeUx1Z2psSTRHc28wV0NYZzJ0X2NXbnZ3WWdtTTdsZ0c2MmJQN2NmenlvbWtndVE3N1JWODJKbXNxZ2NIbW4xVVV3VFVXam82M09jaGwwVlNndnRwZUw3NDlha19kag?oc=5",
-   "fecha": "2026-11-24T21:53:00-03:00",
-   "resumen": "Hoteleros y gastronómicos pidieron ser tenidos en cuenta en el Presupuesto 2027 de Mendoza    Diario UNO",
-   "medio": "Diario UNO",
-   "fuente": "Diario Uno",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 7.44,
-   "medios": [
-    "Diario UNO"
    ]
   }
  ],
  "top_argentina": [
   {
-   "titulo": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNajRud3A3X1FLLUYwNXZDN1NyUlBFRXZPUGNSazdfM29MMWFtTnJndGJLTXZGdi1GWnM0Z3dic3huMFVoSEdtVTRTM05XMmhieW0tQ2l5Y0ZodEo1WU5pbjRGOHNtN0p4LUZvYVNiN09xNWdnM1dfZjJBWDhWVmRBZjl2MjQwTTc3VWRBbXpaVTdEX2pRMnF5RzVSczFaRXFGTWdJT01OLWwzenJrcEJEXzZkLVFvRWg5aEI4ejNFeERqaF95SzVRdktjVlZXdWZmbFQ5ZElFRURscWNwSlppT2lzZndCLVlmbnZxS09B0gH2AUFVX3lxTE91b1N3TVowNmh6a3NEb2hSd0dYMlAtMW5uQ2RzU1M5MkR6MlpHQy11SHVFRjJIcUxSaFRTQUxpSXVrNWlCWGtwQ0pQT01LdHVPWGRTblBwYmxWMUZLSTRSRHZma1Z0WW9LVDNJb09PcS1LQlBvNGhfY29aRFAzX0VCeXAyTUV1Q3dTbnR6Tjl1bThoUXpoaDFtdkJxR05HZDNFSWlFU0pLTjF4Ulo5aHAtTDVpZ1JYYnhaNEpybUh6QlJBaGowLTFRQ2d6MHZtVjJ2emJpVUVldjhBbndZRWNKbU5jcGNWZ2ZMMlhiUGtZMHZWLWxlQQ?oc=5",
-   "fecha": "2026-11-24T16:13:20-03:00",
-   "resumen": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída    Diario Río Negro",
-   "medio": "Diario Río Negro",
-   "fuente": "INDEC Cuyo (GN)",
+   "titulo": "En máximos del año, el riesgo país a 1.094 y el dólar oficial en $1.615",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd2FwVU1CeDBYYkExb2xRS25XdU41MFhIOUc1R0tEcDdZR1JDY1RudS04cGt1c3V1YnBJOXJLSHMxWUg0UHRCbzVxaktVLTkyc051S29XdzVSMzMwdDRTaWU3UTJpSXJLeDgyVHNCWU9NS3NHRERDUk5BdWQ2UFpXQjV0enZFSzA3SmU5aElkUzcxdkRxOWxpa3lJaGxOY0FlUWEyT09yaExaazhteGRSWGlUTGdVVGZpNG1nNTE5Y1UwY09GUWFUVWVPZGVJcVhoTXhJSl9WWWNoZlhHbXF0Mi1RZkFzN1lvSEg1M19qbVV0T0g3REZYdzI5ZmJjbk9F?oc=5",
+   "fecha": "2026-11-25T02:50:00-03:00",
+   "resumen": "En máximos del año, el riesgo país a 1.094 y el dólar oficial en $1.615    Diario El Día de La Plata",
+   "medio": "Diario El Día de La Plata",
+   "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 24.71,
+   "alcance": "nacional",
+   "score": 14.13,
    "medios": [
-    "C5N",
+    "Cadena 3 Argentina",
+    "Canal Doce Misiones",
     "Canal26",
-    "Crónica",
-    "Diario Río Negro",
+    "Diario El Día de La Plata",
     "Diario UNO",
-    "Hoy Día Córdoba",
-    "InfoRegión",
-    "Rosario3",
-    "TN"
+    "EL PAÍS Uruguay",
+    "Infobae",
+    "La Nación",
+    "Los Andes",
+    "MDZ Online"
+   ]
+  },
+  {
+   "titulo": "Más crecimiento y más inflación en EEUU: el PIB subió a 4,3% y los precios igualan su máximo de tres años",
+   "url": "https://www.infobae.com/estados-unidos/2026/11/25/la-inflacion-que-mira-la-reserva-federal-subio-a-38-en-octubre-su-nivel-mas-alto-en-tres-anos/",
+   "fecha": "2026-11-25T11:13:27-03:00",
+   "resumen": "El Departamento de Comercio revisó con fuerza al alza su estimación inicial de 3,4%, por mayor gasto de los hogares e inversiones más altas. El índice de precios de gastos de consumo personal (PCE), el preferido del banco central, subió 3,8% interanual en octubre e igualó el máximo de mayo",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 10.52,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Luis Caputo minimizó la suba del dólar y aseguró que no se trasladará a precios",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3VfdmNDa1BEN2hKcTNJVWNzbmtpM2ZQX25KbzF0MW5ZVnZWS2FRcWpHamVQaHY3TDJZWkhJdVEtV3lsYVZYUDl1dVBrelZqREpUSlpKTXlUbkl1RHJBSDRHY0ZlMnhpVGhBRF9uZ3BRLVVmalBKU1NHMVg5N3I1ZFRGbEJGQ0wwMi1wWjk3Z0ctSWZ5SUpyWUZPMUh2X2VMZXZaX2JhYlhhQjlmRDFFTjJmVzZHYllYOEZaSXBXUlotUdIBxwFBVV95cUxPUWxiZi0xUHBYNE1EV0lZbVE4QzRmMmM2aldLNjVDRnREaEF2eUdfM0F3ZFRsSU9iUWtIajM4TWhib3hWeTJEZE1fVk1nSURiTU5BdnlEN2d6OHdYa19MaURxQUY5NXF1TnZyS2d3LVFJTW8zSWNBZjRpRXVVMVRDa0ZLLUNDUU5QVEE1Z3hISjJCbXlKS1puc0Q1dTFXZWo4aE5tMkF2TXFqMC1HalZyWEtNZ0hNRzZPQ2lpNEJwOWViaEVRWWYw?oc=5",
+   "fecha": "2026-11-25T10:21:00-03:00",
+   "resumen": "Luis Caputo minimizó la suba del dólar y aseguró que no se trasladará a precios    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 9.64,
+   "medios": [
+    "Cadena 3 Argentina",
+    "Diario UNO",
+    "El Cronista",
+    "Infobae",
+    "MendoVoz",
+    "Ámbito"
    ]
   },
   {
@@ -149,71 +171,34 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 21.12,
+   "score": 9.21,
    "medios": [
     "8 Digital",
-    "Diario Mendoza",
+    "C5N",
     "Enterate Noticias",
     "Filo News",
     "GN Noticias",
     "Política Argentina",
-    "Rafaela Noticias",
-    "Revista Códigos",
-    "Todo Salta Noticias"
+    "Radio EME",
+    "Rafaela Noticias"
    ]
   },
   {
-   "titulo": "Es oficial para el EMAE: la economía argentina cae en recesión técnica en el tercer trimestre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTQ3ckFTUU93bHVrU3Z5c24wWHFPN1IzMV9Fd1IyYVJsalBxdHdaREtLMUVLcm5RQ2hRTlhDdHRyc1YzN2VuZnpOWHVwOFRVRXU1bkpTRXE3VDlEamt3M0FPQnlsNllTRldCSm9xRTBiemEyeXRLY2pNbXQ3eVk5TS1EV2tlemNUWW1uUEZnVl9VVjZDQlVfaGF4UTVPQ3pmM3ktTUNHVVVlRTFfMDY2Y1VBc3FITlZvWXc?oc=5",
-   "fecha": "2026-11-24T16:15:41-03:00",
-   "resumen": "Es oficial para el EMAE: la economía argentina cae en recesión técnica en el tercer trimestre de 2026    617 News",
-   "medio": "617 News",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 17.91,
-   "medios": [
-    "617 News",
-    "Alerta Digital",
-    "BVC Noticias",
-    "Canal Doce Misiones",
-    "Diario El Sol Mendoza",
-    "Diario Río Negro",
-    "La Nación",
-    "Radio Rafaela"
-   ]
-  },
-  {
-   "titulo": "Argentina — Actividad económica e industria bajo la lupa: qué dicen los números previos al informe del INDEC",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUFVfcWNTck5KTUF6MHlyYUg2clZhQnZka2pGTnUzaWNGWkpMSEZmdVNtZ1JtQlUxeEZPXzhzQlVmeVlFQWd2T0dfUHppWE1JcHoyaFFwMHFPUXB5eW1oQmRfZjA1ZDkzTGtYNG03dWk0c2RGalhjUDNud1A0dWFxQVp6V2pHc1dNdkhGQ3dldXVhU3NBQXlublNQVGNkUGZGOVhXVGZoeXZELVhtdTlKYUFfVU9DNFI1bjkzdm5XU0hha281dV9NbzlucGs3QUxxV2tac0NuS3BUZTVT?oc=5",
-   "fecha": "2026-11-25T01:07:30-03:00",
-   "resumen": "Argentina — Actividad económica e industria bajo la lupa: qué dicen los números previos al informe del INDEC    Prensa Mercosur",
-   "medio": "Prensa Mercosur",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 14.56,
-   "medios": [
-    "El Editor Platense",
-    "Prensa Mercosur"
-   ]
-  },
-  {
-   "titulo": "La economía en recesión: cuánto tiempo puede durar y qué hay detrás de la caída de la actividad",
-   "url": "https://www.ambito.com/economia/la-recesion-cuanto-tiempo-puede-durar-y-que-hay-detras-la-caida-la-actividad-n6348954",
-   "fecha": "2026-11-24T21:15:00-03:00",
-   "resumen": "El rebote de septiembre dejó un arrastre favorable para que la actividad vuelva a crecer en el cuarto trimestre. Pero la debilidad del empleo, los ingresos y el crédito condiciona la recuperación, mientras la tensión financiera amenaza con demorarla.",
-   "medio": "Ámbito",
-   "fuente": "Ámbito",
+   "titulo": "La economía argentina entró en recesión técnica: qué factores explican la caída de la actividad",
+   "url": "https://www.infobae.com/economia/2026/11/24/la-economia-argentina-entro-en-recesion-tecnica-que-factores-explican-la-caida-de-la-actividad/",
+   "fecha": "2026-11-24T19:25:43-03:00",
+   "resumen": "El Gobierno señala la guerra en Medio Oriente y la incertidumbre política, mientras que los economistas privados agregan la salida de capitales, el crédito estancado y el ajuste del consumo y la inversión del sector privado",
+   "medio": "Infobae",
+   "fuente": "Infobae",
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 7.57,
+   "score": 7.87,
    "medios": [
-    "Ambito",
-    "Ámbito"
+    "Diario Noticias De La Calle de Misiones",
+    "Diario la Ventana",
+    "Infobae",
+    "Página|12"
    ]
   }
  ],
@@ -226,22 +211,22 @@
   {
    "fuente": "Los Andes (GN)",
    "ok": true,
-   "notas": 84
+   "notas": 85
   },
   {
    "fuente": "MDZ",
    "ok": true,
-   "notas": 83
+   "notas": 86
   },
   {
    "fuente": "Diario Uno",
    "ok": true,
-   "notas": 45
+   "notas": 44
   },
   {
    "fuente": "El Sol",
    "ok": true,
-   "notas": 20
+   "notas": 27
   },
   {
    "fuente": "Unidiversidad",
@@ -256,32 +241,32 @@
   {
    "fuente": "Ámbito",
    "ok": true,
-   "notas": 15
+   "notas": 27
   },
   {
    "fuente": "Infobae",
    "ok": true,
-   "notas": 49
+   "notas": 62
   },
   {
    "fuente": "La Nación",
    "ok": true,
-   "notas": 69
+   "notas": 91
   },
   {
    "fuente": "Clarín",
    "ok": true,
-   "notas": 72
+   "notas": 92
   },
   {
    "fuente": "El Cronista",
    "ok": true,
-   "notas": 72
+   "notas": 98
   },
   {
    "fuente": "Página/12",
    "ok": true,
-   "notas": 92
+   "notas": 71
   },
   {
    "fuente": "Google News economía argentina",
@@ -291,7 +276,7 @@
   {
    "fuente": "Google News Mendoza economía",
    "ok": true,
-   "notas": 47
+   "notas": 35
   },
   {
    "fuente": "DEIE Mendoza",
@@ -311,7 +296,7 @@
   {
    "fuente": "INDEC Cuyo (GN)",
    "ok": true,
-   "notas": 40
+   "notas": 23
   },
   {
    "fuente": "BCRA",
@@ -321,17 +306,17 @@
   {
    "fuente": "Capital Humano (empleo)",
    "ok": true,
-   "notas": 1
+   "notas": 0
   },
   {
    "fuente": "Empleo/SIPA Mendoza (GN)",
    "ok": true,
-   "notas": 4
+   "notas": 6
   },
   {
    "fuente": "INDEC/BCRA (GN)",
    "ok": true,
-   "notas": 93
+   "notas": 85
   }
  ],
  "candidatas_mendoza": [
@@ -345,105 +330,49 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 46.39,
+   "score": 17.87,
    "medios": [
     "19640 Noticias",
     "Ambito",
-    "Cuestión Entrerriana",
-    "Diario Neuquino",
+    "DataClave",
+    "Diario El Día de La Plata",
     "Diario Panorama",
-    "Diario Popular",
-    "Diario Río Negro",
     "Diario de Cuyo",
     "El Liberal",
-    "FM Alpina",
     "Flipr.news",
-    "Infobae",
-    "Infofueguina",
     "Infonews",
-    "La Izquierda Diario",
     "La Nación",
+    "La Nueva Provincia",
     "Los Andes",
     "MDZ Online",
     "Neuquen Post",
-    "NewsDigitales",
     "Nueva Rioja",
     "Opinando San Nicolás",
     "Panorama Directo",
+    "Reconquista Radios",
     "RedBoing",
     "San Nicolás",
     "TeleSol Diario",
-    "radio don",
     "Ámbito"
    ]
   },
   {
-   "titulo": "La economía argentina cayó en recesión técnica pese al repunte del 1,1% en septiembre",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjJMTEw0U1R6UkN3WHN1MXdtdk1VR2l0V05iMk8wbDhSVFJVejdjNUJGenJvVWsyckotOHV4cU9lVFBmRUkwNUpFVUowRFotZXRma1QtOTg3cVZWY2o1cGg5R0RYWkN6NVMyYXBud0FjTE10aG9rcEJ6c1l4b0g5V3hkajlfX2JMZEl1cWFpRTY4WUpYOGl1b2hCUkxjanRVZ2pDMTNkR1I2akVhRG94R21STEdTVXUtUVBMb1NIU1R6YUVaQ3hWRzZhRQ?oc=5",
-   "fecha": "2026-11-24T16:28:00-03:00",
-   "resumen": "La economía argentina cayó en recesión técnica pese al repunte del 1,1% en septiembre    Diario de Cuyo",
-   "medio": "Diario de Cuyo",
+   "titulo": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este miércoles 25 de noviembre de 2026",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGwyOTBTc1E4T0JyQTlvbDVjdFhGcmNrcENna2YwUENOeVFvamZJdTc1cmx1SWpBSkZoZUNfckM4YWxhU2lVT0VUVUE2MVN1ZTFuM20xY3d1M0FYNVdpRVBYNHphd1VuelFYVEtyeDZlQlE5QkZVNkYtRi1UQjZJUHRoUmRkQnpyaHJ5dld6LXJDbTRkVFVsSUdrRFU3a25meEFwdXNLc1hnM0NiWGJURGM4MHY0cEI2d0lBYUkyNEcwTmVX0gHKAUFVX3lxTFBHWklZSmNpcTc1YVNzb1Q3anRBeVBlUGZCdHJtN0tJLWo1bHBFaFZjS213Ukx6Z0RsWFlfZG51aXFmWW02WElhTlF5eTlxR1VtbHBaZV9oelZGMzFmYlg0bVVnN3RXNzhIMVpicFhRZTZwTktMUWVvY0RjZWMwTGtFZnVmeXJTZ2t4ODdVSjR2MXBLZTh0MDh1UnBYYXNxQ2pZQUN6OUQwMUp6OGVLSEVqM1pWYkFBX3N3Z0Z5ZFhhaTItTEhsUnk4eVE?oc=5",
+   "fecha": "2026-11-25T00:00:00-03:00",
+   "resumen": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este miércoles 25 de noviembre de 2026    Sitio Andino",
+   "medio": "Sitio Andino",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 18.96,
+   "score": 10.18,
    "medios": [
-    "ADNSUR",
-    "Diario Mendoza",
-    "Diario de Cuyo",
-    "Forbes Argentina",
-    "LU22 Radio Tandil",
-    "La Noticia 1",
-    "LoQuePasa.net",
-    "Panorama Directo",
-    "RoadShow",
-    "Zona Norte Hoy",
-    "cazador de noticias",
-    "eldoce",
-    "Ámbito"
-   ]
-  },
-  {
-   "titulo": "La actividad económica repuntó en septiembre, pero Argentina entró en recesión",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHVmUTYyaVk4TmZEMkRWLU1DWXdlOTR1ZDI2WnpxVGQtOG5uWjQzSDd5RVhyb01IcDFQWFIzRnBfNkZ1UEZMaTRHRDVCdzNaOTNwUmdnNTUtenp4MTRwNzFyVW5jSFBxSzN6ZExsQkN0X3VidklpWi0yR1QwWklmX0FScERCNDcxWDV2NldmZGbSAZABQVVfeXFMUFR1ZlE2MmlZOE5mRDJEVi1NQ1l3ZTk0dWQyNlp6cVRkLThublo0M0g3eUVYcm9NSHAxUFhSM0ZwXzZGdVBGTGk0R0Q1QnczWjkzcFJnZzU1LXp6eDE0cDcxclVuY0hQcUszemRMbEJDdF91YnZJaVotMkdUMFpJZl9BUnBEQjQ3MVg1djZXZmRm?oc=5",
-   "fecha": "2026-11-24T16:45:06-03:00",
-   "resumen": "La actividad económica repuntó en septiembre, pero Argentina entró en recesión    Mendoza Post",
-   "medio": "Mendoza Post",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 17.93,
-   "medios": [
-    "Diario Huarpe",
-    "El Cronista",
-    "Mendoza Post",
-    "Opinando San Nicolás",
-    "mendoza24.com.ar"
-   ]
-  },
-  {
-   "titulo": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNajRud3A3X1FLLUYwNXZDN1NyUlBFRXZPUGNSazdfM29MMWFtTnJndGJLTXZGdi1GWnM0Z3dic3huMFVoSEdtVTRTM05XMmhieW0tQ2l5Y0ZodEo1WU5pbjRGOHNtN0p4LUZvYVNiN09xNWdnM1dfZjJBWDhWVmRBZjl2MjQwTTc3VWRBbXpaVTdEX2pRMnF5RzVSczFaRXFGTWdJT01OLWwzenJrcEJEXzZkLVFvRWg5aEI4ejNFeERqaF95SzVRdktjVlZXdWZmbFQ5ZElFRURscWNwSlppT2lzZndCLVlmbnZxS09B0gH2AUFVX3lxTE91b1N3TVowNmh6a3NEb2hSd0dYMlAtMW5uQ2RzU1M5MkR6MlpHQy11SHVFRjJIcUxSaFRTQUxpSXVrNWlCWGtwQ0pQT01LdHVPWGRTblBwYmxWMUZLSTRSRHZma1Z0WW9LVDNJb09PcS1LQlBvNGhfY29aRFAzX0VCeXAyTUV1Q3dTbnR6Tjl1bThoUXpoaDFtdkJxR05HZDNFSWlFU0pLTjF4Ulo5aHAtTDVpZ1JYYnhaNEpybUh6QlJBaGowLTFRQ2d6MHZtVjJ2emJpVUVldjhBbndZRWNKbU5jcGNWZ2ZMMlhiUGtZMHZWLWxlQQ?oc=5",
-   "fecha": "2026-11-24T16:13:20-03:00",
-   "resumen": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída    Diario Río Negro",
-   "medio": "Diario Río Negro",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 17.65,
-   "medios": [
-    "C5N",
-    "Canal26",
-    "Crónica",
-    "Diario Río Negro",
-    "Diario UNO",
-    "Hoy Día Córdoba",
-    "InfoRegión",
-    "Rosario3",
-    "TN"
+    "Cadena 3 Argentina",
+    "Infocampo",
+    "La Nación",
+    "Rosario Finanzas",
+    "Sitio Andino"
    ]
   },
   {
@@ -456,7 +385,7 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 16.8,
+   "score": 9.38,
    "medios": [
     "Diario Mendoza Today",
     "El País Diario",
@@ -464,46 +393,18 @@
    ]
   },
   {
-   "titulo": "El Indec publica el dato de actividad económica y crece la expectativa por una posible recesión técnica",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSU1URzZ4bUdUU1ktanVOd1NfN0YxR0ZSMUlkV3Bxb0UwUktQTUtuUjF6UWdtd1B2YnZGOE5DRkhJRFRDQWtqUGRETGxoSnRVcnprc2NtYmZzX1JPMGZGUE9EY1R1U1owNVU3VHVaQUZrOWllR2w5b2ZNeTVCYVoxVXhZMXoxVUY5RnZmejc5bTNkU2xjaVNNbnlxdzBCM1dwajVQbUdldDlCemRsTldiS3RXSHhFRW9EdkR0ODUxaFNXVFFIUml6MG5mRXA?oc=5",
-   "fecha": "2026-11-24T11:17:41-03:00",
-   "resumen": "El Indec publica el dato de actividad económica y crece la expectativa por una posible recesión técnica    8 Digital",
-   "medio": "8 Digital",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
+   "titulo": "La economía no, pero la política le da aire a Cornejo y Milei",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSDFPN2U0cUh3eXFFVHdYVUV0VlpsM1JvcmFXZmw2Q1VmNU5ndVhsM2k0bFJvbGxuaE5oaU9xTkxEeUpyUlVFbnRPOEZheGYwVnZWZVBoUnMtcm1tVmRPWHZ3OWtPREQzVGNQQTJ0YmxvazlDVjkwRFBPVHotTDU0VkZHRnBIclRvZ1RFMmZRQi1LekZLVklLS0dB?oc=5",
+   "fecha": "2026-11-25T06:44:55-03:00",
+   "resumen": "La economía no, pero la política le da aire a Cornejo y Milei    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 15.08,
+   "score": 8.22,
    "medios": [
-    "8 Digital",
-    "Diario Mendoza",
-    "Enterate Noticias",
-    "Filo News",
-    "GN Noticias",
-    "Política Argentina",
-    "Rafaela Noticias",
-    "Revista Códigos",
-    "Todo Salta Noticias"
-   ]
-  },
-  {
-   "titulo": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este martes 24 de noviembre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRllZRUE4anZNdEx5NFlwSE1qRjV2X2NsMHpYRVc1UWJuMEFyVHpFYWsyRjZaaUFfUERVVGhhTDl3Rm5fc1Jnb1MxZlZnRGtUbTBWUE85eWNnbFZpV3paRTBITnBMZGtpa0FpOVdTZ19MajQ2bjE2SVMyTTE0VHF2VE9GQUdnbWVvZ1NkM0lvZnp4SXRfVGswSXFhbU5nNkZ3cUEzMTdKVWFWR250Y1VGd2RTbUpxbmhIVEtiVTlBS1XSAcYBQVVfeXFMTzgzTmh2VXd2czFsX3YyWFlkQVhuWldHMGl0NXpPVkpVVC0tcEktcF84Ynd5WDRXeEJMTmVMWEVBRmdJaUt1NHNHaW5LUGxVVHd4WFFhZWNtXzRGVDBZRnVkZDJXZjlNcGFwblZrb2lhb3RGVHotSkRTeXp3LWhTaTk4amozeGhTbkNQUC1qUGYwRjEzSHNZMVNRRXNIWkMzOUlFdTJ6Qml1bm04bER1VmYxLXdXT1k1R3VHSEczbkIwSUxPRzB3?oc=5",
-   "fecha": "2026-11-24T12:53:00-03:00",
-   "resumen": "Dólar hoy y dólar blue en Mendoza: a cuánto cotiza este martes 24 de noviembre de 2026    Sitio Andino",
-   "medio": "Sitio Andino",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 13.13,
-   "medios": [
-    "Clarin.com",
-    "Clarín",
-    "Infocampo",
-    "La Nación",
-    "MinutoYA",
-    "Sitio Andino"
+    "Diario El Sol Mendoza"
    ]
   },
   {
@@ -516,105 +417,317 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 13.02,
+   "score": 8.07,
    "medios": [
     "Sitio Andino"
    ]
   },
   {
-   "titulo": "Es oficial para el EMAE: la economía argentina cae en recesión técnica en el tercer trimestre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTQ3ckFTUU93bHVrU3Z5c24wWHFPN1IzMV9Fd1IyYVJsalBxdHdaREtLMUVLcm5RQ2hRTlhDdHRyc1YzN2VuZnpOWHVwOFRVRXU1bkpTRXE3VDlEamt3M0FPQnlsNllTRldCSm9xRTBiemEyeXRLY2pNbXQ3eVk5TS1EV2tlemNUWW1uUEZnVl9VVjZDQlVfaGF4UTVPQ3pmM3ktTUNHVVVlRTFfMDY2Y1VBc3FITlZvWXc?oc=5",
-   "fecha": "2026-11-24T16:15:41-03:00",
-   "resumen": "Es oficial para el EMAE: la economía argentina cae en recesión técnica en el tercer trimestre de 2026    617 News",
-   "medio": "617 News",
+   "titulo": "La actividad económica repuntó en septiembre, pero Argentina entró en recesión",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHVmUTYyaVk4TmZEMkRWLU1DWXdlOTR1ZDI2WnpxVGQtOG5uWjQzSDd5RVhyb01IcDFQWFIzRnBfNkZ1UEZMaTRHRDVCdzNaOTNwUmdnNTUtenp4MTRwNzFyVW5jSFBxSzN6ZExsQkN0X3VidklpWi0yR1QwWklmX0FScERCNDcxWDV2NldmZGbSAZABQVVfeXFMUFR1ZlE2MmlZOE5mRDJEVi1NQ1l3ZTk0dWQyNlp6cVRkLThublo0M0g3eUVYcm9NSHAxUFhSM0ZwXzZGdVBGTGk0R0Q1QnczWjkzcFJnZzU1LXp6eDE0cDcxclVuY0hQcUszemRMbEJDdF91YnZJaVotMkdUMFpJZl9BUnBEQjQ3MVg1djZXZmRm?oc=5",
+   "fecha": "2026-11-24T16:45:06-03:00",
+   "resumen": "La actividad económica repuntó en septiembre, pero Argentina entró en recesión    Mendoza Post",
+   "medio": "Mendoza Post",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 12.96,
+   "score": 7.58,
    "medios": [
-    "617 News",
-    "Alerta Digital",
-    "BVC Noticias",
-    "Canal Doce Misiones",
-    "Diario El Sol Mendoza",
-    "Diario Río Negro",
-    "La Nación",
-    "Radio Rafaela"
-   ]
-  },
-  {
-   "titulo": "Argentina al borde de la recesión: el INDEC publica el EMAE",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42aEFkZkV2aThuaTlYeEZ2V3dCUy1PSzA2MDEzYXdYZmQtWXBZVXhLNGNSbHpmODczUURjdHkyQWV1d3FON29vRXR1OEJRMW1uWXJXRTJDNDh3ajhETUVTaU5fcXktcGVfMU5feHBOT2hRcTdvYjlkQ3JIRQ?oc=5",
-   "fecha": "2026-11-23T14:49:22-03:00",
-   "resumen": "Argentina al borde de la recesión: el INDEC publica el EMAE    » Cholila Online",
-   "medio": "» Cholila Online",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 10.12,
-   "medios": [
-    "Agenda Salta",
-    "Ciudadano News",
-    "Clarin.com",
-    "DataChaco",
-    "Diario El Día de La Plata",
-    "Diario El Sol Mendoza",
-    "Diario Hoy En la noticia",
-    "Diario La Unión",
-    "El Argentino Diario",
-    "El Diario de Carlos Paz",
-    "Perfil",
-    "Todo Jujuy",
-    "elconurbano.com.ar",
-    "iProfesional",
-    "» Cholila Online"
-   ]
-  },
-  {
-   "titulo": "El Indec difundirá el dato que definirá si Argentina entró en recesión (mobile)",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHE3aWwwdE9Gc3RVeVhwSi1PTFU0RGh1V0lOcXNPRFRsRW4zME9ha2lGTlVqSkNtM0R4MWFZUTZ6WUk1QV9jYmtqQjd3Q1pmT3U3MmdtX0k2NkxyYUc2NVVUSHkxSDB5X0ZSa0ZLNlR3TmJlNlUwaWJRQ3ljdVNoU1RkZUowM3NlX2haNy1SYWRyN3dGeUU2U0VLMGszcndKVGY1QTZ1TG5WdVM2dkNqQ0JqekZRR2FQNEtWMw?oc=5",
-   "fecha": "2026-11-24T09:42:34-03:00",
-   "resumen": "El Indec difundirá el dato que definirá si Argentina entró en recesión (mobile)    Mendoza 24",
-   "medio": "Mendoza 24",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 9.27,
-   "medios": [
-    "Diario Junio",
-    "Hoy Día Córdoba",
-    "Mendoza 24"
+    "El Cronista",
+    "Mendoza 24",
+    "Mendoza Post"
    ]
   },
   {
    "titulo": "Presupuesto 2027 en Mendoza: empresarios del turismo reclamaron más fondos y participación en la promoción provincial",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUmZsdzB5cVlUWTJHVEZ2a0FOMTl6YjlKZ0tTSkVZcE9TeGgtMTM3bzA0RXpuYU5ySkM3TzI1LXdEbkFaSmtLRjR3M0VKaTl5VlJYOXpGNVJ2ZGFuOEthWGU5NG9EbktyY2hhb2k2RXRVQ0ZpOEc1SHBhcGNXbkJjWFhNWHhhZFVjaTN5S2QtZG5lWTFoUFk3a2JFTmFFekRmUDlJb3Y5ck92Vi1JaEl2ZEwxZDVicnp6a08wOXRKWkswN0RlbWZrc2o0WHNrRGF0SDJJTlR4cm00RlktS3B4bWZwUjdySkpDUmR5bw?oc=5",
-   "fecha": "2026-11-24T19:38:00-03:00",
+   "fecha": "2026-11-25T07:33:00-03:00",
    "resumen": "Presupuesto 2027 en Mendoza: empresarios del turismo reclamaron más fondos y participación en la promoción provincial    Los Andes",
    "medio": "Los Andes",
    "fuente": "Los Andes (GN)",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 8.09,
+   "score": 7.42,
    "medios": [
     "Los Andes"
    ]
   },
   {
-   "titulo": "Con el riesgo país en 1.035 puntos, el INDEC confirmará si hay recesión técnica",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaXo5YlRUT2VUV1hQRFI1UEtfRVRHREJibHJIZGlvLW5KalZ3RzYtZXE1QlNlUE5ydXJfSmVjRUJlOGF2TUJYMGtBbUxTWFM0Qk9HUVRTdTBORG82d202b0R0T1ZnR3BrUmtfYjRRdlJmeGpSbnJKdnVidndYSVE2STJJbDYwYWxyZWMyYkI3Yk5WZEJ1b1ZjZ3ZXOHRCU2I3RW5iRURZUkRfQVBrdVlxTNIBsAFBVV95cUxOaXo5YlRUT2VUV1hQRFI1UEtfRVRHREJibHJIZGlvLW5KalZ3RzYtZXE1QlNlUE5ydXJfSmVjRUJlOGF2TUJYMGtBbUxTWFM0Qk9HUVRTdTBORG82d202b0R0T1ZnR3BrUmtfYjRRdlJmeGpSbnJKdnVidndYSVE2STJJbDYwYWxyZWMyYkI3Yk5WZEJ1b1ZjZ3ZXOHRCU2I3RW5iRURZUkRfQVBrdVlxTA?oc=5",
-   "fecha": "2026-11-24T07:35:43-03:00",
-   "resumen": "Con el riesgo país en 1.035 puntos, el INDEC confirmará si hay recesión técnica    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
+   "titulo": "Luis Caputo minimizó la suba del dólar y aseguró que no se trasladará a precios",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3VfdmNDa1BEN2hKcTNJVWNzbmtpM2ZQX25KbzF0MW5ZVnZWS2FRcWpHamVQaHY3TDJZWkhJdVEtV3lsYVZYUDl1dVBrelZqREpUSlpKTXlUbkl1RHJBSDRHY0ZlMnhpVGhBRF9uZ3BRLVVmalBKU1NHMVg5N3I1ZFRGbEJGQ0wwMi1wWjk3Z0ctSWZ5SUpyWUZPMUh2X2VMZXZaX2JhYlhhQjlmRDFFTjJmVzZHYllYOEZaSXBXUlotUdIBxwFBVV95cUxPUWxiZi0xUHBYNE1EV0lZbVE4QzRmMmM2aldLNjVDRnREaEF2eUdfM0F3ZFRsSU9iUWtIajM4TWhib3hWeTJEZE1fVk1nSURiTU5BdnlEN2d6OHdYa19MaURxQUY5NXF1TnZyS2d3LVFJTW8zSWNBZjRpRXVVMVRDa0ZLLUNDUU5QVEE1Z3hISjJCbXlKS1puc0Q1dTFXZWo4aE5tMkF2TXFqMC1HalZyWEtNZ0hNRzZPQ2lpNEJwOWViaEVRWWYw?oc=5",
+   "fecha": "2026-11-25T10:21:00-03:00",
+   "resumen": "Luis Caputo minimizó la suba del dólar y aseguró que no se trasladará a precios    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 7.23,
+   "medios": [
+    "Cadena 3 Argentina",
+    "Diario UNO",
+    "El Cronista",
+    "Infobae",
+    "MendoVoz",
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Un mendocino de 10 años se consagró campeón argentino de motocross",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDdTM3B3QkZpM0c5UmgzbzdfVnFldTkwTHdoWUppSU4wZHozR2NHbG9XckdGaDJOaFJqSG5reGJDYTBmcVA3VTRPR0c1Ry1NeEUyVWE5MFMtLTBZRDBJZWdNekZXU0pucmZadkxvdTg5N0lfVVVscHNHX2ZPZEdlS3FXWTRTVzlQV3FvVEdsZk9ndTJFSFhoMVJCVjBnbHUzUzFJ?oc=5",
+   "fecha": "2026-11-24T21:16:51-03:00",
+   "resumen": "Un mendocino de 10 años se consagró campeón argentino de motocross    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 6.93,
+   "medios": [
+    "Diario El Sol Mendoza"
+   ]
+  },
+  {
+   "titulo": "El tipo de descubrimiento de cobre que Teck sale a buscar en la cordillera mendocina",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWxVVVY1cC1kY1RCcHFqLVQyaGRkaU4xejVNN3d1OU1mWDJHSHpyYXR4SmFadFhRYzA2aHQyeVBCYmhRNjJCR19vcThqZnZhclR4alNGMVduMmRIX2RwRGs2VlQ0ZmRDQWdHZG9VSHR4cGtXUmI4MGFhWVROa21jWHpYMG1tbHAzR0p2WS1HNE1mQnNSMTA1WUFNWnRMTzEtRUktdjB5VERXV0dvQWp4cXlDZVZDY0JLV2tJ0gHAAUFVX3lxTE45Nk9nM3VUVzlCVjk0aXNiZzR2ejZKT1R1MGR1LWNYcTI5RXVEUy1pSlNQWXBld3hYSVpLM2lmbm9PYk1Xakk0U1VUcDI0RWVtQW1YRzdMUkFjVExKMTM1bHo0a0pxN0ZNUWJTUFc4Z1BVbDJfLWRpdWl1NktmNmN2b1FlZkVmSkpHOWFLYVFnTVBPY1lFTHF6c3VhSTJ3bkRpdkRrcFJqQkZoVi1sWldZU19CMjREdGpCemxNbUZReQ?oc=5",
+   "fecha": "2026-11-25T08:49:00-03:00",
+   "resumen": "El tipo de descubrimiento de cobre que Teck sale a buscar en la cordillera mendocina    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 6.67,
+   "medios": [
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "El Indec publica el dato de actividad económica y crece la expectativa por una posible recesión técnica",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSU1URzZ4bUdUU1ktanVOd1NfN0YxR0ZSMUlkV3Bxb0UwUktQTUtuUjF6UWdtd1B2YnZGOE5DRkhJRFRDQWtqUGRETGxoSnRVcnprc2NtYmZzX1JPMGZGUE9EY1R1U1owNVU3VHVaQUZrOWllR2w5b2ZNeTVCYVoxVXhZMXoxVUY5RnZmejc5bTNkU2xjaVNNbnlxdzBCM1dwajVQbUdldDlCemRsTldiS3RXSHhFRW9EdkR0ODUxaFNXVFFIUml6MG5mRXA?oc=5",
+   "fecha": "2026-11-24T11:17:41-03:00",
+   "resumen": "El Indec publica el dato de actividad económica y crece la expectativa por una posible recesión técnica    8 Digital",
+   "medio": "8 Digital",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 7.46,
+   "score": 6.66,
+   "medios": [
+    "8 Digital",
+    "C5N",
+    "Enterate Noticias",
+    "Filo News",
+    "GN Noticias",
+    "Política Argentina",
+    "Radio EME",
+    "Rafaela Noticias"
+   ]
+  },
+  {
+   "titulo": "La Ciudad y la Provincia amplían las herramientas para acceder al empleo",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTVjbUNBLVU3RTFaSmZiWU00SFFxa0NVMUs0QUw0UEVCVTZiMnBwaTZJcnNuTzVKcG9PU3RXd01CenVTQWZHQWpTdEZ0RTNlNGVqbDZpelczT1JObjlwY0RPN2xqMEJfOS1FaUduR1RLUmRNYW5OTW11ZWV3SHgyYWxyT01OOW8tR3A5N0Ntc0NDZlpLNmpvdmRLZ3ZqNmdhMnlvemVHMXpoRTZIdXp2MtIBsAFBVV95cUxOVTVjbUNBLVU3RTFaSmZiWU00SFFxa0NVMUs0QUw0UEVCVTZiMnBwaTZJcnNuTzVKcG9PU3RXd01CenVTQWZHQWpTdEZ0RTNlNGVqbDZpelczT1JObjlwY0RPN2xqMEJfOS1FaUduR1RLUmRNYW5OTW11ZWV3SHgyYWxyT01OOW8tR3A5N0Ntc0NDZlpLNmpvdmRLZ3ZqNmdhMnlvemVHMXpoRTZIdXp2Mg?oc=5",
+   "fecha": "2026-11-25T11:01:21-03:00",
+   "resumen": "La Ciudad y la Provincia amplían las herramientas para acceder al empleo    Mendoza Post",
+   "medio": "Mendoza Post",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 6.54,
+   "medios": [
+    "Mendoza Post"
+   ]
+  },
+  {
+   "titulo": "El dólar blue marcó un nuevo récord y el oficial superó los $1.600",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWJ6NkZBcGxtNmF1SW9GdTVGbFdhQnVHRjAwSzR2blhjdWY5WTVoT0FRYkFlS0FNck9ZS0ozNUVGZl9TMzhxai1wZE5FZzlER21vay1jbGxPWXRjYXBKd1FldU5INkJhLTdkWm1tUW9KOW9USFpSRjVnRjhlMWJGYmtILW5oNzc5ZWNVR1JHcTVTRk0yblVUM3RuT2xuTy1s?oc=5",
+   "fecha": "2026-11-25T12:30:43-03:00",
+   "resumen": "El dólar blue marcó un nuevo récord y el oficial superó los $1.600    Diario El Sol Mendoza",
+   "medio": "Diario El Sol Mendoza",
+   "fuente": "El Sol",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 6.23,
+   "medios": [
+    "Diario El Sol Mendoza"
+   ]
+  },
+  {
+   "titulo": "La economía argentina cayó en recesión técnica pese al repunte del 1,1% en septiembre",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjJMTEw0U1R6UkN3WHN1MXdtdk1VR2l0V05iMk8wbDhSVFJVejdjNUJGenJvVWsyckotOHV4cU9lVFBmRUkwNUpFVUowRFotZXRma1QtOTg3cVZWY2o1cGg5R0RYWkN6NVMyYXBud0FjTE10aG9rcEJ6c1l4b0g5V3hkajlfX2JMZEl1cWFpRTY4WUpYOGl1b2hCUkxjanRVZ2pDMTNkR1I2akVhRG94R21STEdTVXUtUVBMb1NIU1R6YUVaQ3hWRzZhRQ?oc=5",
+   "fecha": "2026-11-24T16:28:00-03:00",
+   "resumen": "La economía argentina cayó en recesión técnica pese al repunte del 1,1% en septiembre    Diario de Cuyo",
+   "medio": "Diario de Cuyo",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 5.98,
+   "medios": [
+    "Aries On Line",
+    "Diario Mendoza",
+    "Diario de Cuyo",
+    "Panorama Directo",
+    "Revista Más Industrias",
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNajRud3A3X1FLLUYwNXZDN1NyUlBFRXZPUGNSazdfM29MMWFtTnJndGJLTXZGdi1GWnM0Z3dic3huMFVoSEdtVTRTM05XMmhieW0tQ2l5Y0ZodEo1WU5pbjRGOHNtN0p4LUZvYVNiN09xNWdnM1dfZjJBWDhWVmRBZjl2MjQwTTc3VWRBbXpaVTdEX2pRMnF5RzVSczFaRXFGTWdJT01OLWwzenJrcEJEXzZkLVFvRWg5aEI4ejNFeERqaF95SzVRdktjVlZXdWZmbFQ5ZElFRURscWNwSlppT2lzZndCLVlmbnZxS09B0gH2AUFVX3lxTE91b1N3TVowNmh6a3NEb2hSd0dYMlAtMW5uQ2RzU1M5MkR6MlpHQy11SHVFRjJIcUxSaFRTQUxpSXVrNWlCWGtwQ0pQT01LdHVPWGRTblBwYmxWMUZLSTRSRHZma1Z0WW9LVDNJb09PcS1LQlBvNGhfY29aRFAzX0VCeXAyTUV1Q3dTbnR6Tjl1bThoUXpoaDFtdkJxR05HZDNFSWlFU0pLTjF4Ulo5aHAtTDVpZ1JYYnhaNEpybUh6QlJBaGowLTFRQ2d6MHZtVjJ2emJpVUVldjhBbndZRWNKbU5jcGNWZ2ZMMlhiUGtZMHZWLWxlQQ?oc=5",
+   "fecha": "2026-11-24T16:13:20-03:00",
+   "resumen": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída    Diario Río Negro",
+   "medio": "Diario Río Negro",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 5.74,
+   "medios": [
+    "Crónica",
+    "Diario Río Negro",
+    "Diario UNO",
+    "TN"
+   ]
+  },
+  {
+   "titulo": "Monotributo Unificado en Mendoza: cómo saber si tu cuota incluye Ingresos Brutos",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3hVTDNheUNwbVFVWDY5eXVLRkRxZXJxMVdGTE5taE93Mm5QQ09TaHJ5TF9MMFhncWFmN0ZfYUVCUUtVeTZaejE4MGJxS3NXNVE2U2hNNmVPNmxBWVQ5SXo0T3BVNlRrVGVSdFFTV0dPZUZsYUhlQjBxUDM1bjhpdE9ob1NicHhWbVpES1ZHUG00UWgydnhYbHJDRXdrODZYZ1NUdWczWHNzR1QwMHdVNmRfNXQ2QUZDTFowWDZYdWtvVDQ1NS1STlVxRm9VUHM?oc=5",
+   "fecha": "2026-11-25T09:53:40-03:00",
+   "resumen": "Monotributo Unificado en Mendoza: cómo saber si tu cuota incluye Ingresos Brutos    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 5.5,
+   "medios": [
+    "MDZ Online"
+   ]
+  },
+  {
+   "titulo": "Carlos Ponce sobre los créditos productivos: \"Es algo que Mendoza necesita\"",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdThBUFdDS1ZqaG1HcmM5bi1MRjdCUVl0SlJBZUFIR0JjQXB5RS0tdm80c3FPR0F0VDBCeDBtVEk3U2lFNFFDSDhXVkxwVXBHVUVzdklVcWRLR2EzUW1VbnA3a2FDbHZjUUFYbjIzaWJRZkNXTDBUUHlBMjI1UC1RcGR0OE84U1hxd2phQzRuU09aVzV1ZVZKbGp2LU1LNjFnSlFxY1FRTy1EQUw4a0NZ0gGvAUFVX3lxTFB1OEFQV0NLVmpobUdyYzluLUxGN0JRWXRKUkFlQUhHQmNBcHlFLS12bzRzcU9HQXRUMEJ4MG1USTdTaUU0UUNIOFdWTHBVcEdVRXN2SVVxZEtHYTNRbVVucDdrYUNsdmNRQVhuMjNpYlFmQ1dMMFRQeUEyMjVQLVFwZHQ4TzhTWHF3amFDNG5TT1pXNXVlVkpsanYtTUs2MWdKUXFjUVFPLURBTDhrQ1k?oc=5",
+   "fecha": "2026-11-25T09:52:02-03:00",
+   "resumen": "Carlos Ponce sobre los créditos productivos: \"Es algo que Mendoza necesita\"    Mendoza Post",
+   "medio": "Mendoza Post",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 5.5,
+   "medios": [
+    "Mendoza Post"
+   ]
+  },
+  {
+   "titulo": "“La gente compra lo justo y lo necesario”: qué está pasando con el consumo en Mendoza",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSG4wSjNPNE4zODRLYXFTN2JHQ1czQ3NqZ0ZuX0tZazN6cENFZlJBaGFDcWRwcFYzYjQ3QjZKRDdWM0l0TDZObjJaaDVGNDVVd20zRGJXaFlDdUhCWlFKY0pfMS1IMnlZR2YxYmhNWHNfNGhlMTF5eTBNUFE1UGdEUWM3U2xIUEVQSFNfellRdmRiS2xvMTQtVks5NkhwbXVUSDRIY1VWZy1Ba21tSkNFMzZ3ellILUNkY3RiMGVxZWJwMWxscVVlWHNnQmFsdWFhNEFxM0JXY3pjU3c4Q2tkLVd5VHU4Y2M?oc=5",
+   "fecha": "2026-11-25T09:16:54-03:00",
+   "resumen": "“La gente compra lo justo y lo necesario”: qué está pasando con el consumo en Mendoza    https://noticiero9.elnueve.com/",
+   "medio": "https://noticiero9.elnueve.com/",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 5.41,
+   "medios": [
+    "https://noticiero9.elnueve.com/"
+   ]
+  },
+  {
+   "titulo": "Presupuesto 2027: Cornejo confía en el poroteo y espera una votación favorable en Diputados",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeEI4V0ZBam9UQ2FncWtpeXJiVXFFSkQ2NnQtdEVmRUhTSV9ySGhhU0ZJb1dOT3NtMkg0SUozc05TY1RhZUo5dk8tY0s3QS00ZWktR2hUTk00dnoxQ0lNSUs3Q1dELXV4cWpETnNqWmxSbDZQWU5ab3pXVmJDXzlmeDdQc3FpNm1oYlNoZW1yVzljcW1IMmR3eXlKSHhKWS1wcjJKMWFTQVVUTDBlLTFsVHdOUVF2YS1JZHgtbW5qYm5PcGVsdWZDR1BKb9IB0AFBVV95cUxNRmhxRzFHZDQ2TTFLd09Xd19DWENLWDc5UjVnS29peGJ0UFZaNVZCdlV4RUNTTXZ0OVIwOFhqV0NlWnhOWms0YWpEcEdPZl9HWVV5ckQxcUs1OU1CNmlRYUl5WVBBSVNZV2ZSSkIzaDlCcy1lWDRlQXVHMmpZaGFnVTZPa0hiQmxVQzIwSm1MZzlIeWY3MEVCVXRYWUNoODFzSWl4S2JmWFhPZWRGWnlxblFYTXpyWG1vX1hZVE14dlZPMDBuVHB1aEVYSHRXT1A2?oc=5",
+   "fecha": "2026-11-25T10:41:00-03:00",
+   "resumen": "Presupuesto 2027: Cornejo confía en el poroteo y espera una votación favorable en Diputados    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 5.4,
+   "medios": [
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "Natalio Mema acompañó la entrega de los Premios a la Innovación y ratificó el impulso a la economía del conocimiento en Mendoza",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNczA3Rnh5Yks3VkdJNDdnX2ZmYkRHTDVpS0NKMC1KSTNpZ3RsWVlXc1J0LVBDU0FiQmsxeXRWZDN3cU1VZ1pCZzhoRUFHLTRyTGxjME1rRXpnTWFZUDhfWHRBR19obnU4VzMxSW55T0xabGJpbG9wX0F4VTBTVDlNdlNJYVR6X0lqNGgtQ05iNmlvdDQwVkViRUhMdkpxbXJKUkduNjRkSUwyOWV3emlkb1Zlei1aX3BVUnZoTTZOQ3BTcVpUTEIwNGxWR0xHcm54amlpUUZ1a0Z4T2VlY1dCOFZmUUwwZm9xUTJFaUVCSQ?oc=5",
+   "fecha": "2026-11-25T14:50:46-03:00",
+   "resumen": "Natalio Mema acompañó la entrega de los Premios a la Innovación y ratificó el impulso a la economía del conocimiento en Mendoza    PRENSA GOBIERNO DE MENDOZA",
+   "medio": "PRENSA GOBIERNO DE MENDOZA",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 5.28,
+   "medios": [
+    "PRENSA GOBIERNO DE MENDOZA"
+   ]
+  },
+  {
+   "titulo": "Caputo aseguró que la economía empezó a recuperarse en septiembre",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUk13UGR0WUtvVVdfWkgxVFhndDV1MVVUVVVxSmdreG5YOFE2dk1EbEVSeFh2YlAxUkV4cUVhTUtmZTRrc3V2RWFCZDlpcjdXR19adjVLdFdHWjVENnZINnN3YTNLd1k0Q2VtMUh0OVlfVkN3N081X0xkRERSQXIwdkdlTjRJUFpnaE1TZ0RKdUF1c2Jvb05XQUwySFVYRnRQZUHSAaIBQVVfeXFMT1JNd1BkdFlLb1VXX1pIMVRYZ3Q1dTFVVFVVcUpna3huWDhRNnZNRGxFUnhYdmJQMVJFeHFFYU1LZmU0a3N1dkVhQmQ5aXI3V0dfWnY1S3RXR1o1RDZ2SDZzd2EzS3dZNENlbTFIdDlZX1ZDdzdPNV9MZEREUkFyMHZHZU40SVBaZ2hNU2dESnVBdXNib29OV0FMMkhVWEZ0UGVB?oc=5",
+   "fecha": "2026-11-25T11:57:00-03:00",
+   "resumen": "Caputo aseguró que la economía empezó a recuperarse en septiembre    Mendoza Post",
+   "medio": "Mendoza Post",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 4.92,
+   "medios": [
+    "Mendoza Post"
+   ]
+  },
+  {
+   "titulo": "Maipú abre las inscripciones para disfrutar de sus natatorios en verano",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWxZVW1zZVYzU3BkOUZKTVZZV194bklFbkxmMXZKWm9jcjlLMU9oSW82RmNoal9TX1QzZFU2X0cweHFpdUxTcVBhYjBoZ3FFa0IzbDdrUXNfZDZWMWRDeDhTYUlGd0hxUG41WkRueGVRM1ZYTDNVUk5OMlU2blJqZmNSZVlOUG9id3F3Z05MT18xcjNsWThaOVZBemRzdw?oc=5",
+   "fecha": "2026-11-25T11:04:00-03:00",
+   "resumen": "Maipú abre las inscripciones para disfrutar de sus natatorios en verano    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.91,
+   "medios": [
+    "Los Andes"
+   ]
+  },
+  {
+   "titulo": "Recesión técnica: qué significa y por qué la economía argentina entró en esta etapa",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbGxhdkNKbXhUVzFJdWxyejJvSzZGQnp4UTV4ZGlSUmkxVkhyR0x2aXNBZ3k2andYMWdwRS13R1RHZzdoLXI5dUhyWlRlLWE4YjdKajFQcmtEM0JnRnh5N29pVV85b2lVUE5HYkNoUndsQkw3Y05XNVp1SXAtUzVOcy1JSDEzVl9nWFNaTGs5ZnlMNGpDOUoyZk1FcnA5T0cxNXlTeTVYMU5HaXpKeVhiSWZlaUhySFh6d3M2RWlOZjBMRDg?oc=5",
+   "fecha": "2026-11-24T17:08:26-03:00",
+   "resumen": "Recesión técnica: qué significa y por qué la economía argentina entró en esta etapa    Diario de Cuyo",
+   "medio": "Diario de Cuyo",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.81,
+   "medios": [
+    "Aire de Santa Fe",
+    "Canal Doce Misiones",
+    "Diario de Cuyo",
+    "Los Andes"
+   ]
+  },
+  {
+   "titulo": "\"Toto\" Caputo le restó importancia a la suba del dólar: \"No me preocupa\"",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2hVamViWUhfci1Ob3hRVDQ5ZHRhMm96UmdJYWJCYjdybW9WRHJpLTBmS3FPMThnYmpxNVBRQXI5akxHVE5VLUV2Q0FreWNHbGNNMUlrWVB1OENFbF94Y2p4YndsUWZQcVFIcW1aajR5SlJpQlM4VXdGWW5hVzZ6M19WZVl0czcyWDVGSkp0eTItdkREeEpEajFqMlV3OFA2empTamJ5c9IBpwFBVV95cUxPU2hVamViWUhfci1Ob3hRVDQ5ZHRhMm96UmdJYWJCYjdybW9WRHJpLTBmS3FPMThnYmpxNVBRQXI5akxHVE5VLUV2Q0FreWNHbGNNMUlrWVB1OENFbF94Y2p4YndsUWZQcVFIcW1aajR5SlJpQlM4VXdGWW5hVzZ6M19WZVl0czcyWDVGSkp0eTItdkREeEpEajFqMlV3OFA2empTamJ5cw?oc=5",
+   "fecha": "2026-11-25T10:42:45-03:00",
+   "resumen": "\"Toto\" Caputo le restó importancia a la suba del dólar: \"No me preocupa\"    Diario Mendoza Today",
+   "medio": "Diario Mendoza Today",
+   "fuente": "Google News Mendoza economía",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "mendoza",
+   "score": 4.76,
    "medios": [
     "Diario Mendoza Today"
    ]
@@ -629,99 +742,104 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 7.44,
+   "score": 4.62,
    "medios": [
     "Diario UNO"
    ]
   },
   {
+   "titulo": "EMAE de septiembre 2026: la hora clave en la que el Indec revelará si Argentina entró o no en \"recesión técnica\"",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUmhaa1ZUb2lBVVZzOVdqdC1Vc0RsZ2Q3bk9JTnNiSU56NUZ2dUxhVVlfV3JPTjV2MVM4eTNzb1U5N2d3WGQweXNPamlURE5UMm1TN1pBdk1Tb2g3NFd4R1Bna1J1UkRjbkJzUUI0WXJhS3FITXFqZ3BmMXJ1RHZzMUlILXZ2MVVtTjZvX1N6eFNsLUhYM2QtcVNMRU9zalB3cVdTdzRBekpwZlB0VnQ2R0dzUGVjYzYxVlRwVE5aODF1WFYtMkVsWVdWYzkxNnVsY2pkTi1HOXNHdlRXU3pfR3ZGbUxMcUVaSjln0gHzAUFVX3lxTFBUUFNBZzFJczFuVlZLU0lZRGdmbExEeERENGFsRXZweFoyblUybHRhWWFLYk4yOVA2eGYyWl9Nai1vNWtUbF9EeFdWTXhUS3lBMnMtLTlSbWtjUVA4T19XZ3prTHFLWnFMaDJZY3kxdHFBRGFEV1RER0FSQjZzaGxXRmplZWtibFp6bERidC1VeGxWbEVHOFZYVkhBZXJ2N2pUNkhKLTgwdzdfOFJrc3M0ajVXdzE4TU9GWTk3SlhSTUtkd3ViUThVNjZoRW9NZ1pqVktEU0N6dTZROS1mYXhzaEc4NTRFUFJybUh3VWw0SE85Zw?oc=5",
+   "fecha": "2026-11-24T10:05:38-03:00",
+   "resumen": "EMAE de septiembre 2026: la hora clave en la que el Indec revelará si Argentina entró o no en \"recesión técnica\"    Diario Río Negro",
+   "medio": "Diario Río Negro",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.5,
+   "medios": [
+    "617 News",
+    "Diario El Sol Mendoza",
+    "Diario Río Negro",
+    "La Nación",
+    "SudOeste BA"
+   ]
+  },
+  {
    "titulo": "El crimen del agricultor: la hipótesis de la fiscalía y las coartadas de los imputados",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajlDREk4ZHptYklKQzJHNXZoajhtcjB6S3N6b01sRFEwb1hpUkk2NU1ySzg2Z1YtZmd5Z1JBUFZrNnREd2VFclRKV2xlQWczODVUMjVSRVJhaTRJdHdzVkhjRVhNOXhiR0lfT3h2LXdOQjYtT2dQcmJPYzFhNzViUUp4U0F1WnAxa3dKZURsckI0eUNNTlI0RjhLWncxMUhQaFJ4MHY4ekVMZVRSS3M2Q2JXbmJUZGtFeFlrWmUtdw?oc=5",
-   "fecha": "2026-11-24T18:04:49-03:00",
+   "fecha": "2026-11-24T20:17:53-03:00",
    "resumen": "El crimen del agricultor: la hipótesis de la fiscalía y las coartadas de los imputados    Diario El Sol Mendoza",
    "medio": "Diario El Sol Mendoza",
    "fuente": "El Sol",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.72,
+   "score": 4.32,
    "medios": [
     "Diario El Sol Mendoza"
    ]
   },
   {
-   "titulo": "Dólar, bonos y acciones: las señales que dejó Wall Street para el mercado argentino",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWFMblQ3eEdJX3J0X3RYQngzQzdXam01NW1jWHJsNFdUazN1dDV3OTlCOXlNWlROMS04NHZjNlpfTmxFVkJ6Rzk5ZnFyMjUwUlIybzJtQi1TWlRlTG1OTVJWSF83dGpZNzctT0RtNHVuV0JETTI4ZzRsUVdRMzRUOVlpNXh3UHQ5cTlXMlFkZXNObVBodmQwamliR0k4ZGJNbUlXSVhOOHMwaXRpeUlaXzZsSdIBuAFBVV95cUxOemNxZ2N2SVZuUmlHOW9aMnVsRXp4a1ZqNlJzZ1dyVXJGd0F0NkwxN3lHOU5QbUM2cC1ZTkVwRW1Xd0R4MlJkV3JuYUtMOE5KcjZxb0xBV0ZQWTljekJjS09lYVVPT01Oa01BaEtTLW82QWF0TVVQdUJiaFJzM2dsMW51eFdnR2dnSTR0SVJySjhWeGR6SXNObk9mVUI1ZDM4WTc1Mm9sbEl1WWxNdVdJRjBTZmU2MjdR?oc=5",
-   "fecha": "2026-11-24T12:00:00-03:00",
-   "resumen": "Dólar, bonos y acciones: las señales que dejó Wall Street para el mercado argentino    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 6.7,
-   "medios": [
-    "Diario Mendoza"
-   ]
-  },
-  {
-   "titulo": "Empresarios y entidades del agro apoyaron el financiamiento previsto en el Presupuesto 2027 de Mendoza",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQckdnUEwxS2puVXJaUFpldVluRnQtUTlOOUhuQ0ZfXzdJcXBYZkpORUZ0Qk1yRGo3TjZ0eWRfa3Z4NEgxcXZ3dmo5dmZRenNRSU8xNXpPUEpnMzJXMy1lSFJEbVI2dlZZOXphZndqa1lUN1hnRHliUzN4Q2RGXy1iOG5JS0pybHZKdlV2TzlyUFVKdHhsako5cFZ0SHJIZ1Y1NWduWUtuZTVCXzFhbDRaR2pXT0F5U3hxUlRzRmpvUzZQMEp4NjB0LUFUWFpsQU4xb1pfWmF3d2ktVlXSAeABQVVfeXFMT1lLTW9PRHdRWTlXbVNSR1g1NHowa3JFN1pCOVc0SkhGejFOdk9ELXg1ck5PU3h4TFFhZG1vcnYzUXlKUUZZeS0ySlI2SFhFNGZDODc2QTlVQ0xFWThvbzFTRmZTdm5QV0ZRX2piY08yMG41MmpqZWlCbDZYVXJnWGlLczlyazJhaVVVYnZBc1NWQzl5Z1dKdjh2Xzdoc250TGFKRTFUZVNPME9IMGNBSzVmNW5Ia29wdWpJZzhMQzdqdWViZUxKakRsYWw4RWNqUk5KeDdCSWxlVWdkZ3VOSlg?oc=5",
-   "fecha": "2026-11-24T12:41:00-03:00",
-   "resumen": "Empresarios y entidades del agro apoyaron el financiamiento previsto en el Presupuesto 2027 de Mendoza    Diario UNO",
-   "medio": "Diario UNO",
-   "fuente": "Diario Uno",
+   "titulo": "Presupuesto 2027: en qué cedió Luis Petri para aprobar el endeudamiento",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGdTVUxBS3FZd1czTU5jZ0N3S3B4LTMwSVpCNTU1cUV3N0JNM3dLbkF5SzUtMHpLc0t1ZTZxZE9DNk5EWWhtd2xrbnoyclpJUENNU2ZQWmJSOUNJMER1elkybi13Mnl0LXU2M0JvQkpBTVRwTk00TGZBV09DbThPNmxKNHBoT1NIUkJQTzVzV3cyRVY4S2RkR2ctMC1rYnJwdTU0?oc=5",
+   "fecha": "2026-11-25T10:00:00-03:00",
+   "resumen": "Presupuesto 2027: en qué cedió Luis Petri para aprobar el endeudamiento    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.59,
+   "score": 4.24,
    "medios": [
-    "Diario UNO"
+    "MDZ Online"
    ]
   },
   {
-   "titulo": "El riesgo país supera los 1.070 puntos y alcanza un nuevo máximo en 2026",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0dtYVFEZUE1czNhemM2clFIc2JLLTZpSEpkSDVzZ0c1OGJHSXFhalNLQU93X2R3OHpiREs1bDVfM01kUFo1MmN1ZXljeWNrNFJtWF9yTGowYjFFeG12UmtWdW9CRzFxc2o3anB0alBrWDFjYlpGYTVLRUdPalhUbGIydEhGTUx2ajlLU1VsQ1QyVE9oRUpxcUFOWjJnVWdiWkoxSmJ6eHU1RWwtYVHSAbMBQVVfeXFMTUlwY1J3UjhEblZFWFJkV1VLd0ZnN1JnNjZDU0k0T3ZDdS1YOVZDYnpWc2FLSk15M3FWajRIWjJCVG5LLUxTQXVWWHIzNlhKQlhLQkVEMnRQejNBUTlUS3ppREhxUVBvUWZ0bkVobEEzcWc1RlhFQ1hhSVQ4d3lwUTlQd25nOVd6RXhWMWxlWnNjVXVLcUVtOEJpSTJYWElTUl9GbHk3RjdJTGQzYWZDTEk0THM?oc=5",
-   "fecha": "2026-11-24T11:14:00-03:00",
-   "resumen": "El riesgo país supera los 1.070 puntos y alcanza un nuevo máximo en 2026    Diario Mendoza",
-   "medio": "Diario Mendoza",
+   "titulo": "Con el riesgo país en 1.035 puntos, el INDEC confirmará si hay recesión técnica",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3VYalZWLS1LbGtIYXNuak9PRFZZZUE2dnFvZkltSmYwYlRxNGhvb250Sy1tN0VYVTRNV2JrQU1JdnRpY0k3MDRPamVnX3BrTE9ZeFdoM2VQQnR6VXZOTmx3Y3d5S21uOXRZX3lzelM1YnNpU3I3dV9qT2ZUNWRrTF9pemZ4Vjk0UzBPUkk1Y0VOSDlnVzFQSnpXWWVoTFlsbnN5YzdGZmhXc0VMWTB1cDJHX3lQa3PSAbABQVVfeXFMTml6OWJUVE9lVFdYUERSNVBLX0VUR0RCYmxySGRpby1uSmpWd0c2LWVxNUJTZVBOcnVyX0plY0VCZThhdk1CWDBrQW1MU1hTNEJPR1FUU3UwTkRvNndtNm9EdE9WZ0dwa1JrX2I0UXZSZnhqUm5ySnZ1YnZ3WElRNkkySWw2MGFscmVjMmJCN2JOVmRCdW9WY2d2Vzh0QlNiN0VuYkVEWVJEX0FQa3VZcUw?oc=5",
+   "fecha": "2026-11-24T07:32:07-03:00",
+   "resumen": "Con el riesgo país en 1.035 puntos, el INDEC confirmará si hay recesión técnica    Diario Mendoza Today",
+   "medio": "Diario Mendoza Today",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.52,
+   "score": 3.82,
    "medios": [
-    "Diario Mendoza"
+    "Diario Mendoza Today"
    ]
   },
   {
-   "titulo": "Ciudad de Mendoza: capacitan a 21 personas en peluquería y barbería para promover el empleo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOelRzTkJfbXluX3d0N3ZnNjBQczJyamZTdHNwV1JTT3B0UzkyMmwzcjNkek5ic1IyRzRySnlqRXQ2XzRwd24zdFNDVUNhU1BURGg4RmlYM29Db3QwZVZxWTluQVRkbjBDVFRNYXVsc1diZ2s1b21Ncy1JWl9qZmFmMEhvTjE1WEFyYVJzYWRDVHo5Q2Z0VS1oWUhKUnp1LVQzd1RkN2ZaTFdZTzg0c0EzNktxb29uYWhUcF8yS1pUUmpLOW9Wb0VTNWhUMzlWQdIB0wFBVV95cUxQejNTbVRSZ0NTYjNUVjdiWk9Xem40VGVVMmJYOXM4ajRiRDYxMmpyUHIyenE0QXJHN0JJSjQ5WExJQ0JvWHJDMmtGcWNjQjBaVmZlUHpnZ1pFeWN4dm93YzBNazBwMzF5UksxX1hQcEFpMFlWSm1nMkdxUHFKVWFIZU9ibWJja3VVWmJMdnRXTy15dFJRWkFUay1NdV9GVUVKSUxGTmhNWnVva2tCajVRU1B4bmwtRUpVeGpFbUdHVVV0UHVMcFVHbmxodFBsMkNGSF9V?oc=5",
-   "fecha": "2026-11-24T19:16:00-03:00",
-   "resumen": "Ciudad de Mendoza: capacitan a 21 personas en peluquería y barbería para promover el empleo    Sitio Andino",
-   "medio": "Sitio Andino",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 6.41,
-   "medios": [
-    "Sitio Andino"
-   ]
-  },
-  {
-   "titulo": "INDEC: las nuevas reglas para usar IA en las estadísticas",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzlISFZnWGZEREcxajAzMDJreUJwWU11bWN6UXhIeVAyOERrWTEzRDZqWDRiaTNXNFk0LWx0SWJOclNOa1RRdUpnWHI5TXFKVnRpVFJKZDJYU2VWZ3ZQNnVJQ1Zwdi1kQVEwVFFNOU4yd2JHTlhUQnotMW9SYzl4dXo1RnAwTEF4M2wycE85ZFRSSnlX0gGaAUFVX3lxTE1keUFoUDQ4V1d5dXVIc3d6U0pqdGM0eWYzdU9yWmdXbUJXV0JwUlNEVVp6dkNzamxtYUJLYTF5WjJMYXMtdzdaQ2ZtcHItcU93WjV1V1UyN1Zxc0R6bXlYTGZOV0Z6c3ZxRTlsNTZDM2dHNTFNTy1DMGp3RWgtUnBMSFc0YW16TWM1VlRJZ2FGYS1ET25La2tudUE?oc=5",
-   "fecha": "2026-11-24T10:43:00-03:00",
-   "resumen": "INDEC: las nuevas reglas para usar IA en las estadísticas    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "DEIE (GN)",
+   "titulo": "El Indec difundirá el dato que definirá si Argentina entró en recesión (mobile)",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHE3aWwwdE9Gc3RVeVhwSi1PTFU0RGh1V0lOcXNPRFRsRW4zME9ha2lGTlVqSkNtM0R4MWFZUTZ6WUk1QV9jYmtqQjd3Q1pmT3U3MmdtX0k2NkxyYUc2NVVUSHkxSDB5X0ZSa0ZLNlR3TmJlNlUwaWJRQ3ljdVNoU1RkZUowM3NlX2haNy1SYWRyN3dGeUU2U0VLMGszcndKVGY1QTZ1TG5WdVM2dkNqQ0JqekZRR2FQNEtWMw?oc=5",
+   "fecha": "2026-11-24T09:42:34-03:00",
+   "resumen": "El Indec difundirá el dato que definirá si Argentina entró en recesión (mobile)    Mendoza 24",
+   "medio": "Mendoza 24",
+   "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.41,
+   "score": 3.66,
    "medios": [
-    "Diario Mendoza"
+    "Diario Junio",
+    "Mendoza 24"
+   ]
+  },
+  {
+   "titulo": "ANSES paga hasta 420.000 pesos anuales a jóvenes sin empleo registrado",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHZGRnZQZzBUSnBmYmFnWTYxUGdGbUdGZzV0VTR6ekMyUmV3cEdHYXBWR1JUWEp1NFNPcGlJaHNiVXViMTRscEhDRGV4Y09IbVdFMjc3LTYzVG9kdjdPYXlDX0dPV2IyM05zUnIwTzRTTTRucnkxYnNpVkxvQUUtVDV3RS1EOW8tNDB3Y3NRd1ctXzc3SWhraFBvclJPTFXSAaQBQVVfeXFMTVFNdVlQZk5ESmM1SFR6SGJSLUFraTNoaDFqQk5KSmw2Z0RMRXFQVFFKU3hOb1J5YmpQaURXcmVyX0tUZHFsTGoyaHJXUjQ0cVlId0ROcEJIcnlpU1J3a0lVSHUwNVZFcVhEV2pLQnQwTmR4ay1SRE1jUlpobk9tdnlUdy1jcFRhZ21pckpoRHZ4eVBZRmNFSWN2LTZXT1RWRm9WWEE?oc=5",
+   "fecha": "2026-11-25T07:37:07-03:00",
+   "resumen": "ANSES paga hasta 420.000 pesos anuales a jóvenes sin empleo registrado    A24.com",
+   "medio": "A24.com",
+   "fuente": "Empleo/SIPA Mendoza (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.57,
+   "medios": [
+    "A24.com"
    ]
   },
   {
@@ -734,69 +852,93 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "mendoza",
-   "score": 6.31,
+   "score": 3.36,
    "medios": [
     "Sitio Andino"
    ]
   },
   {
-   "titulo": "Recesión técnica en Argentina: qué significa y cuáles son sus consecuencias en el empleo y los salarios",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObURRRVFadWdhNVZzTkNQbHJKeVFNTUxkcmtHZnFjZ21aMFJaaS1TZkkyT2xrZDJ2aUotN2haSDNkWHJGbzFidkpCc2tycDgzdVE5VEprS3VhdjZ3T2JqOElsYmJ6dmI1QmlpUXJDcnY0ODA5dXU3N1JuY2NpVTVHVWZ5c05SZFpwd09NemRGdVRjSGNQWTYwMDMteHdfOURPbTh1UGNVYWp2Zm5fa2dtM3NBUmVoWEhYeFk2dWlSNWZGVGNCR0JSbGU3bWQxQWEtYlHSAdcBQVVfeXFMTWhlQ1BRSlpQNjBQVEFiS3Z4bjRYQjNFNzVleFl6bk90eDEwb1oyUWN4WTROSDIzdGlVTnRlSngtb2ItczlfSl8ydzVvanF5WWFqN2lQM282TDI5cC0zcVdwYm5FUXFmUm1qdU9ROTFHcGpMQVFjVjNmdGdyTjN6MDQzZUY3SUZINkxhQXozMlpVR2JhR1VMRFZub1JKM2NGdGV2OEd0VHZrdGZOTnlvSG1naUIzSWw5bFFNQ3pUVXF3S1JPanJfQ0FPUXR6bkRVbDdGd1lLM0E?oc=5",
-   "fecha": "2026-11-24T17:45:50-03:00",
-   "resumen": "Recesión técnica en Argentina: qué significa y cuáles son sus consecuencias en el empleo y los salarios    La Gaceta",
-   "medio": "La Gaceta",
+   "titulo": "Empresarios y entidades del agro apoyaron el financiamiento previsto en el Presupuesto 2027 de Mendoza",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQckdnUEwxS2puVXJaUFpldVluRnQtUTlOOUhuQ0ZfXzdJcXBYZkpORUZ0Qk1yRGo3TjZ0eWRfa3Z4NEgxcXZ3dmo5dmZRenNRSU8xNXpPUEpnMzJXMy1lSFJEbVI2dlZZOXphZndqa1lUN1hnRHliUzN4Q2RGXy1iOG5JS0pybHZKdlV2TzlyUFVKdHhsako5cFZ0SHJIZ1Y1NWduWUtuZTVCXzFhbDRaR2pXT0F5U3hxUlRzRmpvUzZQMEp4NjB0LUFUWFpsQU4xb1pfWmF3d2ktVlXSAeABQVVfeXFMT1lLTW9PRHdRWTlXbVNSR1g1NHowa3JFN1pCOVc0SkhGejFOdk9ELXg1ck5PU3h4TFFhZG1vcnYzUXlKUUZZeS0ySlI2SFhFNGZDODc2QTlVQ0xFWThvbzFTRmZTdm5QV0ZRX2piY08yMG41MmpqZWlCbDZYVXJnWGlLczlyazJhaVVVYnZBc1NWQzl5Z1dKdjh2Xzdoc250TGFKRTFUZVNPME9IMGNBSzVmNW5Ia29wdWpJZzhMQzdqdWViZUxKakRsYWw4RWNqUk5KeDdCSWxlVWdkZ3VOSlg?oc=5",
+   "fecha": "2026-11-24T12:41:00-03:00",
+   "resumen": "Empresarios y entidades del agro apoyaron el financiamiento previsto en el Presupuesto 2027 de Mendoza    Diario UNO",
+   "medio": "Diario UNO",
+   "fuente": "Diario Uno",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.33,
+   "medios": [
+    "Diario UNO"
+   ]
+  },
+  {
+   "titulo": "INDEC: las nuevas reglas para usar IA en las estadísticas",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzlISFZnWGZEREcxajAzMDJreUJwWU11bWN6UXhIeVAyOERrWTEzRDZqWDRiaTNXNFk0LWx0SWJOclNOa1RRdUpnWHI5TXFKVnRpVFJKZDJYU2VWZ3ZQNnVJQ1Zwdi1kQVEwVFFNOU4yd2JHTlhUQnotMW9SYzl4dXo1RnAwTEF4M2wycE85ZFRSSnlX0gGaAUFVX3lxTE1keUFoUDQ4V1d5dXVIc3d6U0pqdGM0eWYzdU9yWmdXbUJXV0JwUlNEVVp6dkNzamxtYUJLYTF5WjJMYXMtdzdaQ2ZtcHItcU93WjV1V1UyN1Zxc0R6bXlYTGZOV0Z6c3ZxRTlsNTZDM2dHNTFNTy1DMGp3RWgtUnBMSFc0YW16TWM1VlRJZ2FGYS1ET25La2tudUE?oc=5",
+   "fecha": "2026-11-24T10:43:00-03:00",
+   "resumen": "INDEC: las nuevas reglas para usar IA en las estadísticas    Diario Mendoza",
+   "medio": "Diario Mendoza",
+   "fuente": "DEIE (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 3.02,
+   "medios": [
+    "Diario Mendoza"
+   ]
+  },
+  {
+   "titulo": "¿Entra Argentina en recesión técnica? El dato del INDEC que se conoce hoy",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTURHR1lmS1F5aE9rMjV0b2ktUGpia0t2bmJ4R2tUSllvalR5b3VleEpIckNRdDZkR2xWT096M25ac2t6MmE3VVVGQVQ0ZlRfQlc3aHJxcTBJQVNaRWhZZW5TRldEVkl0bWF5WGVma0FqdVBudXVqQ1FFY3c0VGZPZFdNMzVrVjZRRWtIR0ZRUHpMSWdsV2VnMWxYLVlodnJDMVdhYXJ5dnpNYm1lRG80?oc=5",
+   "fecha": "2026-11-24T11:46:37-03:00",
+   "resumen": "¿Entra Argentina en recesión técnica? El dato del INDEC que se conoce hoy    Ciudadano News",
+   "medio": "Ciudadano News",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 6.15,
+   "score": 3.01,
    "medios": [
-    "La Gaceta"
+    "Ciudadano News",
+    "DataChaco",
+    "Diario El Sol Mendoza",
+    "El Argentino Diario",
+    "El Diario de Carlos Paz",
+    "La Voz de Jujuy",
+    "Perfil",
+    "Todo Jujuy",
+    "iProfesional"
    ]
   },
   {
-   "titulo": "Carlos Ponce sobre los créditos productivos: \"Es algo que Mendoza necesita\"",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdThBUFdDS1ZqaG1HcmM5bi1MRjdCUVl0SlJBZUFIR0JjQXB5RS0tdm80c3FPR0F0VDBCeDBtVEk3U2lFNFFDSDhXVkxwVXBHVUVzdklVcWRLR2EzUW1VbnA3a2FDbHZjUUFYbjIzaWJRZkNXTDBUUHlBMjI1UC1RcGR0OE84U1hxd2phQzRuU09aVzV1ZVZKbGp2LU1LNjFnSlFxY1FRTy1EQUw4a0NZ0gGvAUFVX3lxTFB1OEFQV0NLVmpobUdyYzluLUxGN0JRWXRKUkFlQUhHQmNBcHlFLS12bzRzcU9HQXRUMEJ4MG1USTdTaUU0UUNIOFdWTHBVcEdVRXN2SVVxZEtHYTNRbVVucDdrYUNsdmNRQVhuMjNpYlFmQ1dMMFRQeUEyMjVQLVFwZHQ4TzhTWHF3amFDNG5TT1pXNXVlVkpsanYtTUs2MWdKUXFjUVFPLURBTDhrQ1k?oc=5",
-   "fecha": "2026-11-24T21:52:01-03:00",
-   "resumen": "Carlos Ponce sobre los créditos productivos: \"Es algo que Mendoza necesita\"    Mendoza Post",
-   "medio": "Mendoza Post",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
+   "titulo": "Aprovecharon el fin de semana largo y se llevaron dólares, joyas y un arma de un barrio privado en Maipú",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFdhOWVDdmY1Y01NZkdqMzl6QWtXeDIyX2Z3Wkw2YklRYV9KT0FSS1BOc2dXeFZmNUUwUWNXajd1bWdUNTYzZ2VRMnJVVW1Yd2RqYURiOVNTa0s5cFRxNURKM2hrREtrcnhqa2xuR1FxX19yM2NWZ2VNOXJOTjVZUG15TEFmelk1RUFmdnNKSE9PZEZOYm9EQnFJUmNGN09xekhiMS12STN4YndIeWt0bWF5LXlEd2Zua3I0dktFWkVIVEhtcXVNcDBzWUVpMk1CN0otcFlOeFhzdw?oc=5",
+   "fecha": "2026-11-25T12:41:00-03:00",
+   "resumen": "Aprovecharon el fin de semana largo y se llevaron dólares, joyas y un arma de un barrio privado en Maipú    Los Andes",
+   "medio": "Los Andes",
+   "fuente": "Los Andes (GN)",
+   "categoria": "local",
+   "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 5.95,
+   "score": 2.85,
    "medios": [
-    "Mendoza Post"
+    "Los Andes"
    ]
   },
   {
-   "titulo": "El riesgo país se fue por las nubes y el dólar oficial alcanzó los $1615",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2tNUnA2T2IwVWRaU1pPdlZIQWxNbndtM3VZNkJYVnoyRGRVZkZITnRFQUFGakpEYzhaSjJSekliT1pIMUo3OUVOcHhWcWphc0Z3VFZYR0U2OEpjWkxHX2ZRMk83NEM3YWtQVF9lQTF5UkNNcEsxU2pOZ3YtaDcwUG1aV2hYWlNjd2lKdnNienVGWVY1V3ZCUkVyb0NBTHN6aVBpdWhRbFN2OThOVXfSAacBQVVfeXFMT3Z1QnFaTXItZHctRzY5d3JIM3dVaWhOQk1idzlGWDJTQURyWFFjeEo0OE1PM1dibGtlSzR5VmVZREtfTUFlYmRjbi16UlN4OGUyWEt3RnZLTjFWWXFReHRXX1cwQjYyN0psQzEwSU1KR3NIQUIyMHRSNGpZWE5FS0pkbThaLUpIRWhzMDFESnozOEl6UTZaZm1hXzVGYTR0amg3cGtieGM?oc=5",
-   "fecha": "2026-11-24T15:29:52-03:00",
-   "resumen": "El riesgo país se fue por las nubes y el dólar oficial alcanzó los $1615    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
+   "titulo": "Riesgo país al rojo: dos Argentinas distintas y el mayor temor que tiene el mercado",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDN6V1M4WHBFZDhjWGNscFJhRUxGdUhNWWVTYWpMRHJPakpfbjd4aTd1S3BUVk5PM1lkbUV2NnhvdERMWkplVnBoQlhQVkppQ053M3ZHb2o0eVh4dXR5cFhNMllSZlQtb2ZTWmU4dUhZVHlaYWV3MW9ReWIxRDhiZHN5M2dzWEVndUNGMUg1NFpTMHh3SG5tWDc0aFhNcW1ScW1zb09nbzJBbUxxdFlsVWJUTWNLcVRsRjcxdE5xcVlFaG5YSzhVQjk4WGx4WVBfZ2Fv?oc=5",
+   "fecha": "2026-11-25T12:22:46-03:00",
+   "resumen": "Riesgo país al rojo: dos Argentinas distintas y el mayor temor que tiene el mercado    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 5.76,
+   "score": 2.82,
    "medios": [
-    "Diario Mendoza Today"
-   ]
-  },
-  {
-   "titulo": "Día del Vino Argentino: por qué se brinda cada 24 de noviembre",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0dkZHZJV3czVGR6OW15OG4xcW5Wb2ZFRWRQclo0Tm5xRHFfOWRKaG5XN05Rc1ZvRk8xSmZ3NTk5dzVCNUFuLWJzd1pfVXpIOFo0bjZDRkpCSGg0ZVFENmpVMEJCaUxWLTFFWXFiSDdkX0hjRFZycFhNRWtHai1hZTFKZWtDUFBJbkxSclVHSVZITW5mRmFvc9IBngFBVV95cUxPV1ZyOFgxeDdJYzMtQl9pVWozSkhYTjRKdGVyUzNRaUNiZnZabmVKck5Ea1J0NDNBMjN1UmpWcElUeGdleDU2SVlmMWpmVkxEV210MEpDWEhfZHBVd19nQjVQTVFwcnhIZ1p4V2pCdGUwcDc3b3N4WDJLeDBTaVkyQUU1V1FtbW5Nd1Y5NWRZbVdNektKR09QSE1NcnphZw?oc=5",
-   "fecha": "2026-11-24T19:32:00-03:00",
-   "resumen": "Día del Vino Argentino: por qué se brinda cada 24 de noviembre    Diario Mendoza",
-   "medio": "Diario Mendoza",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 5.6,
-   "medios": [
-    "Diario Mendoza"
+    "MDZ Online",
+    "Página|12"
    ]
   },
   {
@@ -809,24 +951,61 @@
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 5.57,
+   "score": 2.75,
    "medios": [
     "Diario El Sol Mendoza"
    ]
   },
   {
-   "titulo": "Dólar hoy: sube a $1.615 y el riesgo país crece a 1.108 puntos",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjYyQVdCSVpORmVLRi1obUV1dW9LNk9rdXRWVUNGOXNKczlveEJlN1dST0lGaF9YbzNqNG1xVFJlT3dya2ZmdEFWcVhZUnBpaDh2S054bVBNdG5Nd2owRFotbmhpTU8yekJia0U2UktMTE9ZMWRyYjNyTTAxRHZlVjh6dTZrTzV3YURiUzZvQnpuWi1UNV9wRmh3emVwOTVVRVE?oc=5",
-   "fecha": "2026-11-24T13:20:00-03:00",
-   "resumen": "Dólar hoy: sube a $1.615 y el riesgo país crece a 1.108 puntos    Los Andes",
+   "titulo": "Sin créditos hipotecarios, hasta los que más tienen quedan afuera de la casa propia",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnY3cEstcmFGWm1hNUNuN2pWN3p4RlozanZFdWpGV1J6Ylk2ei1Rb0w2cTF1a0Z1c00tbTJPUmZoNUZmY0J3a21MNm00ZTN3ZFV0NVBlWGVSYlIxN2I0dGZIQkFLbEVVdkZhZHFmcE1EY2pWaXZrYWplNXlpa3hjVU5OXzFadlFZU2tNY0NJNnJPamJUc2pkNWtYMnRMX1hWU1A0cUpQc0tjTW5qeDRpNzNtVEl4aVMyZ0s0?oc=5",
+   "fecha": "2026-11-25T15:24:00-03:00",
+   "resumen": "Sin créditos hipotecarios, hasta los que más tienen quedan afuera de la casa propia    Los Andes",
    "medio": "Los Andes",
    "fuente": "Los Andes (GN)",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 5.38,
+   "score": 2.43,
    "medios": [
+    "Los Andes"
+   ]
+  },
+  {
+   "titulo": "Las universidades denuncian que si este jueves se aprueba el Presupuesto 2027, no podrán funcionar el próximo año",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQkh1VXNDQmVpTGVTUVBTUG96VlpIUE9LckNWWGprTkxMclFMbGVCVlpZaUMzMFlDMlI3UllKOHowaUF6UWN6ZHk3N2FMcjRKX0x3eF9XWDlXQ1FjcGZHNjEzeGRRdzhBRHZLQTNrWjdOdUZCVTh3WG53aGkwRzhTdEZUdW1EU2Njb2xMaXhRdFNtUjRkQkRlMm95LWNsWmRvYTZxMGhPbTRqa3owMUdaMHRPRkI5bzdMaEpBWnk0TXJ4MXl0SUsyVG1LcmR2RXg3TkxZc29Ma3NPdDdEaFlGaW1ZWnB3M3VvZEpwUWNoNHZZQ3ktZFZqcVBzQQ?oc=5",
+   "fecha": "2026-11-25T13:16:49-03:00",
+   "resumen": "Las universidades denuncian que si este jueves se aprueba el Presupuesto 2027, no podrán funcionar el próximo año    MDZ Online",
+   "medio": "MDZ Online",
+   "fuente": "MDZ",
+   "categoria": "local",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 2.31,
+   "medios": [
+    "MDZ Online"
+   ]
+  }
+ ],
+ "candidatas_argentina": [
+  {
+   "titulo": "En máximos del año, el riesgo país a 1.094 y el dólar oficial en $1.615",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd2FwVU1CeDBYYkExb2xRS25XdU41MFhIOUc1R0tEcDdZR1JDY1RudS04cGt1c3V1YnBJOXJLSHMxWUg0UHRCbzVxaktVLTkyc051S29XdzVSMzMwdDRTaWU3UTJpSXJLeDgyVHNCWU9NS3NHRERDUk5BdWQ2UFpXQjV0enZFSzA3SmU5aElkUzcxdkRxOWxpa3lJaGxOY0FlUWEyT09yaExaazhteGRSWGlUTGdVVGZpNG1nNTE5Y1UwY09GUWFUVWVPZGVJcVhoTXhJSl9WWWNoZlhHbXF0Mi1RZkFzN1lvSEg1M19qbVV0T0g3REZYdzI5ZmJjbk9F?oc=5",
+   "fecha": "2026-11-25T02:50:00-03:00",
+   "resumen": "En máximos del año, el riesgo país a 1.094 y el dólar oficial en $1.615    Diario El Día de La Plata",
+   "medio": "Diario El Día de La Plata",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 14.13,
+   "medios": [
+    "Cadena 3 Argentina",
+    "Canal Doce Misiones",
+    "Canal26",
+    "Diario El Día de La Plata",
     "Diario UNO",
+    "EL PAÍS Uruguay",
     "Infobae",
     "La Nación",
     "Los Andes",
@@ -834,235 +1013,38 @@
    ]
   },
   {
-   "titulo": "La economía argentina entró en recesión técnica tras dos trimestres negativos: qué factores impactaron",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNJQmhYcVhhZUdNMkhKdDZERXlQMXBfSHpVYkRUaUU3ay1jVXhkdGNOa2lEdGZfcHFzOHJEX0dQUGxDWjRTZ0xNeHgwMWllYzZaV2ZuR0xjc1R5XzVVb2NnRzZQazlRVWxOVl9sdHFtck5waDZncEVRZlZuZjdWOGFkZEJsWk1jakVpVjBhYjhmX1F1cTFCbWFET2QyREZUZFo4WWNiZzRXLTUzYm9yVXhDc2ZpMnY2RngyZXFUVzBwdjhsaDR3UQ?oc=5",
-   "fecha": "2026-11-24T22:29:01-03:00",
-   "resumen": "La economía argentina entró en recesión técnica tras dos trimestres negativos: qué factores impactaron    Dos Florines",
-   "medio": "Dos Florines",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 4.88,
-   "medios": [
-    "Ceres Ciudad .com",
-    "Diario El Día de La Plata",
-    "Dos Florines",
-    "El Tribuno",
-    "Infobae",
-    "LU9 | Mar del Plata",
-    "La Gaceta",
-    "NEA HOY",
-    "Página|12",
-    "Rosario Finanzas",
-    "Telégrafo"
-   ]
-  },
-  {
-   "titulo": "Crece la morosidad en fintech, comercios y tarjetas no bancarias",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG50d0FtRXhSVENnR3FEODFYM3hEU0laSU1Ka3F0ekxNaDVvU2FUaEU1bGE3YW5WeF9UNnE4QUVSM3VRLXYxejB6RFVDQ19ydVBGLTBHakxzb0dIVEtidEdZQ1JKSUUzU0l3elAwYmVISlJJYWxlem5KMm5WWUthbmNwamhVU1VnVEJIOWpNZGNJRkN2WVNEYzViLWp4VFk2S05z0gGcAUFVX3lxTE5XajRiNk40VkFvek1tZ1JWWTFVN2E3ekcwdm1KUjg1QlVsMFZtUnh3QU9QWXZWeU91T185VG9NNkdtNkQyRFpvdWtEYzBLMHRfOFc2VXNMN2FKcTJSMFRRZjJBTklITlZWQjkyNnJGcjkyQjVTU25mMzNRSnRBWVR4NVQzQnNoMzRNZTBNR0F1Y280LTJ2Q2tmNGFXaw?oc=5",
-   "fecha": "2026-11-24T07:38:51-03:00",
-   "resumen": "Crece la morosidad en fintech, comercios y tarjetas no bancarias    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 4.83,
-   "medios": [
-    "Diario Mendoza Today"
-   ]
-  },
-  {
-   "titulo": "AGP Servicios TI consolida su crecimiento regional y apuesta por la transformación digital de la minería desde Cuyo",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTdLUkFjNldsaC02bnZsWnZvQlpmNno2YVlQbGptYnpzS3lNTW5IRldzb1BrbzNhSk0xMThyQmhVTWlDUW0yNWJxbHE2VnhwNkMtN3hFRk10ZnByME5SXzJyTGtfc0FsSVpOOEFaT1Q5QlgtY3A2X2FQVXAyb09oZXFoU1ZRemhZWkFXTDhzbjB4eWJoSzBzTUdSMFhnRUJySGVqLXk4ZkV4cUxnQm95SHlqM2xUQURPZEtSQ1NEY0tTZWVKcUpDUVYzVXhueWd0dFoxWS1XRmRReGRiWlJ6XzhkYzIybndVZzJzZlc0dDM?oc=5",
-   "fecha": "2026-11-24T07:57:00-03:00",
-   "resumen": "AGP Servicios TI consolida su crecimiento regional y apuesta por la transformación digital de la minería desde Cuyo    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 4.45,
-   "medios": [
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "Últimos días para regularizar las tasas municipales y de comercio en Guaymallén, con un 60% de descuento en intereses por mora",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTWlQZGNvTVVpblJlRnppR05MSnFZQ2cwVW5vSzVGV0xKTm9LVmtCRnRXMHkzTGZSbXNfdEVsQ2ZLNy1paTgyR0dCUENPMkZNYmstOVdXaDN1UVdpci1nOWgwaURKajkyb01Da3hpd2JqZ1lCOTM3anhoOTV4VUZoeXMwX0d6dnlLeFd3X0NWemZXZTdMMkljejE1YVdTOWlRV0w0NEdCR3Z6WEtzbmNaSzJWREVPS1c4Z0QyZFN1b21tai1kcVg4Ty1OZzh4RHg0Ymc?oc=5",
-   "fecha": "2026-11-24T11:41:00-03:00",
-   "resumen": "Últimos días para regularizar las tasas municipales y de comercio en Guaymallén, con un 60% de descuento en intereses por mora    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 4.25,
-   "medios": [
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "La industria metalúrgica opera al 41,8% de su capacidad y no logra recuperarse",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2xXeURlcHJmaWYwQnU0ejFlTGw3M1RpSDFRR20yckxieThEOWREa19nQjkxX0NMSFQ1ZDVyRE5CMVVKSTF1YWFURUxYZjBQQ2pnQmFlZUFQQkVVc2x5aXUwUkNyVklySjJJMU40OGhacllnMlFKV3dFeTNySEpISVdoeTNQckRvOGNfT1VkTHZralNLeENuTTViekNQYlVhWE1LSDJUTGZXeUhwaV93OVQyOWxIZ9IBrwFBVV95cUxPVVhyZUtPRDlyVUhrRGRIaFdhOWx2ZHZScFlRQlVPYlZqVTZ0MUcybXAxOEFMUHdhVzJFaXotMzRkdi05N3ViOHRZYjJIS2wxaC0xV0lwWnQ4Z3hibldLdF9pejd2VUFrN3hDenR0OTNmX3dKQWpPYURzNXhLTFA4TGR4LUdaSjVNdVZlWGVZMC0ya2ZGSE1SSlRZSjhGWmJXclV6MVlwclRWZktZNzJF?oc=5",
-   "fecha": "2026-11-24T07:46:29-03:00",
-   "resumen": "La industria metalúrgica opera al 41,8% de su capacidad y no logra recuperarse    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "Google News Mendoza economía",
+   "titulo": "Más crecimiento y más inflación en EEUU: el PIB subió a 4,3% y los precios igualan su máximo de tres años",
+   "url": "https://www.infobae.com/estados-unidos/2026/11/25/la-inflacion-que-mira-la-reserva-federal-subio-a-38-en-octubre-su-nivel-mas-alto-en-tres-anos/",
+   "fecha": "2026-11-25T11:13:27-03:00",
+   "resumen": "El Departamento de Comercio revisó con fuerza al alza su estimación inicial de 3,4%, por mayor gasto de los hogares e inversiones más altas. El índice de precios de gastos de consumo personal (PCE), el preferido del banco central, subió 3,8% interanual en octubre e igualó el máximo de mayo",
+   "medio": "Infobae",
+   "fuente": "Infobae",
    "categoria": "nacional",
    "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 3.83,
+   "alcance": "nacional",
+   "score": 10.52,
    "medios": [
-    "Diario Mendoza Today"
+    "Infobae"
    ]
   },
   {
-   "titulo": "El Gobierno sostiene que ahorra US$ 3.491 millones al año por el recorte en empleo público",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXF1UDl1T3hTTW9xc0puTHE2VFpCX3Vkdk4tVzZFTG16WGtlZGRBM2hTYm5qWHJtQml2U3AzX0kwZ0JVcDRnS1ZOYXRJbXRuRThzdkotVzdZRGxPV1doOGRUWW53TDFvMzZHQV84UlhaUXQwZnNxSi00STBadXdJX1A2TUViZWdlVm1wM0Y0QzFGUlN0V1dXTkgyUFREejFDeWNRUUM5VEhVaXF4UHRiV1VsZURXVzdxbVBveFVhdkQ4SU9MRmc?oc=5",
-   "fecha": "2026-11-24T15:00:00-03:00",
-   "resumen": "El Gobierno sostiene que ahorra US$ 3.491 millones al año por el recorte en empleo público    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.54,
-   "medios": [
-    "Clarin.com",
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "Datos oficiales del Indec: la inflación de octubre fue del 2,2% y acumuló un 26,3% en los primeros diez meses del año",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01TDVwZkZQSmR1eFJHcV90TGNGLWRTYVpNY3hCQVRzM0VtLWFnZ0lyb0xwWFJjTnZpdlg5OG44Z2FhajFZQTNYSmZSeThVN19qbGFneGVXYTAwRzZaTWU1UVROMU9OUWc?oc=5",
-   "fecha": "2026-11-24T02:00:16-03:00",
-   "resumen": "Datos oficiales del Indec: la inflación de octubre fue del 2,2% y acumuló un 26,3% en los primeros diez meses del año    HOY ROJAS",
-   "medio": "HOY ROJAS",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.42,
-   "medios": [
-    "HOY ROJAS"
-   ]
-  },
-  {
-   "titulo": "Minería: la oportunidad existe, la confianza hay que construirla",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTJyWHhIMUhvVU41N01YOWkzUTdLUlhITGNJVUhoV1M4Z0wwclc4Y3ZEcUQzNTNrbHcxRlpOdHhQeWZHMDZNVVdvTTIxdTF3d2Z3N19HRjRDckg5WEI2RTdYOTVQdlhUa3o1bDN3dXIyVl9GUXZuU0h5V0NJX2Q1M1NDel9hNkhPdmUxaUVXcXoyeUZfcGNPN0NQTUxlWFBWaTduTmFyMlRTOTFa0gGyAUFVX3lxTFBNV0tScFNFbzJhNHNramN6dlliancwY2NTd0k3dnRWb0pxejJ3eUNIOFNzQWc4ZVRxeUtWaEpBbGlXc01sdXdLNWJPcUtiZkN3Z0k0QnBacWZrUDNKbkQ5UXQ4c0FZVmxlMFBFWDEteS1HOUJOamt3YjhTNW91V0t0OWx4NHMzS2RXZ0hld291TkJlT2E2bFhocmc1N0J1RV81QzJVSzQyMlJFaGVsQnBGSXc?oc=5",
-   "fecha": "2026-11-24T20:21:00-03:00",
-   "resumen": "Minería: la oportunidad existe, la confianza hay que construirla    Diario UNO",
+   "titulo": "Luis Caputo minimizó la suba del dólar y aseguró que no se trasladará a precios",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3VfdmNDa1BEN2hKcTNJVWNzbmtpM2ZQX25KbzF0MW5ZVnZWS2FRcWpHamVQaHY3TDJZWkhJdVEtV3lsYVZYUDl1dVBrelZqREpUSlpKTXlUbkl1RHJBSDRHY0ZlMnhpVGhBRF9uZ3BRLVVmalBKU1NHMVg5N3I1ZFRGbEJGQ0wwMi1wWjk3Z0ctSWZ5SUpyWUZPMUh2X2VMZXZaX2JhYlhhQjlmRDFFTjJmVzZHYllYOEZaSXBXUlotUdIBxwFBVV95cUxPUWxiZi0xUHBYNE1EV0lZbVE4QzRmMmM2aldLNjVDRnREaEF2eUdfM0F3ZFRsSU9iUWtIajM4TWhib3hWeTJEZE1fVk1nSURiTU5BdnlEN2d6OHdYa19MaURxQUY5NXF1TnZyS2d3LVFJTW8zSWNBZjRpRXVVMVRDa0ZLLUNDUU5QVEE1Z3hISjJCbXlKS1puc0Q1dTFXZWo4aE5tMkF2TXFqMC1HalZyWEtNZ0hNRzZPQ2lpNEJwOWViaEVRWWYw?oc=5",
+   "fecha": "2026-11-25T10:21:00-03:00",
+   "resumen": "Luis Caputo minimizó la suba del dólar y aseguró que no se trasladará a precios    Diario UNO",
    "medio": "Diario UNO",
    "fuente": "Diario Uno",
    "categoria": "local",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 3.3,
+   "score": 9.64,
    "medios": [
-    "Diario UNO"
-   ]
-  },
-  {
-   "titulo": "Vaca Muerta: YPF presentó un proyecto al RIGI de US$ 11.688 millones, alcanzando 80.000 barriles diarios",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVpla0pRbnplOVFkR2wwOXEybmtRUy1ncDVta0JheXRQdk84UlFnM1JjMlY1ZTVEdEZQUDFjb0QzaTZCMjlkQXdxWkQyajVranRmcjdfbE0yTWI4eTUwOXNSN3JtZ3FDNkYzdnREejJtajB6M2JzMWlpakNBT29QY180aHhVUjBndklULXRoMmZsa3dyeGlpOWR3cU5ZaHRXM2FtMThqb2czV0xKQTFQQVR0UTZJbkpFWFhVV2lpQXhuZVdHOHJ5bmdNV0wyNjdYNV9YTmF5X09SQQ?oc=5",
-   "fecha": "2026-11-24T19:56:00-03:00",
-   "resumen": "Vaca Muerta: YPF presentó un proyecto al RIGI de US$ 11.688 millones, alcanzando 80.000 barriles diarios    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.26,
-   "medios": [
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "YPF y Chevron presentaron un proyecto para el RIGI en Vaca Muerta por casi U$S12.000 millones",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2pWYUlSbk9QNXdrX3dqTnNGV3lWYmNlQzk5VEtKSEE4Rmk1UVFoUlZjYmpFazFOdldSSnJwdHZmd1FxdmtoamJLR2g3dV84a3N0bUswbWN1MTNwNWh1NlV5RjJkODV1OE1mcXNMYmRKMXpESzhHZGVKZkluTmpCcFpnRzVzN0V1eUtCTU8wODcyU01qRHplV0M0RDBDRVdTbEJ3SW9qMHgxMl9yb0d5SzNUb0RzbnJJRnVJV1lvSTFPbFNm0gHKAUFVX3lxTE4wWENBeG1OLXh5X0pIMkpZVzF4dmQ1SXltclJFUGFUcUJZX3JPeVB3UEhqVGdoZU9aQno5UjBRUjU1N20tT3BUbkpQRER5aVpRekxWQzNQQjJoc1dHbWV5SUFidDNwM3dGZ081ZHMwZnF6cjM2N3pZdWxXQ0dFOVMxWmJpRm1kQnlINFFDZ0JuVko1MXEzQlNIRDFKa3RSbXlrQy14VHljSENGWnhxTGRmSnplOWo5V3k4UWVVX005WDhwWEJHWG91QVE?oc=5",
-   "fecha": "2026-11-24T19:28:00-03:00",
-   "resumen": "YPF y Chevron presentaron un proyecto para el RIGI en Vaca Muerta por casi U$S12.000 millones    Diario UNO",
-   "medio": "Diario UNO",
-   "fuente": "Diario Uno",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.22,
-   "medios": [
-    "Diario UNO"
-   ]
-  },
-  {
-   "titulo": "El turismo en Mendoza cerró el fin de semana largo con un 72,68% de ocupación",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazg0WElyRHRnTW1HZmljQU9DMUtaVDhOOFNsWk1rZm5OMWZGQnk3Tzhra2F3TmM3Y2pfY0x2bGhBcHV1d3Z0UjluMEdibzBXVUp5eGprMm9GNEFZS1VyTGZ6SzU3NTB3cURmNHhlMmlpWWZKZXBVQmU4TXFFSndlV2pELTBQcTR6R21yTkc2WUQtS191TkdRaVdTbVEydFAwWGljdkZ0YmZCZHg2RXRIb0owWXnSAa4BQVVfeXFMT3F4WWxvLWdjR3JVMkxzQjF4ZWR4NkFKa0hNaThBWlI3Rkc1d0x6aC1xY0YzYnFTZUUzdnhoRDljVFdBU3N3MnNrUDE4RTU4cHpOb0pSMExSU0hNbFU1dVp1aEh0c0pGbmR0X2wzcVc2NWdnWlctLXl1eC14SUlJX3BvMW5RLV9WMFBFWEhwenRvYTk4OEg5U1lnaHBaUklFTlNobnRsZVZaVkRiWHpR?oc=5",
-   "fecha": "2026-11-24T06:55:23-03:00",
-   "resumen": "El turismo en Mendoza cerró el fin de semana largo con un 72,68% de ocupación    Diario Mendoza Today",
-   "medio": "Diario Mendoza Today",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 3.13,
-   "medios": [
-    "Diario Mendoza Today"
-   ]
-  },
-  {
-   "titulo": "Industria metalúrgica: Mendoza registró una nueva caída en octubre",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlJSX0tNN2lTV0N4TldQRXBrbW9BS1B5WFNZMmkzZGRweEcyZG5pMXgxV1B0T0NmbFZsV0YtYVRMYnFKeEFJb2MxUmVoTTZYUGw0SjNyOUVubUV4akJiZVJVX0pQaWRPTlZVYVpkNnVmZWxyNXc0MU5pT1ZwblA2d1RZTTF2Qm9lYU14amsxSzE3RjNpM0IxNFZIZUw1YTlM?oc=5",
-   "fecha": "2026-11-23T20:56:15-03:00",
-   "resumen": "Industria metalúrgica: Mendoza registró una nueva caída en octubre    Diario El Sol Mendoza",
-   "medio": "Diario El Sol Mendoza",
-   "fuente": "El Sol",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 2.75,
-   "medios": [
-    "Diario El Sol Mendoza"
-   ]
-  },
-  {
-   "titulo": "San Juan, Mendoza y Jujuy crearon una región minera del cobre",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSklaUUp0d2dDazk1RmJnaVlCWmdFcldPSGpubmd0LW1UT0VhNFg5TGNVVHR5X2w3X3RpU0p6ck1LWk0zWG94LThaOEt6NWMyb1YzcDhSQWdDR1FuUUlMb2FGQW9iaFd0ZUpTbFBSM2pZUDRTVVlOeEgwX0V2VnRYTUZ5alo2aXM2dmhtdzZyYmlVdThWWWlMWVlmSS1RMDJDSnVLVGRKaw?oc=5",
-   "fecha": "2026-11-23T19:41:15-03:00",
-   "resumen": "San Juan, Mendoza y Jujuy crearon una región minera del cobre    El Zonda",
-   "medio": "El Zonda",
-   "fuente": "Google News Mendoza economía",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "mendoza",
-   "score": 2.51,
-   "medios": [
-    "El Zonda",
-    "TeleSol Diario"
-   ]
-  }
- ],
- "candidatas_argentina": [
-  {
-   "titulo": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNajRud3A3X1FLLUYwNXZDN1NyUlBFRXZPUGNSazdfM29MMWFtTnJndGJLTXZGdi1GWnM0Z3dic3huMFVoSEdtVTRTM05XMmhieW0tQ2l5Y0ZodEo1WU5pbjRGOHNtN0p4LUZvYVNiN09xNWdnM1dfZjJBWDhWVmRBZjl2MjQwTTc3VWRBbXpaVTdEX2pRMnF5RzVSczFaRXFGTWdJT01OLWwzenJrcEJEXzZkLVFvRWg5aEI4ejNFeERqaF95SzVRdktjVlZXdWZmbFQ5ZElFRURscWNwSlppT2lzZndCLVlmbnZxS09B0gH2AUFVX3lxTE91b1N3TVowNmh6a3NEb2hSd0dYMlAtMW5uQ2RzU1M5MkR6MlpHQy11SHVFRjJIcUxSaFRTQUxpSXVrNWlCWGtwQ0pQT01LdHVPWGRTblBwYmxWMUZLSTRSRHZma1Z0WW9LVDNJb09PcS1LQlBvNGhfY29aRFAzX0VCeXAyTUV1Q3dTbnR6Tjl1bThoUXpoaDFtdkJxR05HZDNFSWlFU0pLTjF4Ulo5aHAtTDVpZ1JYYnhaNEpybUh6QlJBaGowLTFRQ2d6MHZtVjJ2emJpVUVldjhBbndZRWNKbU5jcGNWZ2ZMMlhiUGtZMHZWLWxlQQ?oc=5",
-   "fecha": "2026-11-24T16:13:20-03:00",
-   "resumen": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída    Diario Río Negro",
-   "medio": "Diario Río Negro",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 24.71,
-   "medios": [
-    "C5N",
-    "Canal26",
-    "Crónica",
-    "Diario Río Negro",
+    "Cadena 3 Argentina",
     "Diario UNO",
-    "Hoy Día Córdoba",
-    "InfoRegión",
-    "Rosario3",
-    "TN"
+    "El Cronista",
+    "Infobae",
+    "MendoVoz",
+    "Ámbito"
    ]
   },
   {
@@ -1075,84 +1057,159 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 21.12,
+   "score": 9.21,
    "medios": [
     "8 Digital",
-    "Diario Mendoza",
+    "C5N",
     "Enterate Noticias",
     "Filo News",
     "GN Noticias",
     "Política Argentina",
-    "Rafaela Noticias",
-    "Revista Códigos",
-    "Todo Salta Noticias"
+    "Radio EME",
+    "Rafaela Noticias"
    ]
   },
   {
-   "titulo": "Es oficial para el EMAE: la economía argentina cae en recesión técnica en el tercer trimestre de 2026",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTQ3ckFTUU93bHVrU3Z5c24wWHFPN1IzMV9Fd1IyYVJsalBxdHdaREtLMUVLcm5RQ2hRTlhDdHRyc1YzN2VuZnpOWHVwOFRVRXU1bkpTRXE3VDlEamt3M0FPQnlsNllTRldCSm9xRTBiemEyeXRLY2pNbXQ3eVk5TS1EV2tlemNUWW1uUEZnVl9VVjZDQlVfaGF4UTVPQ3pmM3ktTUNHVVVlRTFfMDY2Y1VBc3FITlZvWXc?oc=5",
-   "fecha": "2026-11-24T16:15:41-03:00",
-   "resumen": "Es oficial para el EMAE: la economía argentina cae en recesión técnica en el tercer trimestre de 2026    617 News",
-   "medio": "617 News",
+   "titulo": "La economía argentina entró en recesión técnica: qué factores explican la caída de la actividad",
+   "url": "https://www.infobae.com/economia/2026/11/24/la-economia-argentina-entro-en-recesion-tecnica-que-factores-explican-la-caida-de-la-actividad/",
+   "fecha": "2026-11-24T19:25:43-03:00",
+   "resumen": "El Gobierno señala la guerra en Medio Oriente y la incertidumbre política, mientras que los economistas privados agregan la salida de capitales, el crédito estancado y el ajuste del consumo y la inversión del sector privado",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 7.87,
+   "medios": [
+    "Diario Noticias De La Calle de Misiones",
+    "Diario la Ventana",
+    "Infobae",
+    "Página|12"
+   ]
+  },
+  {
+   "titulo": "Las dos velocidades de la industria: las exportadoras crecen, mientras que el resto se hunden",
+   "url": "https://www.ambito.com/economia/la-dos-velocidades-la-industria-las-exportadoras-crecen-mientras-que-el-resto-se-hunden-n6349266",
+   "fecha": "2026-11-25T15:44:00-03:00",
+   "resumen": "Un reciente estudio identificó los dos factores que golpean al entramado productivo local. Por un lado, la caída del consumo y el bajo nivel de actividad en la construcción. Por otro lado, la competencia frente a las importaciones.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 7.85,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Recesión, dólar e inflación: un economista analizó el impacto en el empleo y los salarios",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWo1OUNlcGI3ZlpDRGdUTnpZeGMya3ltN2tmQkRYWGp6TUJxT0xpQ0phdGlIUXVZWkVHNFk5eXZlbF81cVBrOTFWc25XbHYtbVVvUWdZM2xucmVjeDN3WTJ6MlNqUjhEdnkyV01BazFiRlE4RUlneUtHcXNRYVZzdUphcjFkTElpMkN5andzc2MxXzRITkhwWHh30gGTAUFVX3lxTE1kbkdRanp6Nl9uZzhsekFHVFo3eDlMOGUtTEJzdGtNRWN6UTN2UXg2R0pJaDZ4SC1LZjVETWw4ZG50MXBuXzU0WE1ZMFZyZW5wVmdjMjk1dTZJb01vcmRQMm9WSl9PSVRPWDJscGVjNXBfOWdIQzZjLWVJNHZaTjZ0Y0lTUVJEWHFOMGxWaEw4ZU1Gcw?oc=5",
+   "fecha": "2026-11-25T08:21:17-03:00",
+   "resumen": "Recesión, dólar e inflación: un economista analizó el impacto en el empleo y los salarios    Elonce.com",
+   "medio": "Elonce.com",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 7.29,
+   "medios": [
+    "Elonce.com"
+   ]
+  },
+  {
+   "titulo": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNajRud3A3X1FLLUYwNXZDN1NyUlBFRXZPUGNSazdfM29MMWFtTnJndGJLTXZGdi1GWnM0Z3dic3huMFVoSEdtVTRTM05XMmhieW0tQ2l5Y0ZodEo1WU5pbjRGOHNtN0p4LUZvYVNiN09xNWdnM1dfZjJBWDhWVmRBZjl2MjQwTTc3VWRBbXpaVTdEX2pRMnF5RzVSczFaRXFGTWdJT01OLWwzenJrcEJEXzZkLVFvRWg5aEI4ejNFeERqaF95SzVRdktjVlZXdWZmbFQ5ZElFRURscWNwSlppT2lzZndCLVlmbnZxS09B0gH2AUFVX3lxTE91b1N3TVowNmh6a3NEb2hSd0dYMlAtMW5uQ2RzU1M5MkR6MlpHQy11SHVFRjJIcUxSaFRTQUxpSXVrNWlCWGtwQ0pQT01LdHVPWGRTblBwYmxWMUZLSTRSRHZma1Z0WW9LVDNJb09PcS1LQlBvNGhfY29aRFAzX0VCeXAyTUV1Q3dTbnR6Tjl1bThoUXpoaDFtdkJxR05HZDNFSWlFU0pLTjF4Ulo5aHAtTDVpZ1JYYnhaNEpybUh6QlJBaGowLTFRQ2d6MHZtVjJ2emJpVUVldjhBbndZRWNKbU5jcGNWZ2ZMMlhiUGtZMHZWLWxlQQ?oc=5",
+   "fecha": "2026-11-24T16:13:20-03:00",
+   "resumen": "Argentina entró en «recesión técnica»: el Indec informó que la actividad económica acumuló dos trimestres en caída    Diario Río Negro",
+   "medio": "Diario Río Negro",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 17.91,
+   "score": 7.21,
    "medios": [
-    "617 News",
-    "Alerta Digital",
-    "BVC Noticias",
-    "Canal Doce Misiones",
-    "Diario El Sol Mendoza",
+    "Crónica",
     "Diario Río Negro",
-    "La Nación",
-    "Radio Rafaela"
-   ]
-  },
-  {
-   "titulo": "Argentina al borde de la recesión: el INDEC publica el EMAE",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42aEFkZkV2aThuaTlYeEZ2V3dCUy1PSzA2MDEzYXdYZmQtWXBZVXhLNGNSbHpmODczUURjdHkyQWV1d3FON29vRXR1OEJRMW1uWXJXRTJDNDh3ajhETUVTaU5fcXktcGVfMU5feHBOT2hRcTdvYjlkQ3JIRQ?oc=5",
-   "fecha": "2026-11-23T14:49:22-03:00",
-   "resumen": "Argentina al borde de la recesión: el INDEC publica el EMAE    » Cholila Online",
-   "medio": "» Cholila Online",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 14.85,
-   "medios": [
-    "Agenda Salta",
-    "Ciudadano News",
-    "Clarin.com",
-    "DataChaco",
-    "Diario El Día de La Plata",
-    "Diario El Sol Mendoza",
-    "Diario Hoy En la noticia",
-    "Diario La Unión",
-    "El Argentino Diario",
-    "El Diario de Carlos Paz",
-    "Perfil",
-    "Todo Jujuy",
-    "elconurbano.com.ar",
-    "iProfesional",
-    "» Cholila Online"
+    "Diario UNO",
+    "TN"
    ]
   },
   {
    "titulo": "Argentina — Actividad económica e industria bajo la lupa: qué dicen los números previos al informe del INDEC",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUFVfcWNTck5KTUF6MHlyYUg2clZhQnZka2pGTnUzaWNGWkpMSEZmdVNtZ1JtQlUxeEZPXzhzQlVmeVlFQWd2T0dfUHppWE1JcHoyaFFwMHFPUXB5eW1oQmRfZjA1ZDkzTGtYNG03dWk0c2RGalhjUDNud1A0dWFxQVp6V2pHc1dNdkhGQ3dldXVhU3NBQXlublNQVGNkUGZGOVhXVGZoeXZELVhtdTlKYUFfVU9DNFI1bjkzdm5XU0hha281dV9NbzlucGs3QUxxV2tac0NuS3BUZTVT?oc=5",
-   "fecha": "2026-11-25T01:07:30-03:00",
+   "fecha": "2026-11-25T01:08:04-03:00",
    "resumen": "Argentina — Actividad económica e industria bajo la lupa: qué dicen los números previos al informe del INDEC    Prensa Mercosur",
    "medio": "Prensa Mercosur",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 14.56,
+   "score": 6.76,
    "medios": [
-    "El Editor Platense",
     "Prensa Mercosur"
+   ]
+  },
+  {
+   "titulo": "Qué espera el Gobierno para la actividad económica en lo que queda del año tras la caída en recesión técnica",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQlBFNlRWai1zSzlVWWhIdk5RUVlIZHlGZUtUYlByX2ZXUkhkdTdGejhXT0lYOXRPOHZQN3NibUlLeG1PNUR2blhROHlwUXduOHRVd0hGdnNnMjlmbEY2QnZUZmN5d1U2Zmpmd3FhM2NWdklWUTI2eUdzNVJLOU90VE1Cc051eWF6NjMzYzA0NHNudl93bjdEYXRVVC1aV1Rsa1p4MHdmWGxfLUFhZnNuSmtoVUVHR3RFRXdvcS12ZzN1WTl0QklvQ0F2cE1CTFlzcmlmT3NNNFFUa1ZNLThiVGlOTFVVVDBH0gGDAkFVX3lxTE1KYUlEV0NSd0FBUW5tVTE0WE5WNV9tVUg5bkNPaWJRcnlkQ0tZWmpnQlNBWmZUWGNFZ0NJRVk3NHROSl9zVnRReC1fbmFlaXpOVHc4OWlzblVPWEZsclEwNV83bzkzX1ozTmc3TEVxLTVTeFpzUTJXQXVjS016bjd0LUhRLTJqM0pxaGh6bXdDLWZRUnJEa2c5TkNVbXdpRTlCbU9DVXJ1VnpRTk9wOXpMdVpQYVFiVnZQUVdNZGdQa25Gb2RMSzFrR0dKWDB3UVdldFJ2bGdldm9NQnh0dlpFZnJUVDFsczdRNXRwNXprb3dYTXNxMkU1c2huOWtUcHIzdmc?oc=5",
+   "fecha": "2026-11-25T15:44:00-03:00",
+   "resumen": "Qué espera el Gobierno para la actividad económica en lo que queda del año tras la caída en recesión técnica    Infobae",
+   "medio": "Infobae",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 6.18,
+   "medios": [
+    "0221",
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "ARCA modificó los requisitos para los FAL: qué cambia para las cooperativas y las pymes",
+   "url": "https://www.ambito.com/economia/arca-modifico-los-requisitos-los-fal-que-cambia-las-cooperativas-y-las-pymes-n6349108",
+   "fecha": "2026-11-25T11:00:00-03:00",
+   "resumen": "El organismo actualizó las condiciones para acceder al régimen y precisó los requisitos de inscripción y certificación de los empleadores. La medida incorpora expresamente a las cooperativas y establece nuevas pautas de caracterización para las entidades sin fines de lucro.",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 6.1,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "La mitad de los gimnasios perdió socios y el 43% no aumentó sus precios pese a la inflación",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUVXU3M2SGhwWjNra3JMenUydC1sX1Zpb1drRG1TWGc2bmFaR09QSm5IM2xoVjF5d1VmS3FhMUpFOFhmaWFlZ01VUmdRa0RLVEczUkhMc2kzRGV2YWc4NmNYNDk5Z0tWQ3dwVDFzaTBpSmh4eXdqWG91WkRBZXVCa1VFWEZibUw4QUFQdXV4YVhCbDRDelU4azJ1Tl9sZEJlQThUVFZ3dktqOWZIS1JEZTI4SQ?oc=5",
+   "fecha": "2026-11-25T09:58:52-03:00",
+   "resumen": "La mitad de los gimnasios perdió socios y el 43% no aumentó sus precios pese a la inflación    Clarin.com",
+   "medio": "Clarin.com",
+   "fuente": "Clarín",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.94,
+   "medios": [
+    "Clarin.com",
+    "Rosario Finanzas"
+   ]
+  },
+  {
+   "titulo": "Los pronósticos que hicieron Milei y Caputo sobre actividad económica e inflación que no se cumplieron",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdnpnWWJQcmNKN2R2V1p5V1NDaFlnMkFHcmwzOGpLcTZXdXAtcV9LR0JhckhPZUJxMG9QOU5xWGZMby1xejVHeVhJVmNwU3ZHVV9Xa185Zk5ZQTRia09ZYm1QaV9oYVdhdWEtbnZfbVctS1lRbFhIUE5wcEpBeURsbGpxaTBtOWlENlVnZEpreDlub2RsN21nQldvaDZDRngwVnJOUlNtai1UbWVKTURXOVBzZDNzbU50eVhaS2h6UDJqdDRwaElDVThrbGRGbGl3aUd3cVB5eVNKQQ?oc=5",
+   "fecha": "2026-11-25T16:07:28-03:00",
+   "resumen": "Los pronósticos que hicieron Milei y Caputo sobre actividad económica e inflación que no se cumplieron    Chequeado",
+   "medio": "Chequeado",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.94,
+   "medios": [
+    "Chequeado"
    ]
   },
   {
@@ -1165,7 +1222,7 @@
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 10.61,
+   "score": 5.92,
    "medios": [
     "Diario Mendoza Today",
     "El País Diario",
@@ -1173,22 +1230,142 @@
    ]
   },
   {
-   "titulo": "La actividad económica repuntó en septiembre, pero Argentina entró en recesión",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHVmUTYyaVk4TmZEMkRWLU1DWXdlOTR1ZDI2WnpxVGQtOG5uWjQzSDd5RVhyb01IcDFQWFIzRnBfNkZ1UEZMaTRHRDVCdzNaOTNwUmdnNTUtenp4MTRwNzFyVW5jSFBxSzN6ZExsQkN0X3VidklpWi0yR1QwWklmX0FScERCNDcxWDV2NldmZGbSAZABQVVfeXFMUFR1ZlE2MmlZOE5mRDJEVi1NQ1l3ZTk0dWQyNlp6cVRkLThublo0M0g3eUVYcm9NSHAxUFhSM0ZwXzZGdVBGTGk0R0Q1QnczWjkzcFJnZzU1LXp6eDE0cDcxclVuY0hQcUszemRMbEJDdF91YnZJaVotMkdUMFpJZl9BUnBEQjQ3MVg1djZXZmRm?oc=5",
-   "fecha": "2026-11-24T16:45:06-03:00",
-   "resumen": "La actividad económica repuntó en septiembre, pero Argentina entró en recesión    Mendoza Post",
-   "medio": "Mendoza Post",
+   "titulo": "Los bonos argentinos revirtieron las bajas y el riesgo país cede debajo de los 1.100 puntos básicos",
+   "url": "https://www.infobae.com/economia/2026/11/25/los-bonos-argentinos-retoman-las-bajas-y-el-riesgo-pais-escala-a-su-nivel-mas-alto-en-14-meses/",
+   "fecha": "2026-11-25T15:41:50-03:00",
+   "resumen": "Los títulos públicos en dólares comenzaron negociados con bajas de 1,3% y un riesgo país por encima de 1.130 puntos. Por la tarde aparecieron compradores y la deuda en dólares pasó a subir un 1,4%",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.88,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "EMAE de septiembre 2026: la hora clave en la que el Indec revelará si Argentina entró o no en \"recesión técnica\"",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUmhaa1ZUb2lBVVZzOVdqdC1Vc0RsZ2Q3bk9JTnNiSU56NUZ2dUxhVVlfV3JPTjV2MVM4eTNzb1U5N2d3WGQweXNPamlURE5UMm1TN1pBdk1Tb2g3NFd4R1Bna1J1UkRjbkJzUUI0WXJhS3FITXFqZ3BmMXJ1RHZzMUlILXZ2MVVtTjZvX1N6eFNsLUhYM2QtcVNMRU9zalB3cVdTdzRBekpwZlB0VnQ2R0dzUGVjYzYxVlRwVE5aODF1WFYtMkVsWVdWYzkxNnVsY2pkTi1HOXNHdlRXU3pfR3ZGbUxMcUVaSjln0gHzAUFVX3lxTFBUUFNBZzFJczFuVlZLU0lZRGdmbExEeERENGFsRXZweFoyblUybHRhWWFLYk4yOVA2eGYyWl9Nai1vNWtUbF9EeFdWTXhUS3lBMnMtLTlSbWtjUVA4T19XZ3prTHFLWnFMaDJZY3kxdHFBRGFEV1RER0FSQjZzaGxXRmplZWtibFp6bERidC1VeGxWbEVHOFZYVkhBZXJ2N2pUNkhKLTgwdzdfOFJrc3M0ajVXdzE4TU9GWTk3SlhSTUtkd3ViUThVNjZoRW9NZ1pqVktEU0N6dTZROS1mYXhzaEc4NTRFUFJybUh3VWw0SE85Zw?oc=5",
+   "fecha": "2026-11-24T10:05:38-03:00",
+   "resumen": "EMAE de septiembre 2026: la hora clave en la que el Indec revelará si Argentina entró o no en \"recesión técnica\"    Diario Río Negro",
+   "medio": "Diario Río Negro",
    "fuente": "INDEC Cuyo (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "mendoza",
-   "score": 9.32,
+   "score": 5.85,
    "medios": [
-    "Diario Huarpe",
-    "El Cronista",
-    "Mendoza Post",
-    "Opinando San Nicolás",
-    "mendoza24.com.ar"
+    "617 News",
+    "Diario El Sol Mendoza",
+    "Diario Río Negro",
+    "La Nación",
+    "SudOeste BA"
+   ]
+  },
+  {
+   "titulo": "Sigue cayendo la actividad económica en la Argentina por no darle al sector agroindustrial las condiciones necesarias para mostrar su potencial",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNGtCWHZiQmVxM0lkbUNlVkhtYXVWZFlWNVg2RmxUcXVVUDNPUk04MXJTVkt1dEJwemZRWE9tTG1faGNSQjdqM2g4bExTYkhuSkRfOHNzRzRXeVo4TEhoSGpxX2VxS3IwMjZYekZMdXVNR1d0Ty1tMHZCdWNvSTdDaTc4XzVwZDUzSzZha25QTWF5bHQ4NHFkeE5RWUhIMW40TnZ1VUJkOXE5bWlGSC1QOXJqOW5xbzVDUkJSaGVic1gxUEZnc25iSXNUNnMtaGVQZG9QY3ExdlN4eGVkZW0zc1dmazJrUktqVlQyZ2ZUYjZfNjFvbW5uZjhGdzRTSUU?oc=5",
+   "fecha": "2026-11-25T13:47:32-03:00",
+   "resumen": "Sigue cayendo la actividad económica en la Argentina por no darle al sector agroindustrial las condiciones necesarias para mostrar su potencial    Bichos de Campo",
+   "medio": "Bichos de Campo",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.62,
+   "medios": [
+    "Bichos de Campo"
+   ]
+  },
+  {
+   "titulo": "La economía creció 1,1% en septiembre y estiman que cayó en recesión técnica",
+   "url": "https://www.lanacion.com.ar/economia/la-economia-crecio-11-en-septiembre-y-estiman-que-cayo-en-recesion-nid24112026/",
+   "fecha": "2026-11-25T11:36:48-03:00",
+   "resumen": "Pese al repunte mensual, en el tercer trimestre la actividad retrocedió 1,8%, según cálculos de economistas a partir del EMAE del Indec; diez de los 15 sectores que releva el organismo registraron bajas",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.32,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "Qué hay detrás del dato del INDEC: caída interanual, industria en baja y amenaza de recesión técnica",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVhaNTAzd0xXNmctVmVKakliMHVNaHpocU5RSnFxUG5fZkI4bEFuSnh4dkRrWUR4ODhmYktsc2ZzNFNqcGR3akhlOTZVeUlqem5xanc0ekJFS1pTY0VyWllBeXFLSWZYWkhUTGE4WUw1NFRDckRFTV9ESnZrdXdlMEtKX2tZQlFCT3RnRE5vd3RCeE1tUW11R1hhWnBjRk1ENFlSbjZBQk40eENQX1JSQkxHVTIzLTkzYUkzSzIwUFZOYnc?oc=5",
+   "fecha": "2026-11-25T10:30:00-03:00",
+   "resumen": "Qué hay detrás del dato del INDEC: caída interanual, industria en baja y amenaza de recesión técnica    El Tintero de Salta",
+   "medio": "El Tintero de Salta",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 5.16,
+   "medios": [
+    "El Tintero de Salta"
+   ]
+  },
+  {
+   "titulo": "Recesión, dólar y deuda: las tres preocupaciones que condicionan el rumbo de la economía argentina",
+   "url": "https://www.infobae.com/economia/2026/11/25/recesion-dolar-y-deuda-las-tres-preocupaciones-que-condicionan-el-rumbo-de-la-economia-argentina/",
+   "fecha": "2026-11-25T10:16:31-03:00",
+   "resumen": "El economista Claudio Caprarulo analizó el impacto de la recesión técnica, la brecha cambiaria superior al 10% y el riesgo país por encima de los 1.000 puntos",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 5.13,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Consumo: las ventas en supermercados cayeron en septiembre por cuarto mes seguido y acumulan una baja del 2,9% en 2026",
+   "url": "https://www.ambito.com/economia/consumo-las-ventas-supermercados-cayeron-septiembre-cuarto-mes-seguido-y-acumulan-una-baja-del-29-2026-n6349311",
+   "fecha": "2026-11-25T16:22:00-03:00",
+   "resumen": "Las ventas en supermercados retrocedieron un 0,9% mensual y un 3% interanual en septiembre, según el INDEC. La pérdida del poder adquisitivo, la debilidad del mercado interno y las dificultades para sostener la rentabilidad condicionan las perspectivas del sector.  ",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.98,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Tras polémica por el RIGI: Kicillof anunció inversión de US$200 millones para Bahía Blanca",
+   "url": "https://www.lanacion.com.ar/economia/tras-polemica-por-el-rigi-kicillof-anuncio-inversion-de-us200-millones-para-bahia-blanca-nid25112026/",
+   "fecha": "2026-11-25T15:21:25-03:00",
+   "resumen": "Busca profundizar el calado del estuario y permitir que los barcos, que actualmente salen con carga de combustibles al 70%, puedan salir al 100%",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.86,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "Presupuesto, discapacidad y oro del BCRA: los puntos más sensibles del informe de Santilli",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVg5bl9JaW0zV2FrLXBRRjNzbU02S0Rxam9aQUgtWFV3V19XWEVwZGJUcklHQnNlalJRNjBZZDd5MGR3SF9FT3JWY2k3X3BBQ2dsVWFkc05DNmo2VDc4ZXItWk9iQk13ckZPcWwxRGJkUnZQS3ZvRmpPOWd1RTU1TUJIczc5em9SN19kS25LNnZxYjdDRTRqOFRJNmJTbFZFTEpoVGx3THJpWDBnMDJVSkJvLTN1MlkzMVAxWjdsdGxPLW8?oc=5",
+   "fecha": "2026-11-25T07:43:31-03:00",
+   "resumen": "Presupuesto, discapacidad y oro del BCRA: los puntos más sensibles del informe de Santilli    Mnews",
+   "medio": "Mnews",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 4.78,
+   "medios": [
+    "Mnews"
    ]
   },
   {
@@ -1201,85 +1378,228 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 7.57,
+   "score": 4.65,
    "medios": [
     "Ambito",
     "Ámbito"
    ]
   },
   {
-   "titulo": "Presupuesto 2026: una mayor inflación a la prevista obligó al Gobierno a recalcular mayores gastos e ingresos",
-   "url": "https://www.ambito.com/economia/presupuesto-2026-una-mayor-inflacion-la-prevista-obligo-al-gobierno-recalcular-mayores-gastos-e-ingresos-n6348548",
-   "fecha": "2026-11-24T13:13:00-03:00",
-   "resumen": "Se trata de la Administración Pública Nacional (APN). La última modificación presupuestaria reflejó el impacto de la persistencia inflacionaria en los gastos que ajustan por IPC y en la recaudación.  ",
+   "titulo": "Economía en recesión: qué anticipan los datos de octubre y cómo cerraría el año",
+   "url": "https://www.infobae.com/economia/2026/11/25/economia-en-recesion-que-anticipan-los-datos-de-octubre-y-como-cerraria-el-ano/",
+   "fecha": "2026-11-25T01:49:40-03:00",
+   "resumen": "Los indicadores preliminares muestran señales mixtas, con impulso de los hidrocarburos y retrocesos en la construcción y la industria. Las consultoras esperan un cuarto trimestre positivo, aunque estiman un crecimiento anual limitado para 2026",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.62,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Inflación y consumo en Argentina, qué revela un informe inernacional sobre el costo de vida",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGg0U1l6NlBROGwxVHZacHAxRTJJUE1sTFB3dXFfc19pX2NYd0tRSm9QRGJKbFdvQmFrc0pzN3ZiVy1vWlExT1RJZ2h1OU5uc3htYjhoVV94QVhuQTR3VFBEb09PdllRNHZhWkRLMS0yS0FRUlFUdTdSMVhUaWRmcTNFbnFWdThYM0ttQXdpUHpFaGxqMUh5alVuTnAwWFBWdHpveTNUdlJ5eEg3RmU0WWZSZ3hfZG5Dejh1YkdrZU5CV2ktaDZxSVpxWdIBywFBVV95cUxNcGg0U1l6NlBROGwxVHZacHAxRTJJUE1sTFB3dXFfc19pX2NYd0tRSm9QRGJKbFdvQmFrc0pzN3ZiVy1vWlExT1RJZ2h1OU5uc3htYjhoVV94QVhuQTR3VFBEb09PdllRNHZhWkRLMS0yS0FRUlFUdTdSMVhUaWRmcTNFbnFWdThYM0ttQXdpUHpFaGxqMUh5alVuTnAwWFBWdHpveTNUdlJ5eEg3RmU0WWZSZ3hfZG5Dejh1YkdrZU5CV2ktaDZxSVpxWQ?oc=5",
+   "fecha": "2026-11-25T13:13:00-03:00",
+   "resumen": "Inflación y consumo en Argentina, qué revela un informe inernacional sobre el costo de vida    Sitio Andino",
+   "medio": "Sitio Andino",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.62,
+   "medios": [
+    "Sitio Andino"
+   ]
+  },
+  {
+   "titulo": "La inflación en EEUU sigue firme y el mercado se prepara para una suba de tasas en diciembre",
+   "url": "https://www.ambito.com/economia/la-inflacion-eeuu-sigue-firme-y-el-mercado-se-prepara-una-suba-tasas-diciembre-n6349170",
+   "fecha": "2026-11-25T12:34:56-03:00",
+   "resumen": "Una inflación subyacente que se mantiene por encima del 3% y una economía que sube con fuerza a pesar de la suba de los combustibles son el combo ideal para que la Reserva Federal retome el rumbo alcista en las tasas.",
    "medio": "Ámbito",
    "fuente": "Ámbito",
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 7.15,
+   "score": 4.54,
    "medios": [
     "Ámbito"
    ]
   },
   {
-   "titulo": "Dólar hoy: sube a $1.615 y el riesgo país crece a 1.108 puntos",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjYyQVdCSVpORmVLRi1obUV1dW9LNk9rdXRWVUNGOXNKczlveEJlN1dST0lGaF9YbzNqNG1xVFJlT3dya2ZmdEFWcVhZUnBpaDh2S054bVBNdG5Nd2owRFotbmhpTU8yekJia0U2UktMTE9ZMWRyYjNyTTAxRHZlVjh6dTZrTzV3YURiUzZvQnpuWi1UNV9wRmh3emVwOTVVRVE?oc=5",
-   "fecha": "2026-11-24T13:20:00-03:00",
-   "resumen": "Dólar hoy: sube a $1.615 y el riesgo país crece a 1.108 puntos    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 7.0,
+   "titulo": "Debate clave: los funcionarios de la Fed discrepan sobre las causas de la persistente inflación",
+   "url": "https://www.ambito.com/economia/debate-clave-los-funcionarios-la-fed-discrepan-las-causas-la-persistente-inflacion-n6349153",
+   "fecha": "2026-11-25T12:29:00-03:00",
+   "resumen": "El PCE de octubre, la medida predilecta del banco central, treparía a 3,8% interanual, según el consenso de economistas. Mientras algunos funcionarios piden más ajuste, como Christopher Waller, con una suba de medio punto en diciembre, miembros del Gobierno de Trump advierten que sería un error.  ",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.53,
    "medios": [
-    "Diario UNO",
-    "Infobae",
-    "La Nación",
-    "Los Andes",
-    "MDZ Online"
+    "Ámbito"
    ]
   },
   {
-   "titulo": "La economía argentina entró en recesión técnica tras dos trimestres negativos: qué factores impactaron",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNJQmhYcVhhZUdNMkhKdDZERXlQMXBfSHpVYkRUaUU3ay1jVXhkdGNOa2lEdGZfcHFzOHJEX0dQUGxDWjRTZ0xNeHgwMWllYzZaV2ZuR0xjc1R5XzVVb2NnRzZQazlRVWxOVl9sdHFtck5waDZncEVRZlZuZjdWOGFkZEJsWk1jakVpVjBhYjhmX1F1cTFCbWFET2QyREZUZFo4WWNiZzRXLTUzYm9yVXhDc2ZpMnY2RngyZXFUVzBwdjhsaDR3UQ?oc=5",
-   "fecha": "2026-11-24T22:29:01-03:00",
-   "resumen": "La economía argentina entró en recesión técnica tras dos trimestres negativos: qué factores impactaron    Dos Florines",
-   "medio": "Dos Florines",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 6.97,
+   "titulo": "Con el foco en las exportaciones, Stellantis inauguró una planta de motores para equipar 11 vehículos de producción regional",
+   "url": "https://www.infobae.com/economia/2026/11/25/con-el-foco-en-las-exportaciones-stellantis-inauguro-una-planta-de-motores-para-equipar-11-vehiculos-de-produccion-regional/",
+   "fecha": "2026-11-25T12:02:05-03:00",
+   "resumen": "El complejo industrial de Ferreyra, en Córdoba, inició la producción de los motores turbodiésel Multijet con los que se equipará a modelos locales, brasileños y uruguayos. Es la apuesta por elevar las exportaciones del grupo desde Argentina",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.48,
    "medios": [
-    "Ceres Ciudad .com",
-    "Diario El Día de La Plata",
-    "Dos Florines",
-    "El Tribuno",
-    "Infobae",
-    "LU9 | Mar del Plata",
-    "La Gaceta",
-    "NEA HOY",
-    "Página|12",
-    "Rosario Finanzas",
-    "Telégrafo"
+    "Infobae"
    ]
   },
   {
-   "titulo": "El INDEC publica el EMAE del tercer trimestre, que dejaría a la economía en una recesión técnica",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMkdqRmFOYnRxelktOXNoRXRTamN6MXdZT094YmRhOFNqQ1NxWDFibVFSamFCSm84MXpSR1o1Z1hBTUs4dnJrWDNTSUFsYkVJYjZ0SzFVOGVxNGtoYmJKUEZkR0FNcVVyeXZta0FnUEZRRjcyWjFZSU9uVW9MY0dyRlZVa3FVdExzZ1ZkVHhFRm14amZtSm9fM1NsMm5QWmtCdUJtanRYdS01ME96OGRtWGlOZmJCaHRnb3A3eF9VWU1RT0c0U2Zac1dXTTdXbE8tNFZYVV9DSEdfTW56MHFYUTg1a0VVXzRxMTQyS25KTUFkQk030gGDAkFVX3lxTE1WUmVQNnRkTXN1bl85cjJlbEhhb1ZlSklTTnV2Vzg0Z3A4XzJtXy1VTi0zWktPX19aRF8wNTh1YUxDblNpenVBNnc1MUxJN0ZrNUtla0NleG9MWHp2S1BLWTBaNVdFT3Z6V2RFUHk1RXAyQlVJUlBkT0gwY1QzQ3dNNE45Y3lTMy13THRXbzF5dU5xOFpmVndIcmlvaGlmcC1VckxBeGVWaV91aHl5SXhJUG1YYVAxaFVYYmxONW9kSzRuVldOc0g4SUZ6RDBkeXFSSVBFSk95a214bjFpXzJmVnVFRHdIYkxMRDNRMFloZW44aUdQbTljaUVOY3d3cU5Hd3M?oc=5",
-   "fecha": "2026-11-24T06:06:00-03:00",
-   "resumen": "El INDEC publica el EMAE del tercer trimestre, que dejaría a la economía en una recesión técnica    Agencia Noticias Argentinas",
-   "medio": "Agencia Noticias Argentinas",
+   "titulo": "El secretario de Finanzas aseguró que la economía no entró en recesión y planteó que la caída fue transitoria",
+   "url": "https://www.ambito.com/economia/el-secretario-finanzas-aseguro-que-la-no-entro-recesion-y-planteo-que-la-caida-fue-transitoria-n6349038",
+   "fecha": "2026-11-25T10:14:17-03:00",
+   "resumen": "Furiase sostuvo que Argentina no sufre el contexto global adverso por su superávit fiscal y por tener cubiertas las necesidades de financiamiento de este año y del próximo. Además, dijo que el mercado está \"preocupado\" por lo que pase tras las elecciones de 2027.  ",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 4.27,
+   "medios": [
+    "Ámbito"
+   ]
+  },
+  {
+   "titulo": "Riesgo país, dólar y acciones: asi opera HOY el mercado tras el dato que confirmó la recesión técnica",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjEtSEMxaU9oY3FjblZSaXNGYnFOMjJxbm4yVUJ0b0tBQ3gweDJpcUlUWnpXa3RIbEZ1Mnl6OC15N2FxUEFaaFRUcHdPREVyRXZUczlselBNN0lyMU80a0NneW5zc2tKakxfZnR4eGhWUWptam5qWTZtRlVHeFRsOVNQV2tneVFDc295aU43NDM2OFN1clcxaFIxWXNwNWhpakVVUU1OU0NKUXR5X196a0pwM2F4SzDSAcsBQVVfeXFMT2tvREdQNDJhWVk5QUpJZEV2VS1wVXNpOW1Oa1E4RGxxZDdmaGYtdjVwZG5BYm0tUDRKQVhIaEdIMnZiZmNITTZzdnFzd251aU9WY0xObC1sdlJBdXd2dnhwM1VEYUw5djJuX0tEYnN1U0xUdkhjSlBNOE1GYS1CUjFjaUpESlY2YVQtWlpIN2lGQVE2dFBoMEdpVXYzNnNRckNXWlEtU0JsNnluS1ZYQl9INDRpalAwMk03d3dvZm1VeTNqMVBlYXhjNEU?oc=5",
+   "fecha": "2026-11-25T13:53:53-03:00",
+   "resumen": "Riesgo país, dólar y acciones: asi opera HOY el mercado tras el dato que confirmó la recesión técnica    TN",
+   "medio": "TN",
    "fuente": "INDEC/BCRA (GN)",
    "categoria": "oficial",
    "solo_mendoza": false,
    "alcance": "nacional",
-   "score": 6.93,
+   "score": 4.22,
    "medios": [
-    "Agencia Noticias Argentinas",
-    "Minutouno"
+    "TN"
+   ]
+  },
+  {
+   "titulo": "¿Entra Argentina en recesión técnica? El dato del INDEC que se conoce hoy",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTURHR1lmS1F5aE9rMjV0b2ktUGpia0t2bmJ4R2tUSllvalR5b3VleEpIckNRdDZkR2xWT096M25ac2t6MmE3VVVGQVQ0ZlRfQlc3aHJxcTBJQVNaRWhZZW5TRldEVkl0bWF5WGVma0FqdVBudXVqQ1FFY3c0VGZPZFdNMzVrVjZRRWtIR0ZRUHpMSWdsV2VnMWxYLVlodnJDMVdhYXJ5dnpNYm1lRG80?oc=5",
+   "fecha": "2026-11-24T11:46:37-03:00",
+   "resumen": "¿Entra Argentina en recesión técnica? El dato del INDEC que se conoce hoy    Ciudadano News",
+   "medio": "Ciudadano News",
+   "fuente": "INDEC Cuyo (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "mendoza",
+   "score": 4.21,
+   "medios": [
+    "Ciudadano News",
+    "DataChaco",
+    "Diario El Sol Mendoza",
+    "El Argentino Diario",
+    "El Diario de Carlos Paz",
+    "La Voz de Jujuy",
+    "Perfil",
+    "Todo Jujuy",
+    "iProfesional"
+   ]
+  },
+  {
+   "titulo": "El BCRA informó reservas por USD 48.744 millones y el dólar cerró a $1.615 en el Banco Nación",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDdJWi1TSGhKTVAxLWtOalFrWFRuY0NpMktHRlhtaGRqZ0V3MTY2NDZwcXRTOUlHdENueXlZczBLLVBwSGZJVDk3NDgxU2NUbGFvTENtaVNlUTVjclhHd250OVdZeEJuWG9ZTlVqNFE0Y1g1VkZqc1B1bzdmOEs5cWUxQWJ2UFpyR2xRdFRiY1hKNktnZHdfVVdleUtTWXg0RFI4b3hEbklpRXJlT2UwOGNkSi1EczVaOU1R?oc=5",
+   "fecha": "2026-11-24T20:32:32-03:00",
+   "resumen": "El BCRA informó reservas por USD 48.744 millones y el dólar cerró a $1.615 en el Banco Nación    La 4x4 Radio",
+   "medio": "La 4x4 Radio",
+   "fuente": "INDEC/BCRA (GN)",
+   "categoria": "oficial",
+   "solo_mendoza": false,
+   "alcance": "nacional",
+   "score": 4.03,
+   "medios": [
+    "La 4x4 Radio"
+   ]
+  },
+  {
+   "titulo": "El riesgo país se acerca a los 1.100 puntos: la Argentina paga caro la falta de reservas y el riesgo electoral",
+   "url": "https://www.infobae.com/economia/2026/11/25/el-riesgo-pais-se-acerca-a-los-1100-puntos-la-argentina-paga-caro-la-falta-de-reservas-y-el-riesgo-electoral/",
+   "fecha": "2026-11-25T01:48:55-03:00",
+   "resumen": "La salida de posiciones en pesos, los vencimientos atados al dólar y un contexto externo adverso elevaron la presión cambiaria y golpearon a los bonos, mientras el mercado sigue de cerca la capacidad oficial para sostener las cotizaciones",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.95,
+   "medios": [
+    "Infobae"
+   ]
+  },
+  {
+   "titulo": "Desinversión: Los Grobo vende por US$5,5 millones su molino harinero y una planta de acopio para reducir una deuda con los bancos",
+   "url": "https://www.lanacion.com.ar/economia/campo/desinversion-los-grobo-vende-por-us55-millones-su-molino-harinero-y-una-planta-de-acopio-para-nid25112026/",
+   "fecha": "2026-11-25T15:53:53-03:00",
+   "resumen": "Molinos Fénix se quedará con Molino Cánepa, que está en la órbita de la empresa que se encuentra en concurso de acreedores",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.94,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "La economía argentina vuelve a estar en alerta: recesión, dólar en tensión y un riesgo país que preocupa",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclltYUtSRGFHWWU2bnlBUW1ZVzhGWFNTcWIxYlF3SDJ6UkVZdTlPREpiNlpzSmlrb21MWkplOTVQWEVydzAxME5jZ0hRYm9ZWmppZWhTVFgxcXVkeVFGYk5aOTNZOFFQQ2hjRENpSVpodTJsWWwxUVpmUUpyVS1iRjJia0ZBa2JqNmFLMjNsM0JkZGxSOXJhUVEwWDVkalNPSEg1dGVnYmtfWGpBenZWLXgxV2tkTnV5anc?oc=5",
+   "fecha": "2026-11-25T14:48:00-03:00",
+   "resumen": "La economía argentina vuelve a estar en alerta: recesión, dólar en tensión y un riesgo país que preocupa    Late 93.1 FM",
+   "medio": "Late 93.1 FM",
+   "fuente": "Google News economía argentina",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.84,
+   "medios": [
+    "Late 93.1 FM"
+   ]
+  },
+  {
+   "titulo": "Biocombustibles: venció el plazo para dictaminar y la pelea por el biodiésel sigue trabada en Diputados",
+   "url": "https://www.lanacion.com.ar/economia/campo/biocombustibles-vencio-el-plazo-para-dictaminar-y-la-pelea-por-el-biodiesel-sigue-trabada-en-nid24112026/",
+   "fecha": "2026-11-25T14:06:00-03:00",
+   "resumen": "Con media sanción del Senado, la iniciativa eleva del 7,5% al 10% la mezcla obligatoria del biodiésel con el gasoil; la disputa es cuánto de ese mercado quedará reservado a las pymes",
+   "medio": "La Nación",
+   "fuente": "La Nación",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.77,
+   "medios": [
+    "La Nación"
+   ]
+  },
+  {
+   "titulo": "La Argentina es uno de los tres países del mundo que aplica mayores restricciones a las exportaciones agrícolas",
+   "url": "https://www.infobae.com/economia/2026/11/25/la-argentina-es-uno-de-los-tres-paises-del-mundo-que-aplica-mayores-restricciones-a-las-exportaciones-agricolas/",
+   "fecha": "2026-11-25T13:56:20-03:00",
+   "resumen": "Un informe de la OCDE ubicó al país detrás de Rusia e India en cantidad de medidas que limitan las ventas externas de cultivos básicos",
+   "medio": "Infobae",
+   "fuente": "Infobae",
+   "categoria": "nacional",
+   "solo_mendoza": true,
+   "alcance": "nacional",
+   "score": 3.76,
+   "medios": [
+    "Infobae"
    ]
   },
   {
@@ -1292,426 +1612,25 @@
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
-   "score": 6.64,
+   "score": 3.72,
    "medios": [
     "Infobae",
     "La Nación"
    ]
   },
   {
-   "titulo": "La economía argentina cayó en recesión técnica según el INDEC",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPazhCbDRvMElnV015RjVrWl8xQXluUmUwbXFHRFJGOEJZeE1mTnBqZ29oeTJxYnRydjIwSEZ2clRBR1g3bmRRNU5rbjE3eW9sUnlsNTBPMjA3WVIybHAtdGZGYmItRGhfY2MxbU42MU5pc0dqLXNJZUxzUGI4Y1ZWNHdvTm92ODdfT2FKMmo3UmJXaDh4OEplWnhnWGdNd08tbzcyMHdJSDV3d2ZDZVM0WFRzeWFUVlI4UUowbnZ1ejlOSG1HOG9yd01ab3Q?oc=5",
-   "fecha": "2026-11-24T16:48:47-03:00",
-   "resumen": "La economía argentina cayó en recesión técnica según el INDEC    Medios AZ",
-   "medio": "Medios AZ",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 6.47,
-   "medios": [
-    "Bloomberg Línea",
-    "Medios AZ",
-    "Sitio Andino"
-   ]
-  },
-  {
-   "titulo": "Cuál es la diferencia entre una recesión “técnica” y una caída generalizada de la economía",
-   "url": "https://www.infobae.com/economia/2026/11/24/cual-es-la-diferencia-entre-una-recesion-tecnica-y-una-caida-generalizada-de-la-economia/",
-   "fecha": "2026-11-24T16:59:15-03:00",
-   "resumen": "Una se define con un criterio estadístico que se verifica apenas se publican los datos del PIB. La otra exige mirar el empleo, los salarios y el consumo para saber si la caída llegó a toda la economía",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 6.42,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Diego Santilli respaldó la metodología del INDEC para calcular la inflación: \"Un indice robusto\"",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkM4SFBkQkNtZEk0T1NRNkt5N3BISUdrRHhQcWNITDcxbDd6c0FMT3pyTGk4RFIxRmtEQ2RhZ256b2FzcHVHSUM5LTdFRXhzUktWejhkTnRjMVhFRGpNYmZibGI4RXdCSnpkVnhsa3FlUmZMOWhfVnc1T2E3bkY2aDlxdFdnTUJvSTdsdHJJNWUyZlFnUDFwcjN1YV9jWHhYUmVrcG4zVkJkUlJBc0o0SFk0MWtPQQ?oc=5",
-   "fecha": "2026-11-24T19:07:03-03:00",
-   "resumen": "Diego Santilli respaldó la metodología del INDEC para calcular la inflación: \"Un indice robusto\"    El Intransigente",
-   "medio": "El Intransigente",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 6.39,
-   "medios": [
-    "El Intransigente"
-   ]
-  },
-  {
-   "titulo": "Recesión técnica en Argentina: qué significa y cuáles son sus consecuencias en el empleo y los salarios",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObURRRVFadWdhNVZzTkNQbHJKeVFNTUxkcmtHZnFjZ21aMFJaaS1TZkkyT2xrZDJ2aUotN2haSDNkWHJGbzFidkpCc2tycDgzdVE5VEprS3VhdjZ3T2JqOElsYmJ6dmI1QmlpUXJDcnY0ODA5dXU3N1JuY2NpVTVHVWZ5c05SZFpwd09NemRGdVRjSGNQWTYwMDMteHdfOURPbTh1UGNVYWp2Zm5fa2dtM3NBUmVoWEhYeFk2dWlSNWZGVGNCR0JSbGU3bWQxQWEtYlHSAdcBQVVfeXFMTWhlQ1BRSlpQNjBQVEFiS3Z4bjRYQjNFNzVleFl6bk90eDEwb1oyUWN4WTROSDIzdGlVTnRlSngtb2ItczlfSl8ydzVvanF5WWFqN2lQM282TDI5cC0zcVdwYm5FUXFmUm1qdU9ROTFHcGpMQVFjVjNmdGdyTjN6MDQzZUY3SUZINkxhQXozMlpVR2JhR1VMRFZub1JKM2NGdGV2OEd0VHZrdGZOTnlvSG1naUIzSWw5bFFNQ3pUVXF3S1JPanJfQ0FPUXR6bkRVbDdGd1lLM0E?oc=5",
-   "fecha": "2026-11-24T17:45:50-03:00",
-   "resumen": "Recesión técnica en Argentina: qué significa y cuáles son sus consecuencias en el empleo y los salarios    La Gaceta",
-   "medio": "La Gaceta",
-   "fuente": "INDEC Cuyo (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 6.15,
-   "medios": [
-    "La Gaceta"
-   ]
-  },
-  {
-   "titulo": "El BCRA informó reservas por USD 48.744 millones, un dato provisorio, y el dólar cerró a $1.615 en el Nación",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmtyZl9tbEk5M1NCdDBXOGhxZ052SEpwNEVhd05lTmwyeE1lVHY4ZW85a3hoZ0ZfWHRJV19OUjZHQXh2c1psYnZlUElVbG1kU2hoSklpbDlfXzRqQzRMNTZaQ3NWTlJuN3NMbGJOTHg2UDZ6VThfbWYwOTNQQlRScE52Sk5BbXBLb3FITVFrUVJDZDE0NzhDVnlsTDJlVG1DYUYwVU1KcVFlOGs?oc=5",
-   "fecha": "2026-11-24T17:15:16-03:00",
-   "resumen": "El BCRA informó reservas por USD 48.744 millones, un dato provisorio, y el dólar cerró a $1.615 en el Nación    Eduardo German",
-   "medio": "Eduardo German",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 6.06,
-   "medios": [
-    "Eduardo German"
-   ]
-  },
-  {
-   "titulo": "Los efectos de la suba del dólar en la Argentina y en Brasil: uno por uno, los principales impactos",
-   "url": "https://www.lanacion.com.ar/economia/los-efectos-de-la-suba-del-dolar-en-la-argentina-y-en-brasil-uno-por-uno-los-principales-impactos-nid24112026/",
-   "fecha": "2026-11-24T18:45:06-03:00",
-   "resumen": "Con el tipo de cambio minorista por encima de los $1600 y la moneda norteamericana cerca de los 6 reales en el país vecino, el mercado redefine la competitividad bilateral, los precios y la temporada de verano",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.9,
-   "medios": [
-    "La Nación",
-    "Rosario Finanzas"
-   ]
-  },
-  {
-   "titulo": "El Indec difundió un dato clave de la actividad económica: los sectores que cayeron y los que subieron en septiembre y el acumulado del trimestre",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMUl3ZkduSkoyamFXOThfRkF0SlI3SnNWR2VNSDNzZUhoQUxTS0twRHdfRS04YWVQN0xrbFozbElfRjd0WlFMUFFfM1BseEFyY1hNOWNVUHFWdjhuRFZYY0lNejRnc1RSSXFpMWNQX1lSOFc0UmphcDkzUlFyS2N5aURfc05HX2lxbTFTUUtyZVZHeUZuc04tNG5aZG1ZbTdhTWVtSmFHbGxkZzZfQ2k5aXZzYmY1SEpnR19qYkF0b1lsMVhlM2pqVXI1ZE0tN2oxTzkzQW9GZFJiS3VKeXEydm1zOEZlRjZJNHlscWdBUW3SAYQCQVVfeXFMTTVjLS1kZ203TlRmbEVzbHZZVzJXal84SGJRZWxPaUlxeWZLSFFnbDV3V1NiNnZqSHlmOGd3eTdPdUwwWjllaF9RWFMxTUpuODVrUkFyWEZKSHJGXy16dHluNEsxRmFKNUhfeVBEMUJsNGxobWZUM25OMkJCN0VBRVV0R3hweUF5dzVyakZDVl84VGtDSXpvRHoxeWJjUzNldFc5VUozaHVjbzEyUFpRUFNmMGpqaU5oYjQxWmZQUHJhMG0yU1JFUDNMM2ZGUTVEQ1huRVhObzgzZTJmWVEwbnREX0JwMHNuMjJmdXVLU2NwanAzaXlLX2xfVmlfMTFDT015azc?oc=5",
-   "fecha": "2026-11-24T16:02:48-03:00",
-   "resumen": "El Indec difundió un dato clave de la actividad económica: los sectores que cayeron y los que subieron en septiembre y el acumulado del trimestre    TN",
-   "medio": "TN",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 5.85,
-   "medios": [
-    "TN"
-   ]
-  },
-  {
-   "titulo": "Brasil redujo al 1,9% su previsión de crecimiento del PIB en 2026",
-   "url": "https://www.infobae.com/america/america-latina/2026/11/24/brasil-redujo-al-19-su-prevision-de-crecimiento-del-pib-en-2026/",
-   "fecha": "2026-11-24T13:49:42-03:00",
-   "resumen": "El Ministerio de Hacienda atribuyó la corrección a la desaceleración de la actividad, el alto costo del crédito y las tasas de interés en niveles restrictivos. La inflación también empeoró: llegaría al 5,3%, por encima del techo fijado por el Banco Central",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.83,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Federico Sturzenegger habló de una “casta naviera pesquera” y en el sector le respondieron: “Innecesario ataque”",
-   "url": "https://www.lanacion.com.ar/economia/campo/federico-sturzenegger-hablo-de-una-casta-naviera-pesquera-y-en-el-sector-le-respondieron-innecesario-nid24112026/",
-   "fecha": "2026-11-24T13:12:34-03:00",
-   "resumen": "El ministro de Desregulación sostuvo que la industria tiene “una deuda con la sociedad argentina” y volvió a defender la licitación de las cuotas de captura; los empresarios reivindicaron el aporte del sector en divisas, empleo y tributos",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.72,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "El dólar superó por primera vez los $1.600 en el Banco Nación y alcanzó precios récord en todos los segmentos",
-   "url": "https://www.infobae.com/economia/2026/11/24/el-dolar-supera-los-1600-en-el-banco-nacion-y-alcanza-precios-record-en-todos-los-segmentos/",
-   "fecha": "2026-11-24T16:48:20-03:00",
-   "resumen": "El dólar mayorista ganó 13 pesos, en los $1.593. El “contado con liqui” siguió cerca de la barrera de los $1.800. El BCRA no intervino en el mercado",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.59,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Qué tasa pagan las pymes para financiarse en el mercado de capitales",
-   "url": "https://www.infobae.com/economia/2026/11/24/que-tasa-pagan-las-pymes-para-financiarse-en-el-mercado-de-capitales/",
-   "fecha": "2026-11-24T13:52:26-03:00",
-   "resumen": "El costo del crédito mostró una nueva suba mensual, aunque continúa muy por debajo de los niveles registrados en octubre del año pasado",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.11,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Un funcionario de Caputo atribuyó la suba del riesgo país al contexto global y negó que el aumento del dólar impacte en la inflación",
-   "url": "https://www.infobae.com/economia/2026/11/23/un-funcionario-de-caputo-atribuyo-la-suba-del-riesgo-pais-al-contexto-global-y-nego-que-el-aumento-del-dolar-impacte-en-la-inflacion/",
-   "fecha": "2026-11-23T18:14:09-03:00",
-   "resumen": "Federico Furiase sostuvo, además, que el superávit fiscal y las fuentes de financiamiento disponibles permiten cubrir las necesidades de 2026 y 2027 sin recurrir a los mercados internacionales de deuda",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 5.04,
-   "medios": [
-    "Clarin.com",
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Las exportaciones de maíz aumentaron 41% en el año y superaran a las de Brasil",
-   "url": "https://www.infobae.com/economia/2026/11/24/las-exportaciones-de-maiz-aumentaron-41-en-el-ano-y-superaran-a-las-de-brasil/",
-   "fecha": "2026-11-24T18:16:37-03:00",
-   "resumen": "La comercialización del cereal mantiene un ritmo adelantado respecto del promedio histórico, aunque la caída de los precios internacionales desaceleró las ventas de los productores",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.99,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "Las exportaciones agroindustriales superaron los USD 47.800 millones hasta octubre: cuáles fueron los productos ganadores",
-   "url": "https://www.infobae.com/economia/2026/11/24/las-exportaciones-agroindustriales-superaron-los-usd-47800-millones-hasta-octubre-cuales-fueron-los-productos-ganadores/",
-   "fecha": "2026-11-24T12:39:16-03:00",
-   "resumen": "Las ventas externas del sector superaron en casi USD 6.000 millones las de igual período de 2025, que implica 14,2 por ciento",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.91,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "La economía argentina entró en recesión: qué sectores cayeron y qué puede pasar con el empleo y el consumo",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUpUYW41VlcwMEx5b0FLaVZ6dzVMS2FiZTI0ajNKWVR6MTdQcGJmcXJCYUlodlFPOTROUnpnUHlBZ0RUNGlZSkc4R3JTSFhBMmZrSTBXbWVQTGRQTnlZWnBXRnU4TWMwN3hHbnE5Z08tUFJFcGV5RjJMSndCMHpQU0s0Y052U2p6Z3VWRlJyRUVNdk4wNExEU3ZPTjVBbDc2QzNSVnhxVmZZajdHNXByMzZNU1pCQnZfVDFqdmpGNTVnWDJtX3lJNDhTTGFhWEd2SEl3RTBFUUtQRkpyZ1o1dXZBSQ?oc=5",
-   "fecha": "2026-11-24T17:41:52-03:00",
-   "resumen": "La economía argentina entró en recesión: qué sectores cayeron y qué puede pasar con el empleo y el consumo    Canal 9 Televida",
-   "medio": "Canal 9 Televida",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.91,
-   "medios": [
-    "Canal 9 Televida"
-   ]
-  },
-  {
-   "titulo": "Récord histórico de la carne vacuna: las exportaciones aportaron US$4316,6 millones y marcaron un hito para el país",
-   "url": "https://www.lanacion.com.ar/economia/campo/historico-llegaron-us43166-millones-con-las-exportaciones-de-carne-vacuna-un-valor-record-nid24112026/",
-   "fecha": "2026-11-25T00:09:08-03:00",
-   "resumen": "Por los buenos precios de exportación, entre enero y octubre pasado el monto vendido al exterior subió un 36,4% respecto de igual período de 2025",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.84,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "Plazo fijo: cuál es la tasa de interés banco por banco este martes 24 de noviembre",
-   "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-martes-24-de-noviembre-nid24112026/",
-   "fecha": "2026-11-24T11:19:01-03:00",
-   "resumen": "El Banco Central de la República Argentina (BCRA) permite a los ahorristas conocer el rendimiento de estos instrumentos de inversión en pesos con una tabla comparativa de tasas",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.7,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "La economía creció 1,1% en septiembre y estiman que cayó en recesión técnica",
-   "url": "https://www.lanacion.com.ar/economia/la-economia-crecio-11-en-septiembre-y-estiman-que-cayo-en-recesion-nid24112026/",
-   "fecha": "2026-11-24T16:05:19-03:00",
-   "resumen": "Pese al repunte mensual, en el tercer trimestre la actividad retrocedió 1,8%, según cálculos de economistas a partir del EMAE del Indec; diez de los 15 sectores que releva el organismo registraron bajas",
-   "medio": "La Nación",
-   "fuente": "La Nación",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.69,
-   "medios": [
-    "La Nación"
-   ]
-  },
-  {
-   "titulo": "Efecto motosierra: cayó la actividad económica y Argentina entró en recesión",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3hMQ0RkY3RIUjdObG5hYzJtckJCVFJvckhGMHFmZTh1NnlDSkpsSXZxVTRCTWN5MVd2UEdqYU42bGxPUVIzc29RbXNLSkc2dUVLZ2lZbWlfeXZDb3Y2RkpsZWVHSzFWQjRfMHp0UWhOSUdPeU5ac0lKdUhOejVJNWRsMFh4NzQ5RDVUYW52RlgtQ0FsRER3ZEtneWRpX1V6UVJmX2lFSC03bGNma1lj?oc=5",
-   "fecha": "2026-11-24T18:31:23-03:00",
-   "resumen": "Efecto motosierra: cayó la actividad económica y Argentina entró en recesión    Noticias Urbanas",
-   "medio": "Noticias Urbanas",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.52,
-   "medios": [
-    "Caleta Olivia",
-    "Medio de comunicación digital",
-    "Noticias Urbanas"
-   ]
-  },
-  {
-   "titulo": "El INDEC revela si la actividad económica entró en recesión técnica tras dos trimestres en caída",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnJrb0NWSEd1aUJoYkxxa1NFWUkyOFVQdjFZTmN1RUJHRXpnTjQzQ0k5R3ItNC1wRG9QbF9VdkxEZU41Umw2aWVUSnFZdDRYQ25VTnVFUzZRLTZ5V2NMOE1IbDRLYjE0d2x0cWVpdXIxR1pvUHlxbTEzQ1lrZ3NFb3F5MnYydkdXYjFEZUlWZEVla095dTBKMlBXSXRRRDRUVFdZajF3QV82YzlSQVJjVUd4dmpsWUE3VzFBOGdpbXhHOE1O0gHKAUFVX3lxTE9XUnpyRVRWeFE3MWY5SnVfODVET1VKR3VJeFQ4blF5QUI3YThFX2kxOGN3bE5HVnRhZ1hnOVNWbTgyTlZ2UVdDWW9RendnVEhPWFBTM0NTeThLYk42bVpQMFdxbGJTOTNIbHJUM01idGxYeVBGYlk1dnVxM1VocjFxSUlMNEJlcHZjcmFWZHQxRmI2elBfWmlQRDI4WjVtSWdTTmJvYVlhcFZSeTJIV3BudTlpSkRNU09oUy11RVpUeU5rNjlFRjdtdnc?oc=5",
-   "fecha": "2026-11-24T08:14:00-03:00",
-   "resumen": "El INDEC revela si la actividad económica entró en recesión técnica tras dos trimestres en caída    0221",
-   "medio": "0221",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 4.5,
-   "medios": [
-    "0221"
-   ]
-  },
-  {
-   "titulo": "Volvieron a caer los bonos argentinos y el riesgo país regresó a la zona de los 1.100 puntos básicos",
-   "url": "https://www.infobae.com/economia/2026/11/24/vuelven-a-caer-los-bonos-argentinos-y-el-riesgo-pais-toca-su-nivel-mas-alto-del-ano/",
-   "fecha": "2026-11-24T18:18:38-03:00",
-   "resumen": "Mientras que Wall Street atravesó una toma de ganancias después del fuerte salto de los precios de los activos el lunes, los bonos Globales de Argentina cayeron 2,% y el indicador de JP Morgan escaló 62 unidades, a 1.094 puntos",
-   "medio": "Infobae",
-   "fuente": "Infobae",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 4.16,
-   "medios": [
-    "Infobae"
-   ]
-  },
-  {
-   "titulo": "La economía argentina, en alerta: riesgo país en 1071 y el dólar a $1605",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOd2FwVU1CeDBYYkExb2xRS25XdU41MFhIOUc1R0tEcDdZR1JDY1RudS04cGt1c3V1YnBJOXJLSHMxWUg0UHRCbzVxaktVLTkyc051S29XdzVSMzMwdDRTaWU3UTJpSXJLeDgyVHNCWU9NS3NHRERDUk5BdWQ2UFpXQjV0enZFSzA3SmU5aElkUzcxdkRxOWxpa3lJaGxOY0FlUWEyT09yaExaazhteGRSWGlUTGdVVGZpNG1nNTE5Y1UwY09GUWFUVWVPZGVJcVhoTXhJSl9WWWNoZlhHbXF0Mi1RZkFzN1lvSEg1M19qbVV0T0g3REZYdzI5ZmJjbk9F?oc=5",
-   "fecha": "2026-11-24T12:01:00-03:00",
-   "resumen": "La economía argentina, en alerta: riesgo país en 1071 y el dólar a $1605    Diario El Día de La Plata",
-   "medio": "Diario El Día de La Plata",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 4.12,
-   "medios": [
-    "Diario El Día de La Plata"
-   ]
-  },
-  {
-   "titulo": "El Gobierno sostiene que ahorra US$ 3.491 millones al año por el recorte en empleo público",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXF1UDl1T3hTTW9xc0puTHE2VFpCX3Vkdk4tVzZFTG16WGtlZGRBM2hTYm5qWHJtQml2U3AzX0kwZ0JVcDRnS1ZOYXRJbXRuRThzdkotVzdZRGxPV1doOGRUWW53TDFvMzZHQV84UlhaUXQwZnNxSi00STBadXdJX1A2TUViZWdlVm1wM0Y0QzFGUlN0V1dXTkgyUFREejFDeWNRUUM5VEhVaXF4UHRiV1VsZURXVzdxbVBveFVhdkQ4SU9MRmc?oc=5",
-   "fecha": "2026-11-24T15:00:00-03:00",
-   "resumen": "El Gobierno sostiene que ahorra US$ 3.491 millones al año por el recorte en empleo público    Los Andes",
-   "medio": "Los Andes",
-   "fuente": "Los Andes (GN)",
-   "categoria": "local",
-   "solo_mendoza": false,
-   "alcance": "mendoza",
-   "score": 3.97,
-   "medios": [
-    "Clarin.com",
-    "Los Andes"
-   ]
-  },
-  {
-   "titulo": "El INDEC confirma la recesión económica: Argentina acumula dos trimestres consecutivos de caída",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUm92VWJlWkpGd3dKQkdHbk5Qd3Q2Y2J0MjF3eEVndmViWWN1eEpUT3cxcjdKd3dQNmFUT1lyejZ3NDgzeVpadkZBeTQ5OEY3N2FoUE00MjJVenVZMVlaMDlXczNKWWJtYmU0ekJUd0k1ZU1Tcm1fYUhhZk5GMkdMMUxmSzNyQl9od3lIMHJmdTA3R0ZLLThRYTNNQ2RZdk9tTWFJMElmWjRjYWtKeG4xaGZpZmpiSzR6UEloMGg3Sy1seTBlU2E0ektGZVgxTlZic2dHaFlFQ0N5WWxNR28tazRKSzlrZw?oc=5",
-   "fecha": "2026-11-24T20:46:51-03:00",
-   "resumen": "El INDEC confirma la recesión económica: Argentina acumula dos trimestres consecutivos de caída    www.telediariodigital.com.ar",
-   "medio": "www.telediariodigital.com.ar",
-   "fuente": "Google News economía argentina",
-   "categoria": "nacional",
-   "solo_mendoza": true,
-   "alcance": "nacional",
-   "score": 3.92,
-   "medios": [
-    "Corta",
-    "Diario Crónica",
-    "El Ancasti",
-    "www.telediariodigital.com.ar"
-   ]
-  },
-  {
-   "titulo": "El Gobierno negó que Argentina esté en recesión y apuesta a una recuperación de la actividad económica",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSlp0S3gzQkktMF9PSlNLVm1idGZPOF91R0JRaTdwLS15UDRubkpjT09QQUpNcEVxaVRxYk9rdV9pcEtlbXNZZmRqdWJoVVBVM0EzbXlSOXQtUGJJR1MtZjdHbGswOEg1QmNfeVBQalhGWkx3bzZGanRnLXFaUjB0SzllSGtNQVMzbVkxMFRqUTZZNUg4VmlHQ1prQmRZOFpmN0lWVGh1U2JlSG1nQ3pRTjYtWV8ycHZRYWxKclRGNmFTa3IxcHMzRWFwa1VRWjBo0gHWAUFVX3lxTE5DZ0ZGb3g2NEtzejNHYjktb2FRVkFDVG1XU3dYMWJ5UTB3QnJ1S3ZxaDJfLTZsMXNkbllUNUdpZFk4M2IzQVBWblZ2UTNhTXR3ZGtvVjdQS2V2OWEwTk9ldVlTMW1wcG5oVVBhVXVfQ1RwNElxMUIxbEtEWVJ4V20ybll0MmFhR0lycU5CZmFILVpYX21ncWJxZmlWUGNPYUlJa25VUUlqcF9EbVFkOF9EZENIUkxHSWgwWHFOZXVlUVFsMURQOERwVEVYT0tjNGZrVV8yNEE?oc=5",
-   "fecha": "2026-11-24T19:42:28-03:00",
-   "resumen": "El Gobierno negó que Argentina esté en recesión y apuesta a una recuperación de la actividad económica    0221",
-   "medio": "0221",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 3.89,
-   "medios": [
-    "0221"
-   ]
-  },
-  {
-   "titulo": "Los peores seis meses de Javier Milei: el INDEC confirmó la recesión y la economía solo crecerá por arrastre",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdFFIcmVUV0NobnBxcm1aUS1nNVZiWDV5M1JaaTFHUlV1SHBZNWVFMmVUN25CUEEtX2p6c1pyVXhmdF9pUjQtT1FhZHEwQkcwU0FVSGFvb3R1cG9VRE4yVjZUaUhrYnQtWTc0dF9wTXhRaW0tLW45OFZkcm5TR1lhbnFMLUZuSVJ1bGQtMkMyN2RXQkVMLW9ydk93Vnl3ekN4RUFuNEJwWHNfLVB6dW85WWRUVFhESEt2clFQQzExeGpqS0dabVV5SVVqLWdZb3E5RjNzTHBmUUlQMkFjUGNQb29IUWxMODhpaDZzVDNCV0FWQQ?oc=5",
-   "fecha": "2026-11-24T18:46:00-03:00",
-   "resumen": "Los peores seis meses de Javier Milei: el INDEC confirmó la recesión y la economía solo crecerá por arrastre    Letra P",
-   "medio": "Letra P",
-   "fuente": "INDEC/BCRA (GN)",
-   "categoria": "oficial",
-   "solo_mendoza": false,
-   "alcance": "nacional",
-   "score": 3.8,
-   "medios": [
-    "Letra P"
-   ]
-  },
-  {
-   "titulo": "La actividad económica de Argentina avanza el 1,1 % intermensual en septiembre",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd3JpSkg2TlFCTXJZQ0lyeEJ2djhMVF9FblVqRzJMRFRWdXZOWmtoUmRyNEhxbUJDcGo1S3p3ZnpCNkJMS3dBaW01dVBZYnZ2UFg1bTJ4ekdIUUJqT2g4d3cyek45bjRZakdDdkVmSlRyWUoxRXlXUjdPVzFXeEdXTlVzT2VwZmJlVmo1S214TnpwTk5vN19MWFp3bUNJQQ?oc=5",
-   "fecha": "2026-11-24T20:06:29-03:00",
-   "resumen": "La actividad económica de Argentina avanza el 1,1 % intermensual en septiembre    HolaNews",
-   "medio": "HolaNews",
-   "fuente": "Google News economía argentina",
+   "titulo": "Presupuesto 2026: una mayor inflación a la prevista obligó al Gobierno a recalcular mayores gastos e ingresos",
+   "url": "https://www.ambito.com/economia/presupuesto-2026-una-mayor-inflacion-la-prevista-obligo-al-gobierno-recalcular-mayores-gastos-e-ingresos-n6348548",
+   "fecha": "2026-11-24T13:13:00-03:00",
+   "resumen": "Se trata de la Administración Pública Nacional (APN). La última modificación presupuestaria reflejó el impacto de la persistencia inflacionaria en los gastos que ajustan por IPC y en la recaudación.  ",
+   "medio": "Ámbito",
+   "fuente": "Ámbito",
    "categoria": "nacional",
    "solo_mendoza": true,
    "alcance": "nacional",
    "score": 3.67,
    "medios": [
-    "Agencia de noticias",
-    "HolaNews"
+    "Ámbito"
    ]
   }
  ]
